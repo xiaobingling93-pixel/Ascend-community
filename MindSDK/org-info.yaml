@@ -1,0 +1,96 @@
+name: MindSDK
+description: 提供昇腾AI处理器加速的各类AI软件开发套件（SDK），提供极简易用的API，加速高性能AI应用的开发，赋能千行百业。
+tc_members:
+  - gitcode_id: edmund_hu
+    name: 胡德鹏
+    email: hudepeng2@huawei.com
+  - gitcode_id: chenyuanming008
+    name: 陈元明
+    email: chenyuanming3@huawei.com
+  - gitcode_id: tands7
+    name: 于书苹
+    email: yushuping@huawei.com
+  - gitcode_id: SoberMinded
+    name: 冯建清
+    email: fengjianqing@h-partners.com
+  - gitcode_id: dd5577854
+    name: 狄啸
+    email: dixiao1@hisilicon.com
+  - gitcode_id: Ascend_ljx
+    name: 李家兴
+    email: lijiaxing29@huawei.com
+  - gitcode_id: yihao1234
+    name: 易浩
+    email: yihao6@huawei.com
+  - gitcode_id: lirui2381
+    name: 李睿
+    email: lirui238@huawei.com
+  - gitcode_id: simmerchan
+    name: 黄诗磊
+    email: huangshilei3@huawei.com
+  - gitcode_id: j0168
+    name: 蒋皓洋
+    email: jianghaoyang@huawei.com
+  - gitcode_id: xiangjie10
+    name: 向杰
+    email: xiangjie9@huawei.com
+  - gitcode_id: yukunQin
+    name: 秦钰昆
+    email: qinyukun@huawei.com
+  - gitcode_id: mywaaagh_admin
+    name: 李超然
+    email: lichaoran1@huawei.com
+
+sigs:
+  - sig_name: mindsdk-referenceapps
+    maintainers: 
+      - gitcode_id: dd5577854
+        name: 狄啸
+        email: dixiao1@hisilicon.com
+      - gitcode_id: bling_728
+        name: 毕蕾
+        email: bilei5@huawei.com
+      - gitcode_id: dailydeath
+        name: 高航
+        email: gaohang34@h-partners.com
+      - gitcode_id: wangyongjun
+        name: 王永俊
+        email: wangyongjun7@huawei.com
+      - gitcode_id: yihao123
+        name: 易浩
+        email: yihao6@huawei.com
+      - gitcode_id: chasefhb
+        name: 付泓犇
+        email: fuhongben@huawei.com
+      - gitcode_id: qq_49061685
+        name: 樊威
+        email: fanwei51@h-partners.com
+  - sig_name: RecSDK
+    maintainers: 
+      - gitcode_id: simmerchan
+        name: 黄诗磊
+        email: huangshilei3@huawei.com
+      - gitcode_id: zhouyubuzhaozhong
+        name: 郝日佩
+        email: haoripei@huawei.com
+      - gitcode_id: yangzhen92a
+        name: 杨震
+        email: yangzhen59@huawei.com
+      - gitcode_id: pluto1314
+        name: 张源川
+        email: zhangyuanchuan@huawei.com
+      - gitcode_id: j0168
+        name: 蒋皓洋
+        email: jianghaoyang@huawei.com
+      - gitcode_id: xiangpx
+        name: 项攀宵
+        email: xiangpanxiao@huawei.com
+      - gitcode_id: qq583083658
+        name: 曾伟
+        email: xavier.zengwei@huawei.com
+      - gitcode_id: li-da-xiong
+        name: 李雄
+        email: lixiong51@huawei.com
+      - gitcode_id: tvvvvvvvv
+        name: 王腾伟
+        email: wangtengwei@h-partners.com

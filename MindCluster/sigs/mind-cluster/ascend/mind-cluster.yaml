@@ -1,0 +1,12 @@
+name: mind-cluster
+type: private
+branches:
+  - name: master
+  - name: branch_v7.0.RC1
+  - name: branch_v7.1.RC1
+  - name: branch_v6.0.0
+  - name: slownode
+  - name: fault-diag-online
+  - name: branch_v7.1.0POC
+  - name: branch_v6.0.RC3
+  - name: branch_v5.0.0

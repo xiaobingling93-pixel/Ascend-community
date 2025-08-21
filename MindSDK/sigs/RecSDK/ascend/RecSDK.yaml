@@ -1,0 +1,25 @@
+name: RecSDK
+type: private
+branches:
+  - name: br_20250821_tf_rev_v1_ut_fix
+  - name: RecSDK-Refactoring
+  - name: develop
+  - name: develop_torch_benchmark
+  - name: develop_embcache
+  - name: master
+  - name: sync-dev
+  - name: subnet_pattern
+  - name: revert-merge-751-develop
+  - name: lccl-new
+  - name: lccl
+  - name: develop_tf_xla_npu
+  - name: develop_for_security
+  - name: branch_v7.1.0-RC1
+  - name: branch_v7.0.0-RC1
+  - name: branch_v7.0.0-POC_torch
+  - name: branch_v7.0.0-POC_pciethrough
+  - name: branch_v7.0.0-POC
+  - name: branch_v6.0.0-RC3
+  - name: branch_v6.0.0-RC2
+  - name: branch_v6.0.0-RC1
+  - name: branch_v6.0.0
