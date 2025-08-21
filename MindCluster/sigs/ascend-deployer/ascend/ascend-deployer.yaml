@@ -1,0 +1,15 @@
+name: ascend-deployer
+type: private
+branches:
+  - name: dev
+  - name: 7.1.RC1
+  - name: master
+  - name: deepseek
+  - name: 7.0.RC1
+  - name: 6.0.T
+  - name: 6.0.RC3
+  - name: 6.0.RC2_k8s
+  - name: 6.0.RC2
+  - name: 6.0.RC1
+  - name: 6.0.0
+  - name: 5.0.0

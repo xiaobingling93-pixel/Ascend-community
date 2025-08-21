@@ -1,0 +1,16 @@
+name: mindxdl-deploy
+type: private
+branches:
+  - name: master
+  - name: branch_v7.1.RC1
+  - name: branch_v7.0.0-RC1
+  - name: branch_v6.0.0-RC3
+  - name: branch_v6.0.0-RC2
+  - name: branch_v6.0.0-RC1
+  - name: branch_v6.0.0
+  - name: branch_V5.0.RC2
+  - name: 2022930-V3.0.RC3
+  - name: 2022630-V3.0.RC2
+  - name: 2022330-V3.0.RC1
+  - name: 20211230-v2.0.4
+  - name: 20210330-V2.0.1-bugfix

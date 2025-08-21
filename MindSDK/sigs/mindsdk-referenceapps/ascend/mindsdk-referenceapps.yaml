@@ -1,0 +1,5 @@
+name: mindsdk-referenceapps
+type: private
+branches:
+  - name: master
+  - name: Agent_merge_branch

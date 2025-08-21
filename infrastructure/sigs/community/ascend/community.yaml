@@ -1,0 +1,6 @@
+name: community
+description: "Community 仓库是昇腾（Ascend）社区的核心管理仓库，用于实现组织级权限的统一管理。通过层级化的目录结构和配置文件，实现对项目、SIG组、代码仓库及成员权限的规范化管理。"
+type: private
+branches:
+  - name: master
+    type: protected

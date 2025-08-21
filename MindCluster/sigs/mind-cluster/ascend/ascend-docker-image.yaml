@@ -1,0 +1,4 @@
+name: ascend-docker-image
+type: private
+branches:
+  - name: dev
