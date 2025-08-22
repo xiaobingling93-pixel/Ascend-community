@@ -5,6 +5,11 @@
 欢迎来到 Ascend 社区！本文档旨在为不同角色的社区成员提供清晰的操作指南。无论您是代码贡献者、SIG maintainer，还是项目TC成员，都可以在此找到对应的协作流程。
 ![](./figures/guide.png)
 
+### 如何签署Ascend社区贡献者许可协议CLA
+在参与社区贡献前，您需要签署[Ascend社区贡献者许可协议（CLA）](https://clasign.osinfra.cn/sign/gitee_ascend-1611222220829317930)
+- **个人贡献者**：请选择“签署个人CLA”
+- **企业**：请选择“签署法人CLA”
+- **企业员工**：请选择“法人贡献者登记”，签署后会收到主题是`Signing CLA on project of xx`的邮件，请联系邮件内容里的`Corporation Managers`进行审批
 
 ### 开发者如何贡献代码
 
@@ -83,7 +88,18 @@
     - `lgtm`：请联系 `org-info.yaml` 中该 SIG 组的 **maintainers** 进行评审。评审通过后，由 maintainer 评论 `/lgtm`
     - `approved`：同样联系该 SIG 组的 **maintainers** 进行批准。批准后，由 maintainer 评论 `/approve`
 
-> **⚠️ 注意事项**：如果某个 SIG 组只有一位 maintainer，则修改 `sig-info.yaml` 文件的 PR **必须由非 maintainer 的成员**提交，以避免无法通过 `/lgtm` 和 `/approve` 指令添加标签的情况
+> **⚠️ 注意事项**：如果某个 SIG 组只有一位 maintainer，则新增或者修改 `repo-info.yaml` 文件的 PR **必须由非 maintainer 的成员**提交，以避免无法通过 `/lgtm` 和 `/approve` 指令添加标签的情况
+
+### 如何撤销已添加的标签
+- 撤销`ascend-cla/yes`标签：仓库管理员评论 `/cla-cancel`
+- 撤销`/lgtm`标签：Reviewer、Committer、maintainer或者tc_member评论 `/lgtm cancel`
+- 撤销`approved`标签：Committer、maintainer或者tc_member评论 `/approve cancel`
+
+### 如何主动触发检查PR commits 中的邮箱是否签署CLA协议
+评论`/check-cla`触发检查CLA协议
+
+### 如何主动触发检查PR是否满足条件合入
+评论`/check-pr`触发检查
 
 ---
 希望本指南能帮助您更顺畅地参与 Ascend 社区贡献。
