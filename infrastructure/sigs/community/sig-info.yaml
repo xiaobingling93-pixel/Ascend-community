@@ -20,3 +20,4 @@ reviewers:
 repositories:
 - repo:
   - Ascend/community
+  - Ascend/infrastructure
