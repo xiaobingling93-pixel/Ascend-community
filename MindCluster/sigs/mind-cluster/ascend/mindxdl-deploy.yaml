@@ -1,16 +1,29 @@
 name: mindxdl-deploy
-type: private
+type: public
 branches:
   - name: master
+    type: protected
   - name: branch_v7.1.RC1
+    type: protected
   - name: branch_v7.0.0-RC1
+    type: protected
   - name: branch_v6.0.0-RC3
+    type: protected
   - name: branch_v6.0.0-RC2
+    type: protected
   - name: branch_v6.0.0-RC1
+    type: protected
   - name: branch_v6.0.0
+    type: protected
   - name: branch_V5.0.RC2
+    type: protected
   - name: 2022930-V3.0.RC3
+    type: protected
   - name: 2022630-V3.0.RC2
+    type: protected
   - name: 2022330-V3.0.RC1
+    type: protected
   - name: 20211230-v2.0.4
+    type: protected
   - name: 20210330-V2.0.1-bugfix
+    type: protected

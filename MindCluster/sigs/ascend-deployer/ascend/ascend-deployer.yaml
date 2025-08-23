@@ -1,15 +1,27 @@
 name: ascend-deployer
-type: private
+type: public
 branches:
-  - name: dev
-  - name: 7.1.RC1
   - name: master
+    type: protected
+  - name: dev
+    type: protected
   - name: deepseek
+    type: protected
+  - name: 7.1.RC1
+    type: protected
   - name: 7.0.RC1
+    type: protected
   - name: 6.0.T
+    type: protected
   - name: 6.0.RC3
+    type: protected
   - name: 6.0.RC2_k8s
+    type: protected
   - name: 6.0.RC2
+    type: protected
   - name: 6.0.RC1
+    type: protected
   - name: 6.0.0
+    type: protected
   - name: 5.0.0
+    type: protected

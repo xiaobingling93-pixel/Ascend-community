@@ -1,12 +1,20 @@
 name: mind-cluster
-type: private
+type: public
 branches:
   - name: master
-  - name: branch_v7.0.RC1
-  - name: branch_v7.1.RC1
-  - name: branch_v6.0.0
+    type: protected
   - name: slownode
   - name: fault-diag-online
+    type: protected
+  - name: branch_v7.1.RC1
+    type: protected
   - name: branch_v7.1.0POC
+    type: protected
+  - name: branch_v7.0.RC1
+    type: protected
   - name: branch_v6.0.RC3
+    type: protected
+  - name: branch_v6.0.0
+    type: protected
   - name: branch_v5.0.0
+    type: protected

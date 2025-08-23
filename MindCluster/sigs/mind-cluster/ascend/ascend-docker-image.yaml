@@ -1,4 +1,5 @@
 name: ascend-docker-image
-type: private
+type: public
 branches:
   - name: dev
+    type: protected
