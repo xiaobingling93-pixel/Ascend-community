@@ -1,0 +1,91 @@
+name: FrameworkPTAdapter
+description: 昇腾平台提供了PyTorch适配插件Ascend Extension for PyTorch，使得原生PyTorch模型可以方便的在昇腾平台上执行。
+tc_members:
+  - gitcode_id: qingfenxiaochong1
+    name: 韩俊
+    email: hanjun20@huawei.com
+  - gitcode_id: wujianping996
+    name: 吴建平
+    email: wujianping.2006@163.com
+  - gitcode_id: 
+    name: 李晶
+    email: lijing202@huawei.com
+  - gitcode_id: liwei386
+    name: 李伟
+    email: liwei386@huawei.com
+  - gitcode_id: jializheng1
+    name: 郑加利
+    email: jializheng@huawei.com
+  - gitcode_id: dingzicha1997
+    name: 丁子霖
+    email: dingzilin@huawei.com
+  - gitcode_id: ghoshaw
+    name: 陈志国
+    email: chenzhiguo6@huawei.com
+  - gitcode_id: 
+    name: 潘晨毅
+    email: panchenyi2@huawei.com
+  - gitcode_id: captainjing
+    name: 靖深进
+    email: jingshenjin@huawei.com
+  - gitcode_id: jihuazhong
+    name: 季华忠
+    email: jihuazhong1@huawei.com
+  - gitcode_id: fightingzhen
+    name: 丛臻
+    email: congzhen@huawei.com
+  - gitcode_id: wangchao430
+    name: 王超
+    email: wangchao430@huawei.com
+  - gitcode_id: fengshuxin
+    name: 封舒鑫
+    email: fengshuxin@huawei.com
+  - gitcode_id: dilililiwhy
+    name: 吴环宇
+    email: why.wuhuanyu@huawei.com
+
+sigs:
+  - sig_name: pytorch
+    maintainers: 
+      - gitcode_id: liwei386
+        name: 李伟
+        email: liwei386@huawei.com
+      - gitcode_id: shaoyf
+        name: 邵逸凡
+        email: shaoyifan1@huawei.com
+      - gitcode_id: wangchao430
+        name: 王超
+        email: wangchao430@huawei.com
+      - gitcode_id: yanpengquan
+        name: 闫鹏全
+        email: yanpengquan@huawei.com
+      - gitcode_id: dilililiwhy
+        name: 吴环宇
+        email: why.wuhuanyu@huawei.com
+  - sig_name: MindSpeed
+    maintainers: 
+      - gitcode_id: fengliangjun
+        name: 冯良骏
+        email: fengliangjun@huawei.com
+      - gitcode_id: jializheng1
+        name: 郑加利
+        email: jializheng@huawei.com
+      - gitcode_id: leizhenzhen23
+        name: 雷珍珍
+        email: leizhenzhen4@huawei.com
+  - sig_name: DrivingSDK
+    maintainers: 
+      - gitcode_id: hua-yuxiu
+        name: 华郁秀
+        email: huayuxiu1@huawei.com
+      - gitcode_id: zhangchenrui2
+        name: 张宸瑞
+        email: zhangchenrui2@huawei.com
+  - sig_name: openMind
+    maintainers: 
+      - gitcode_id: Ginray1
+        name: 孙银磊
+        email: 18667882700@163.com
+      - gitcode_id: jihuazhong
+        name: 季华忠
+        email: jihuazhong1@huawei.com
