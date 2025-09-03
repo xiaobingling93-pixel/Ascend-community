@@ -1,0 +1,38 @@
+name: openMind
+description: 昇腾大模型开发套件
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/openmind
+  committers:
+  - gitcode_id: fightingzhen
+  - gitcode_id: Ginray1
+  - gitcode_id: calvinhuang
+  reviewers:
+  - gitcode_id: Ginray1
+  - gitcode_id: mamba-chen
+  - gitcode_id: fightingzhen
+  - gitcode_id: calvinhuang
+  - gitcode_id: cheetah-sun
+  - gitcode_id: humphrey0007
+  - gitcode_id: xiaolan_1
+  - gitcode_id: hua-yuxiu
+  - gitcode_id: tongtong0613
+  - gitcode_id: baymax_591
+  - gitcode_id: zhyebin01
+  - gitcode_id: A1waysBeenHere
+- repo:
+  - Ascend/openmind-hub
+  committers:
+  - gitcode_id: Ginray1
+  - gitcode_id: jihuazhong
+  reviewers:
+  - gitcode_id: Ginray1
+  - gitcode_id: mamba-chen
+  - gitcode_id: fightingzhen
+  - gitcode_id: calvinhuang
+  - gitcode_id: jihuazhong

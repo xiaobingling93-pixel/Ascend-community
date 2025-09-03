@@ -1,0 +1,98 @@
+name: MindSpeed
+description: 昇腾大模型训练加速解决方案
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/MindSpeed
+  committers:
+  - gitcode_id: qingfenxiaochong1
+  - gitcode_id: bingobb
+  - gitcode_id: jializheng1
+  reviewers:
+  - gitcode_id: qingfenxiaochong1
+  - gitcode_id: jializheng1
+  - gitcode_id: ryanyeee
+  - gitcode_id: glhyyz
+  - gitcode_id: bingobb
+  - gitcode_id: RyanWang1022
+  - gitcode_id: zhao-yifan27
+  - gitcode_id: liuzhexu
+  - gitcode_id: htchu
+- repo:
+  - Ascend/MindSpeed-LLM
+  committers:
+  - gitcode_id: fengliangjun
+  - gitcode_id: dilililiwhy
+  - gitcode_id: leizhenzhen23
+  - gitcode_id: htchu
+  reviewers:
+  - gitcode_id: fengliangjun
+  - gitcode_id: leizhenzhen23
+  - gitcode_id: jzh
+  - gitcode_id: guo-xinjie-1
+  - gitcode_id: wucong25
+  - gitcode_id: hankdhr
+  - gitcode_id: glhyyz
+  - gitcode_id: dingzicha1997
+  - gitcode_id: McFlurry
+  - gitcode_id: guozhihua2
+  - gitcode_id: iansheng
+  - gitcode_id: ningbenzhe1
+  - gitcode_id: yanzhixiao
+  - gitcode_id: qyzqyz
+  - gitcode_id: may_feimei
+  - gitcode_id: zhoubeirong
+  - gitcode_id: htchu
+- repo:
+  - Ascend/MindSpeed-MM
+  committers: []
+  reviewers:
+  - gitcode_id: fengliangjun
+  - gitcode_id: qingfenxiaochong1
+  - gitcode_id: fightingzhen
+  - gitcode_id: zhangsheng3771
+  - gitcode_id: chensida
+  - gitcode_id: AZe_404
+  - gitcode_id: js1234567
+  - gitcode_id: ghoshaw
+  - gitcode_id: HANHU1CHEN
+  - gitcode_id: htchu
+- repo:
+  - Ascend/MindSpeed-RL
+  committers:
+  - gitcode_id: fengliangjun
+  - gitcode_id: leizhenzhen23
+  - gitcode_id: Ginray1
+  - gitcode_id: ningbenzhe1
+  - gitcode_id: zhoubeirong
+  reviewers:
+  - gitcode_id: fengliangjun
+  - gitcode_id: Ginray1
+  - gitcode_id: leizhenzhen23
+  - gitcode_id: jzh
+  - gitcode_id: guo-xinjie-1
+  - gitcode_id: wucong25
+  - gitcode_id: hankdhr
+  - gitcode_id: glhyyz
+  - gitcode_id: dingzicha1997
+  - gitcode_id: McFlurry
+  - gitcode_id: guozhihua2
+  - gitcode_id: ningbenzhe1
+  - gitcode_id: qyzqyz
+  - gitcode_id: may_feimei
+  - gitcode_id: zhoubeirong
+  - gitcode_id: shuzeng
+  - gitcode_id: ghoshaw
+- repo:
+  - Ascend/apex
+  committers:
+  - gitcode_id: qingfenxiaochong1
+  reviewers:
+  - gitcode_id: qingfenxiaochong1
+  - gitcode_id: jializheng1
+  - gitcode_id: bingobb
+  - gitcode_id: RyanWang1022

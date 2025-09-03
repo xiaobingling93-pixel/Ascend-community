@@ -1,0 +1,88 @@
+name: msit
+description: MindStudio Inference Tools
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - msit
+  committers:
+  - gitcode_id: wowenjie
+  - gitcode_id: panyj1993
+  - gitcode_id: jhon-117
+  - gitcode_id: Kuwatoro
+  - gitcode_id: Martin_M
+  - gitcode_id: yaohan404
+  - gitcode_id: mjsz11
+  - gitcode_id: kun_8
+  - gitcode_id: wangchao285
+  - gitcode_id: pengxiaopeng1
+  - gitcode_id: zderry
+  reviewers:
+  - gitcode_id: Martin_M
+  - gitcode_id: yejiajun
+  - gitcode_id: wangguowei333
+  - gitcode_id: mjsz11
+  - gitcode_id: yaohan404
+  - gitcode_id: jhon-117
+  - gitcode_id: kun_8
+  - gitcode_id: wangchao285
+  - gitcode_id: pengxiaopeng1
+  - gitcode_id: zhengxinqian
+  - gitcode_id: minghang_c
+  - gitcode_id: zderry
+  - gitcode_id: panyj1993
+  entry_configs:
+  - path:
+    - msit
+    committers:
+    - gitcode_id: wowenjie
+    - gitcode_id: jhon-117
+    - gitcode_id: Kuwatoro
+    - gitcode_id: Martin_M
+    - gitcode_id: yaohan404
+    - gitcode_id: panyj1993
+    - gitcode_id: mjsz11
+    - gitcode_id: kun_8
+    - gitcode_id: wangchao285
+    - gitcode_id: pengxiaopeng1
+    - gitcode_id: zderry
+    reviewers:
+    - gitcode_id: Martin_M
+    - gitcode_id: yejiajun
+    - gitcode_id: kun_8
+    - gitcode_id: wangchao285
+    - gitcode_id: pengxiaopeng1
+    - gitcode_id: minghang_c
+    - gitcode_id: yaohan404
+    - gitcode_id: jhon-117
+    - gitcode_id: zhengxinqian
+    - gitcode_id: mjsz11
+    - gitcode_id: zderry
+  - path:
+    - msmodelslim
+    committers:
+    - gitcode_id: wowenjie
+    - gitcode_id: jhon-117
+    - gitcode_id: Kuwatoro
+    - gitcode_id: Martin_M
+    - gitcode_id: panyj1993
+    reviewers:
+    - gitcode_id: Martin_M
+    - gitcode_id: panyj1993
+  - path:
+    - msserviceprofiler
+    committers:
+    - gitcode_id: panyj1993
+    - gitcode_id: jhon-117
+    - gitcode_id: yaohan404
+    - gitcode_id: mjsz11
+    reviewers:
+    - gitcode_id: wangguowei333
+    - gitcode_id: mjsz11
+    - gitcode_id: yaohan404
+    - gitcode_id: jhon-117
+    - gitcode_id: minghang_c
+    - gitcode_id: zhengxinqian

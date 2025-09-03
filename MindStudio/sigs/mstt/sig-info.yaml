@@ -1,0 +1,79 @@
+name: mstt
+description: MindStudio Training Tools
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - mstt
+  committers:
+  - gitcode_id: leo920320
+  - gitcode_id: wowenjie
+  - gitcode_id: xhahn77
+  - gitcode_id: aerfaliang
+  - gitcode_id: wangchao285
+  - gitcode_id: brightly
+  - gitcode_id: chenhao_1209
+  - gitcode_id: ly-qianxiao0309
+  - gitcode_id: blian
+  - gitcode_id: kun_8
+  - gitcode_id: uniteone001
+  - gitcode_id: wqc01202410
+  - gitcode_id: pengxiaopeng1
+  - gitcode_id: zderry
+  reviewers:
+  - gitcode_id: lv-kaimeng
+  - gitcode_id: wowenjie
+  - gitcode_id: ly-qianxiao0309
+  - gitcode_id: leo920320
+  - gitcode_id: Seanesmhxocism
+  - gitcode_id: Kuwatoro
+  - gitcode_id: kali20gakki1
+  - gitcode_id: eejiechu
+  - gitcode_id: chenhao_1209
+  - gitcode_id: uniteone001
+  - gitcode_id: Jian_Daobao
+  - gitcode_id: zhengxinqian
+  - gitcode_id: louyujing
+  - gitcode_id: mnhdxnh
+  - gitcode_id: li-changwei4
+  - gitcode_id: qiangge123a
+  - gitcode_id: qinyyy
+  entry_configs:
+  - path:
+    - debug
+    committers:
+    - gitcode_id: wangchao285
+    - gitcode_id: kun_8
+    - gitcode_id: brightly
+    - gitcode_id: wqc01202410
+    - gitcode_id: pengxiaopeng1
+    - gitcode_id: zderry
+    reviewers:
+    - gitcode_id: lv-kaimeng
+    - gitcode_id: Jian_Daobao
+    - gitcode_id: zhengxinqian
+    - gitcode_id: louyujing
+    - gitcode_id: mnhdxnh
+    - gitcode_id: li-changwei4
+    - gitcode_id: qiangge123a
+  - path:
+    - plugins/tensorboard-plugins
+    committers:
+    - gitcode_id: wowenjie
+    - gitcode_id: ly-qianxiao0309
+    - gitcode_id: leo920320
+    reviewers:
+    - gitcode_id: leo920320
+    - gitcode_id: qinyyy
+  - path:
+    - profiler/msprof_analyze
+    committers:
+    - gitcode_id: xhahn77
+    - gitcode_id: aerfaliang
+    - gitcode_id: chenhao_1209
+    reviewers:
+    - gitcode_id: Seanesmhxocism
+    - gitcode_id: eejiechu

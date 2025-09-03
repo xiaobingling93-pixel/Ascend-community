@@ -1,0 +1,45 @@
+name: DrivingSDK
+description: 昇腾自动驾驶加速套件
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/DrivingSDK
+  committers:
+  - gitcode_id: liuzhexu
+  - gitcode_id: zhangchenrui2
+  - gitcode_id: hua-yuxiu
+  reviewers:
+  - gitcode_id: liuzhexu
+  - gitcode_id: zhuweichen
+  - gitcode_id: wangshihao_2025
+  - gitcode_id: hua-yuxiu
+  - gitcode_id: captainjing
+  - gitcode_id: zhangchenrui2
+  - gitcode_id: zhang_qianqian46
+  entry_configs:
+  - path:
+    - kernels/op_host
+    committers:
+    - gitcode_id: liuzhexu
+    - gitcode_id: hua-yuxiu
+    - gitcode_id: zhangchenrui2
+    reviewers:
+    - gitcode_id: captainjing
+    - gitcode_id: zhang_qianqian46
+    - gitcode_id: zhangchenrui2
+    - gitcode_id: hua-yuxiu
+  - path:
+    - mx_driving/csrc
+    committers:
+    - gitcode_id: liuzhexu
+    - gitcode_id: hua-yuxiu
+    - gitcode_id: zhangchenrui2
+    reviewers:
+    - gitcode_id: captainjing
+    - gitcode_id: zhang_qianqian46
+    - gitcode_id: zhangchenrui2
+    - gitcode_id: hua-yuxiu
