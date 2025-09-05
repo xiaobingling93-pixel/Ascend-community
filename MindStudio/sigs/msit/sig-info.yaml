@@ -7,7 +7,7 @@ committers: []
 reviewers: []
 repositories:
 - repo:
-  - msit
+  - Ascend/msit
   committers:
   - gitcode_id: wowenjie
   - gitcode_id: panyj1993

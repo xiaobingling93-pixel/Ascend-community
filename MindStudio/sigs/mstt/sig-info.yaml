@@ -7,7 +7,7 @@ committers: []
 reviewers: []
 repositories:
 - repo:
-  - mstt
+  - Ascend/mstt
   committers:
   - gitcode_id: leo920320
   - gitcode_id: wowenjie
