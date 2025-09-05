@@ -54,7 +54,7 @@ repositories:
   - gitcode_id: shaoyf
   - gitcode_id: ShaoFeifan
 - repo:
-  - vision
+  - Ascend/vision
   committers:
   - gitcode_id: dilililiwhy
   - gitcode_id: shaoyf
