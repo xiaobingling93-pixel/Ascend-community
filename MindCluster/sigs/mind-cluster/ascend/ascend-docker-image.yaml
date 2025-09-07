@@ -1,4 +1,5 @@
 name: ascend-docker-image
+description: 提供Ascend相关的Dockerfile示例，展示如何创建docker镜像。
 type: public
 branches:
   - name: dev

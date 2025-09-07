@@ -1,4 +1,5 @@
 name: RecSDK
+description: 华为昇腾-MindX 推荐SDK
 type: public
 branches:
   - name: sync-dev

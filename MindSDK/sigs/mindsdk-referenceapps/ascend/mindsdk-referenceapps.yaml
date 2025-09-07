@@ -1,4 +1,5 @@
 name: mindsdk-referenceapps
+description: MindSDK Reference Apps
 type: public
 branches:
   - name: master

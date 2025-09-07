@@ -1,4 +1,5 @@
 name: mind-cluster
+description: mind-cluster 组件代码仓
 type: public
 branches:
   - name: master

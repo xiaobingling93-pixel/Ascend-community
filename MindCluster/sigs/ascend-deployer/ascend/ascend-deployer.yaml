@@ -1,4 +1,5 @@
 name: ascend-deployer
+description: 提供离线安装的Ansible运维示例，用于部署Ascend任务。若有疑问或者建议，请提起issue。
 type: public
 branches:
   - name: master
