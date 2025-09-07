@@ -1,0 +1,41 @@
+name: mstt
+description: 针对训练&大模型场景，提供端到端命令行&可视化调试调优工具，帮助用户快速提高模型开发效率。
+type: public
+branches:
+  - name: pre-research
+  - name: poc
+    type: protected
+  - name: master
+    type: protected
+  - name: br_release_MindStudio_8.1.RC1_TR5_20260623
+  - name: ms-research
+  - name: vscode_plugin
+  - name: visualization
+    type: protected
+  - name: v7.0.RC2
+    type: protected
+  - name: v7.0.RC1
+    type: protected
+  - name: v6.0.RC3
+    type: protected
+  - name: v6.0.0-ATT
+    type: protected
+  - name: tech-projectv2.0
+  - name: revert-merge-4602-pre-research
+  - name: revert-197b3ff
+  - name: poc-tinker
+    type: protected
+  - name: poc-precheck
+  - name: mobile_dev
+    type: protected
+  - name: graph_mode_poc
+  - name: eco_contribution
+  - name: cloud_dev
+    type: protected
+  - name: br_release_MindStudio_8.0.RC1_20260324
+    type: protected
+  - name: br_inspect_MindStudio_8.0.0_ChongMing_20251021
+    type: protected
+  - name: 7.0.RC3
+    type: protected
+  - name: 2012_dev

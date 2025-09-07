@@ -1,0 +1,46 @@
+name: msit
+description: 统一推理工具链入口，提供客户一体化开发工具，支持一站式调试调优。
+type: public
+branches:
+  - name: msserviceprofiler_dev
+  - name: master
+    type: protected
+  - name: br_release_MindStudio_8.1.RC2_TR5_20260624
+    type: protected
+  - name: revert-merge-3339-master
+  - name: reboot
+    type: protected
+  - name: profiler_314
+  - name: pre_research
+    type: protected
+  - name: op25
+  - name: msmodelslim_refactor
+    type: protected
+  - name: feature/auto_tuning
+    type: protected
+  - name: eco_contri
+  - name: dev
+    type: protected
+  - name: br_release_MindStudio_8.0.RC1_20260324
+    type: protected
+  - name: br_noncom_vLLM_8.1.RC2_POC_20251231
+    type: protected
+  - name: br_noncom_pangu_ultra_moe_8.1.RC1_POC_20251231
+    type: protected
+  - name: br_noncom_YDJC_8.1.RC2_POC_20251231
+    type: protected
+  - name: br_noncom_PANGU_8.1.RC2_POC_20251231
+    type: protected
+  - name: br_noncom_MindStudio_8.0.0_POC_20251231
+    type: protected
+  - name: br_inspect_MindStudio_8.0.0_ChongMing_20251021
+    type: protected
+  - name: RC3_POC_ZS_20241215
+  - name: RC3_POC_ZS_20241130
+  - name: 8.0.RC1_ZS2.0_20251230
+    type: protected
+  - name: 8.0.RC1_20250319
+  - name: 7.0.RC4
+    type: protected
+  - name: 7.0.RC3
+    type: protected
