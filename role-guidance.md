@@ -95,7 +95,7 @@
 
 ***
 ### 🔄 如何撤销已添加的标签
-- 撤销`ascend-cla/yes`标签：仓库管理员评论 `/cla-cancel`
+- 撤销`ascend-cla/yes`标签：仓库管理员评论 `/cla cancel`
 - 撤销`/lgtm`标签：Reviewer、Committer、maintainer或者tc_member评论 `/lgtm cancel`
 - 撤销`approved`标签：Committer、maintainer或者tc_member评论 `/approve cancel`
 
