@@ -19,8 +19,8 @@
 
     - `ascend-cla/yes`：**CLA协议检查**。机器人会自动检查您 commits 中的邮箱是否已签署 CLA 协议。若已签署，将添加此标签；若未签署，会添加 `ascend-cla/no` 标签并留言提示
     - `ci-pipeline-passed`：**CI流水线检查**。在 PR 评论区评论 `compile` 以触发 CI。通过后机器人会添加此标签；若失败，则添加 `ci-pipeline-failed` 标签
-    - `lgtm`：**技术评审**。CI 通过后，请联系仓库对应 SIG 组的 `sig-info.yaml` 中指定的 **Reviewers**。需要至少两位 Reviewer 评论 `/lgtm`
-    - `approved`：**最终批准**。CI 通过后，请联系仓库对应 SIG 组的 `sig-info.yaml` 中指定的 **Committers**。需要至少一位 Committer 评论 `/approve`
+    - `lgtm`：**技术评审**。CI 通过后，请联系仓库对应 SIG 组的 `sig-info.yaml` 中指定的 **reviewers**。需要至少两位 reviewer 评论 `/lgtm`
+    - `approved`：**最终批准**。CI 通过后，请联系仓库对应 SIG 组的 `sig-info.yaml` 中指定的 **committers**。需要至少一位 committer 评论 `/approve`
 ***
 
 ### 🎯 如何调整社区 SIG 架构
@@ -96,8 +96,8 @@
 ***
 ### 🔄 如何撤销已添加的标签
 - 撤销`ascend-cla/yes`标签：仓库管理员评论 `/cla cancel`
-- 撤销`/lgtm`标签：Reviewer、Committer、maintainer或者tc_member评论 `/lgtm cancel`
-- 撤销`approved`标签：Committer、maintainer或者tc_member评论 `/approve cancel`
+- 撤销`lgtm`标签：reviewer、committer、maintainer或者tc_member评论 `/lgtm cancel`
+- 撤销`approved`标签：committer、maintainer或者tc_member评论 `/approve cancel`
 
 ***
 ### ⚡ 如何主动触发检查
