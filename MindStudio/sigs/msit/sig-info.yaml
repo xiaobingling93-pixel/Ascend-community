@@ -72,6 +72,10 @@ repositories:
     reviewers:
     - gitcode_id: Martin_M
     - gitcode_id: panyj1993
+    - gitcode_id: rookie_hongchuan
+    - gitcode_id: xiaoheng181
+    - gitcode_id: libarry
+    - gitcode_id: joejoezhou
   - path:
     - msserviceprofiler
     committers:
