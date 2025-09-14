@@ -1,0 +1,16 @@
+name: vision
+description: 本项目开发了Torchvision Adapter插件，用于昇腾适配Torchvision框架。 目前该适配框架增加了对Torchvision所提供的常用算子的支持，提供了基于cv2和基于昇腾NPU的图像处理加速后端以加速图像处理。
+type: public
+branches:
+  - name: v0.9.1-dev
+    type: protected
+  - name: v0.21.0-dev
+    type: protected
+  - name: v0.20.1-dev
+    type: protected
+  - name: v0.16.0-dev
+    type: protected
+  - name: v0.12.0-dev
+    type: protected
+  - name: master
+    type: protected

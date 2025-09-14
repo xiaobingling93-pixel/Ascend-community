@@ -1,0 +1,21 @@
+name: openmind-hub
+type: public
+branches:
+  - name: v1.2.0
+    type: protected
+  - name: v1.1.0
+    type: protected
+  - name: v0.9.1
+    type: protected
+  - name: v0.9
+    type: protected
+  - name: v0.8
+    type: protected
+  - name: v0.7.1
+    type: protected
+  - name: v0.7.0
+    type: protected
+  - name: master
+    type: protected
+  - name: dev
+    type: protected

@@ -1,0 +1,16 @@
+name: MindSpeed-MM
+description: 华为昇腾面向大规模分布式训练的多模态大模型套件，支撑多模态生成、多模态理解。
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: 2.1.0
+    type: protected
+  - name: core_r0.8.0_dev
+    type: protected
+  - name: 2.0.0
+    type: protected
+  - name: 1.0.RC3
+    type: protected
+  - name: 1.0.0
+    type: protected

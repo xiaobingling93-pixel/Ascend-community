@@ -1,0 +1,44 @@
+name: MindSpeed
+description: 昇腾大模型加速库
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: core_r0.8.0
+    type: protected
+  - name: 2.1.0_core_r0.8.0
+    type: protected
+  - name: 2.1.0_core_r0.12.1
+    type: protected
+  - name: revert-merge-2683-2.1.0_core_r0.12.1
+    type: protected
+  - name: revert-merge-2682-master
+    type: protected
+  - name: revert-merge-2526-core_r0.8.0
+    type: protected
+  - name: revert-ee75297
+    type: protected
+  - name: revert-0a7d606
+    type: protected
+  - name: core_r0.9.0
+    type: protected
+  - name: core_r0.7.0
+    type: protected
+  - name: core_r0.6.0
+    type: protected
+  - name: core_r0.10.0
+    type: protected
+  - name: 2.0.0_core_r0.8.0
+    type: protected
+  - name: 1.0.RC3_core_r0.7.0
+    type: protected
+  - name: 1.0.RC3_core_r0.6.0
+    type: protected
+  - name: 1.0.RC2
+    type: protected
+  - name: 1.0.RC1
+    type: protected
+  - name: 1.0.0_core_r0.7.0
+    type: protected
+  - name: 1.0.0_core_r0.6.0
+    type: protected

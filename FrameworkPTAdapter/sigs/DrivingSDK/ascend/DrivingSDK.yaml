@@ -1,0 +1,22 @@
+name: DrivingSDK
+description: 华为昇腾-自动驾驶加速库
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: branch_v7.1.RC1
+    type: protected
+  - name: branch_v7.0.RC1
+    type: protected
+  - name: revert-merge-1413-branch_v7.1.RC1
+    type: protected
+  - name: revert-merge-1410-master
+    type: protected
+  - name: branch_v6.0.0-RC3
+    type: protected
+  - name: branch_v6.0.0-RC2
+    type: protected
+  - name: branch_v6.0.0-RC1
+    type: protected
+  - name: branch_v6.0.0
+    type: protected

@@ -1,0 +1,24 @@
+name: openmind
+description: openMind是一个大模型微调套件，通过命令行接口或SDK原生支持在昇腾NPU上进行微调、推理、评估和部署。
+type: public
+branches:
+  - name: v1.2.0
+    type: protected
+  - name: v1.1.0
+    type: protected
+  - name: v1.0.0
+    type: protected
+  - name: v0.9.1
+    type: protected
+  - name: v0.9
+    type: protected
+  - name: v0.8
+    type: protected
+  - name: v0.7
+    type: protected
+  - name: v0.10-refactor
+    type: protected
+  - name: translate
+    type: protected
+  - name: master
+    type: protected

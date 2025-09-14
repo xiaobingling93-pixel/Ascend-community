@@ -1,0 +1,26 @@
+name: op-plugin
+description: OpPlugin of Ascend Extension for PyTorch
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: 7.1.0
+    type: protected
+  - name: revert-merge-2850-master
+    type: protected
+  - name: revert-merge-2336-master
+    type: protected
+  - name: 7.0.0
+    type: protected
+  - name: 6.0.rc3
+    type: protected
+  - name: 6.0.rc2
+    type: protected
+  - name: 6.0.rc1
+    type: protected
+  - name: 6.0.0
+    type: protected
+  - name: 5.0.rc3
+    type: protected
+  - name: 5.0.0
+    type: protected
