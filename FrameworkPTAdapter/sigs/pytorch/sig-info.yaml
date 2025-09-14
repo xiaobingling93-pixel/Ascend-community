@@ -9,12 +9,16 @@ repositories:
 - repo:
   - Ascend/pytorch
   committers:
+  - gitcode_id: AtlasAccount
+  - gitcode_id: liwei386
   - gitcode_id: aichunzheng
   - gitcode_id: dilililiwhy
   - gitcode_id: chenhao_1209
   - gitcode_id: wangchao430
   - gitcode_id: yanpengquan
   reviewers:
+  - gitcode_id: AtlasAccount
+  - gitcode_id: liwei386
   - gitcode_id: shaoyf
   - gitcode_id: yanpengquan
   - gitcode_id: chenhao_1209
@@ -27,14 +31,22 @@ repositories:
   - gitcode_id: yuhaiyan
   - gitcode_id: wangchao430
   - gitcode_id: zhaozhijie
+  - gitcode_id: duchengkun
+  - gitcode_id: kuhn7
+  - gitcode_id: zhangqiongwen
+  - gitcode_id: huangyunlong2025
+  - gitcode_id: SCh_zx
 - repo:
   - Ascend/op-plugin
   committers:
+  - gitcode_id: liwei386
+  - gitcode_id: shaoyf
   - gitcode_id: dilililiwhy
   - gitcode_id: wangchao430
   - gitcode_id: yanpengquan
   reviewers:
   - gitcode_id: qingfenxiaochong1
+  - gitcode_id: liwei386
   - gitcode_id: shaoyf
   - gitcode_id: yanpengquan
   - gitcode_id: chenhao_1209
@@ -45,20 +57,31 @@ repositories:
   - gitcode_id: zheyiwu
   - gitcode_id: daifu1234567
   - gitcode_id: wangchao430
+  - gitcode_id: zhangqiongwen
+  - gitcode_id: huangyunlong2025
 - repo:
   - Ascend/Tensorpipe
   committers:
+  - gitcode_id: liwei386
   - gitcode_id: dilililiwhy
+  - gitcode_id: wangchao430
+  - gitcode_id: yanpengquan
   reviewers:
   - gitcode_id: yanpengquan
   - gitcode_id: shaoyf
   - gitcode_id: ShaoFeifan
+  - gitcode_id: liwei386
+  - gitcode_id: dilililiwhy
+  - gitcode_id: wangchao430
+  - gitcode_id: huangyunlong2025
 - repo:
   - Ascend/vision
   committers:
+  - gitcode_id: liwei386
   - gitcode_id: dilililiwhy
   - gitcode_id: shaoyf
   reviewers:
+  - gitcode_id: liwei386
   - gitcode_id: dilililiwhy
   - gitcode_id: shaoyf
   - gitcode_id: zhangqiongwen

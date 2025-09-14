@@ -13,7 +13,7 @@ tc_members:
   - gitcode_id: liwei386
     name: 李伟
     email: liwei386@huawei.com
-  - gitcode_id: jializheng1
+  - gitcode_id: JialiZheng1
     name: 郑加利
     email: jializheng@huawei.com
   - gitcode_id: dingzicha1997
@@ -67,20 +67,29 @@ sigs:
       - gitcode_id: fengliangjun
         name: 冯良骏
         email: fengliangjun@huawei.com
-      - gitcode_id: jializheng1
+      - gitcode_id: JialiZheng1
         name: 郑加利
         email: jializheng@huawei.com
       - gitcode_id: leizhenzhen23
         name: 雷珍珍
         email: leizhenzhen4@huawei.com
+      - gitcode_id: htwang
+        name: 王海涛
+        email: wanghaitao60@huawei.com
+      - gitcode_id: dilililiwhy
+        name: 吴环宇
+        email: why.wuhuanyu@huawei.com
   - sig_name: DrivingSDK
     maintainers: 
-      - gitcode_id: hua-yuxiu
+      - gitcode_id: jayhua
         name: 华郁秀
         email: huayuxiu1@huawei.com
       - gitcode_id: zhangchenrui2
         name: 张宸瑞
         email: zhangchenrui2@huawei.com
+      - gitcode_id: dilililiwhy
+        name: 吴环宇
+        email: why.wuhuanyu@huawei.com
   - sig_name: openMind
     maintainers: 
       - gitcode_id: Ginray1
@@ -89,3 +98,6 @@ sigs:
       - gitcode_id: jihuazhong
         name: 季华忠
         email: jihuazhong1@huawei.com
+      - gitcode_id: dilililiwhy
+        name: 吴环宇
+        email: why.wuhuanyu@huawei.com

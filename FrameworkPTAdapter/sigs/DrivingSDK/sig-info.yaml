@@ -11,35 +11,46 @@ repositories:
   committers:
   - gitcode_id: liuzhexu
   - gitcode_id: zhangchenrui2
-  - gitcode_id: hua-yuxiu
+  - gitcode_id: jayhua
   reviewers:
   - gitcode_id: liuzhexu
   - gitcode_id: zhuweichen
   - gitcode_id: wangshihao_2025
-  - gitcode_id: hua-yuxiu
+  - gitcode_id: jayhua
   - gitcode_id: captainjing
   - gitcode_id: zhangchenrui2
   - gitcode_id: zhang_qianqian46
+  - gitcode_id: yuansunshun
+  - gitcode_id: li-tiantian222
+  - gitcode_id: xiao-shaoning
+  - gitcode_id: qiuqiu
+  - gitcode_id: gsx1998
+  - gitcode_id: HHHyyyjjjjj
+  - gitcode_id: zhttjd
+  - gitcode_id: huangyuan64
+  - gitcode_id: xiaohuizhu1037
+  - gitcode_id: zjuxym
+  - gitcode_id: gitdzy
   entry_configs:
   - path:
     - kernels/op_host
     committers:
     - gitcode_id: liuzhexu
-    - gitcode_id: hua-yuxiu
+    - gitcode_id: jayhua
     - gitcode_id: zhangchenrui2
     reviewers:
     - gitcode_id: captainjing
     - gitcode_id: zhang_qianqian46
     - gitcode_id: zhangchenrui2
-    - gitcode_id: hua-yuxiu
+    - gitcode_id: jayhua
   - path:
     - mx_driving/csrc
     committers:
     - gitcode_id: liuzhexu
-    - gitcode_id: hua-yuxiu
+    - gitcode_id: jayhua
     - gitcode_id: zhangchenrui2
     reviewers:
     - gitcode_id: captainjing
     - gitcode_id: zhang_qianqian46
     - gitcode_id: zhangchenrui2
-    - gitcode_id: hua-yuxiu
+    - gitcode_id: jayhua

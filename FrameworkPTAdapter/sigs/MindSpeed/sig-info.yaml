@@ -11,10 +11,10 @@ repositories:
   committers:
   - gitcode_id: qingfenxiaochong1
   - gitcode_id: bingobb
-  - gitcode_id: jializheng1
+  - gitcode_id: JialiZheng1
   reviewers:
   - gitcode_id: qingfenxiaochong1
-  - gitcode_id: jializheng1
+  - gitcode_id: JialiZheng1
   - gitcode_id: ryanyeee
   - gitcode_id: glhyyz
   - gitcode_id: bingobb
@@ -25,6 +25,7 @@ repositories:
 - repo:
   - Ascend/MindSpeed-LLM
   committers:
+  - gitcode_id: wujianping996
   - gitcode_id: fengliangjun
   - gitcode_id: dilililiwhy
   - gitcode_id: leizhenzhen23
@@ -47,9 +48,13 @@ repositories:
   - gitcode_id: may_feimei
   - gitcode_id: zhoubeirong
   - gitcode_id: htchu
+  - gitcode_id: guihaowen666
+  - gitcode_id: sunjunjie1587
+  - gitcode_id: bigdog1206
 - repo:
   - Ascend/MindSpeed-MM
-  committers: []
+  committers:
+  - gitcode_id: htwang
   reviewers:
   - gitcode_id: fengliangjun
   - gitcode_id: qingfenxiaochong1
@@ -61,9 +66,12 @@ repositories:
   - gitcode_id: ghoshaw
   - gitcode_id: HANHU1CHEN
   - gitcode_id: htchu
+  - gitcode_id: htwang
+  - gitcode_id: yangx_sy
 - repo:
   - Ascend/MindSpeed-RL
   committers:
+  - gitcode_id: wujianping996
   - gitcode_id: fengliangjun
   - gitcode_id: leizhenzhen23
   - gitcode_id: Ginray1
@@ -87,12 +95,16 @@ repositories:
   - gitcode_id: zhoubeirong
   - gitcode_id: shuzeng
   - gitcode_id: ghoshaw
+  - gitcode_id: Hcm03
+  - gitcode_id: Minds66
+  - gitcode_id: yezhibei
 - repo:
   - Ascend/apex
   committers:
   - gitcode_id: qingfenxiaochong1
+  - gitcode_id: JialiZheng1
   reviewers:
   - gitcode_id: qingfenxiaochong1
-  - gitcode_id: jializheng1
+  - gitcode_id: JialiZheng1
   - gitcode_id: bingobb
   - gitcode_id: RyanWang1022
