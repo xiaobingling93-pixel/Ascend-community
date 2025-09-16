@@ -12,6 +12,7 @@ repositories:
   - gitcode_id: qingfenxiaochong1
   - gitcode_id: bingobb
   - gitcode_id: JialiZheng1
+  - gitcode_id: gp513
   reviewers:
   - gitcode_id: qingfenxiaochong1
   - gitcode_id: JialiZheng1
@@ -22,6 +23,7 @@ repositories:
   - gitcode_id: zhao-yifan27
   - gitcode_id: liuzhexu
   - gitcode_id: htchu
+  - gitcode_id: gp513
 - repo:
   - Ascend/MindSpeed-LLM
   committers:
@@ -55,6 +57,8 @@ repositories:
   - Ascend/MindSpeed-MM
   committers:
   - gitcode_id: htwang
+  - gitcode_id: hhhzhuyizhi
+  - gitcode_id: PIPIXIU
   reviewers:
   - gitcode_id: fengliangjun
   - gitcode_id: qingfenxiaochong1
@@ -68,6 +72,8 @@ repositories:
   - gitcode_id: htchu
   - gitcode_id: htwang
   - gitcode_id: yangx_sy
+  - gitcode_id: hhhzhuyizhi
+  - gitcode_id: PIPIXIU
 - repo:
   - Ascend/MindSpeed-RL
   committers:
@@ -98,13 +104,16 @@ repositories:
   - gitcode_id: Hcm03
   - gitcode_id: Minds66
   - gitcode_id: yezhibei
+  - gitcode_id: PIPIXIU
 - repo:
   - Ascend/apex
   committers:
   - gitcode_id: qingfenxiaochong1
   - gitcode_id: JialiZheng1
+  - gitcode_id: gp513
   reviewers:
   - gitcode_id: qingfenxiaochong1
   - gitcode_id: JialiZheng1
   - gitcode_id: bingobb
   - gitcode_id: RyanWang1022
+  - gitcode_id: gp513
