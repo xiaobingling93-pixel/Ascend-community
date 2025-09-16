@@ -34,7 +34,7 @@ repositories:
   - gitcode_id: duchengkun
   - gitcode_id: kuhn7
   - gitcode_id: zqwenn
-  - gitcode_id: huangyunlong2025
+  - gitcode_id: huangyunlong2022
   - gitcode_id: SCh_zx
 - repo:
   - Ascend/op-plugin
@@ -58,7 +58,7 @@ repositories:
   - gitcode_id: daifu1234567
   - gitcode_id: wangchao430
   - gitcode_id: zqwenn
-  - gitcode_id: huangyunlong2025
+  - gitcode_id: huangyunlong2022
 - repo:
   - Ascend/Tensorpipe
   committers:
@@ -73,7 +73,7 @@ repositories:
   - gitcode_id: liwei386
   - gitcode_id: dilililiwhy
   - gitcode_id: wangchao430
-  - gitcode_id: huangyunlong2025
+  - gitcode_id: huangyunlong2022
 - repo:
   - Ascend/vision
   committers:
