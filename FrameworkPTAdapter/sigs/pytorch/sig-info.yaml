@@ -17,6 +17,7 @@ repositories:
   - gitcode_id: chenhao_1209
   - gitcode_id: wangchao430
   - gitcode_id: yanpengquan
+  - gitcode_id: shaoyf
   reviewers:
   - gitcode_id: AtlasAccount
   - gitcode_id: li_jing_hw
@@ -63,6 +64,9 @@ repositories:
   - gitcode_id: wangchao430
   - gitcode_id: zqwenn
   - gitcode_id: huangyunlong2022
+  - gitcode_id: liu-jiaweikf
+  - gitcode_id: shi-jiaxin9
+  - gitcode_id: wang-guangbin
 - repo:
   - Ascend/Tensorpipe
   committers:
@@ -93,3 +97,5 @@ repositories:
   - gitcode_id: dilililiwhy
   - gitcode_id: shaoyf
   - gitcode_id: zqwenn
+  - gitcode_id: wang-guangbin
+  - gitcode_id: liu-jiaweikf
