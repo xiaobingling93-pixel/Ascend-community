@@ -41,6 +41,7 @@ repositories:
   - gitcode_id: li-changwei4
   - gitcode_id: qiangge123a
   - gitcode_id: qinyyy
+  - gitcode_id: xiaoy2459
   entry_configs:
   - path:
     - debug
@@ -68,6 +69,7 @@ repositories:
     reviewers:
     - gitcode_id: leo920320
     - gitcode_id: qinyyy
+    - gitcode_id: xiaoy2459
   - path:
     - profiler/msprof_analyze
     committers:
