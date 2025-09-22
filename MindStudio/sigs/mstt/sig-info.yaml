@@ -79,3 +79,12 @@ repositories:
     reviewers:
     - gitcode_id: Seanesmhxocism
     - gitcode_id: eejiechu
+  - path:
+    - plugins/mindstudio-vscode-plugins
+    committers:
+    - gitcode_id: duanhaomiao25
+    - gitcode_id: jiangzhichao
+    reviewers:
+    - gitcode_id: duanhaomiao25
+    - gitcode_id: jiangzhichao
+    - gitcode_id: weixin_45939871
