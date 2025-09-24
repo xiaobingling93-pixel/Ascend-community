@@ -12,6 +12,7 @@ repositories:
   - gitcode_id: wowenjie
   - gitcode_id: panyj1993
   - gitcode_id: jhon-117
+  - gitcode_id: xhahn77
   - gitcode_id: Kuwatoro
   - gitcode_id: Martin_M
   - gitcode_id: yaohan404
@@ -91,3 +92,25 @@ repositories:
     - gitcode_id: zhengxinqian
     - gitcode_id: ChenHuiwen
     - gitcode_id: AvadaKedavrua
+  branch_configs:
+  - branch:
+    - br_release_MindStudio_8.2.RC1_20260923
+    committers:
+    - gitcode_id: xhahn77                       
+    - gitcode_id: panyj1993
+    - gitcode_id: kun_8
+    - gitcode_id: mjsz11
+    reviewers:
+    - gitcode_id: Martin_M
+    - gitcode_id: yejiajun
+    - gitcode_id: wangguowei333
+    - gitcode_id: mjsz11
+    - gitcode_id: yaohan404
+    - gitcode_id: jhon-117
+    - gitcode_id: kun_8
+    - gitcode_id: wangchao285
+    - gitcode_id: pengxiaopeng1
+    - gitcode_id: zhengxinqian
+    - gitcode_id: minghang_c
+    - gitcode_id: zderry
+    - gitcode_id: panyj1993

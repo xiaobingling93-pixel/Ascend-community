@@ -23,6 +23,7 @@ repositories:
   - gitcode_id: wqc01202410
   - gitcode_id: pengxiaopeng1
   - gitcode_id: zderry
+  - gitcode_id: kali20gakki1
   reviewers:
   - gitcode_id: lv-kaimeng
   - gitcode_id: wowenjie
@@ -88,3 +89,31 @@ repositories:
     - gitcode_id: duanhaomiao25
     - gitcode_id: jiangzhichao
     - gitcode_id: weixin_45939871
+  branch_configs:
+  - branch:             
+    - br_release_MindStudio_8.2.RC1_20260923
+    committers:           
+    - gitcode_id: xhahn77                       
+    - gitcode_id: kun_8
+    - gitcode_id: kali20gakki1
+    - gitcode_id: chenhao_1209
+    - gitcode_id: wangchao285
+    reviewers:
+    - gitcode_id: lv-kaimeng
+    - gitcode_id: wowenjie
+    - gitcode_id: ly-qianxiao0309
+    - gitcode_id: leo920320
+    - gitcode_id: Seanesmhxocism
+    - gitcode_id: Kuwatoro
+    - gitcode_id: kali20gakki1
+    - gitcode_id: eejiechu
+    - gitcode_id: chenhao_1209
+    - gitcode_id: uniteone001
+    - gitcode_id: Jian_Daobao
+    - gitcode_id: zhengxinqian
+    - gitcode_id: louyujing
+    - gitcode_id: mnhdxnh
+    - gitcode_id: li-changwei4
+    - gitcode_id: qiangge123a
+    - gitcode_id: qinyyy
+    - gitcode_id: xiaoy2459
