@@ -119,3 +119,17 @@ repositories:
   - gitcode_id: bingobb
   - gitcode_id: RyanWang1022
   - gitcode_id: gp513
+- repo:
+  - Ascend/MindSpeed-Core-MS
+  committers:
+  - gitcode_id: wangmin0104
+  - gitcode_id: mamba_ni
+  - gitcode_id: wjlflyer
+  - gitcode_id: chuht
+  - gitcode_id: adrian0711
+  reviewers:
+  - gitcode_id: wangmin0104
+  - gitcode_id: mamba_ni
+  - gitcode_id: wjlflyer
+  - gitcode_id: chuht
+  - gitcode_id: adrian0711
