@@ -39,6 +39,7 @@ repositories:
   - gitcode_id: huangyunlong2022
   - gitcode_id: SCh_zx
   - gitcode_id: yangkaixin
+  - gitcode_id: rain-666
 - repo:
   - Ascend/op-plugin
   committers:
@@ -69,6 +70,7 @@ repositories:
   - gitcode_id: shi-jiaxin9
   - gitcode_id: wang-guangbin
   - gitcode_id: yangkaixin
+  - gitcode_id: rain-666
 - repo:
   - Ascend/Tensorpipe
   committers:
