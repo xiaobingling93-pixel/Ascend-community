@@ -29,7 +29,7 @@ Community代码仓目录结构对应管理组织结构：
 |--|--|--|--|
 |  平台组织 |Ascend  	| 0层 |组织
 |  仓库    | Community 	| 一层 |权限管理统一仓库
-|  目录    | CANN/MindIE/PTA/...	| 二层 |项目目录
+|  目录    | MindIE/PTA/...	| 二层 |项目目录
 |  文件    | org_info.yaml 	| 三层 |项目成员权限管理
 |  目录    | sigs 	| 三层 |项目SIG集合
 |  目录    | HCCL-SIG/Release/Docs/…… 	| 四层 |一个SIG一个目录
@@ -39,7 +39,7 @@ Community代码仓目录结构对应管理组织结构：
 ```plaintext
 Ascend（组织根）
 └── community（权限仓库）
-    ├── CANN（项目）
+    ├── MindStudio（项目）
     │   ├── org-info.yaml
     │   └── sigs（SIG组集合）
     │       ├── HCCL-SIG

@@ -2,7 +2,7 @@
 ***
 
 ## 简介
-org-info.yaml 文件用于记录昇腾社区组织中各项目（如 CANN, MindIE）的管理配置和关键责任人信息。该文件位于组织目录下（例如：Ascend/community/MindIE/org-info.yaml）。
+org-info.yaml 文件用于记录昇腾社区组织中各项目（如 MindIE）的管理配置和关键责任人信息。该文件位于组织目录下（例如：Ascend/community/MindIE/org-info.yaml）。
 
 ## 关键角色与权限
 ### TC 成员 (Technical Committee Members)
@@ -23,7 +23,7 @@ org-info.yaml 是 YAML 格式文件，包含以下顶层字段：
 
 | 字段 | 类型 |层级| 说明 |
 |--|--|--|--|
-| name | 字符串 |一层| 项目名称，如CANN，MindIE |
+| name | 字符串 |一层| 项目名称，如MindIE |
 | description |  字符串 |一层| 项目描述信息 |
 | tc_members | 列表 | 一层| TC 成员列表 |
 | sigs| 列表 |一层| 项目组内所有sig的信息清单|
