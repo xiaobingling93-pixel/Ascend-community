@@ -17,6 +17,9 @@ reviewers:
 - gitcode_id: drizzlezyk
   name: 钟源珂
   email: zhongyuanke@huawei.com
+- gitcode_id: Coopermassaki
+  name: 付勇
+  email: fuyong29@h-partners.com
 repositories:
 - repo:
   - Ascend/community

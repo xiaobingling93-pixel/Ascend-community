@@ -8,7 +8,7 @@
 ### 1.2 文件位置
 文件位于 community 仓库内特定 SIG 组的目录(项目名/sigs/sig名称/ascend/仓库名.yaml)下。
 - 例如：community 仓库自身的配置文件路径为 infrastructure/sigs/community/ascend/community.yaml。
-- 例如：MindX项目的mind-cluster仓的配置文件路径为 MindX/sigs/mind-cluster/ascend/mind-cluster.yaml。
+- 例如：MindCluster项目的mind-cluster仓的配置文件路径为 MindCluster/sigs/mind-cluster/ascend/mind-cluster.yaml。
 
 ### 1.3 目录结构解析 (以 community.yaml 为例)：
 - infrastructure/： 代表 infrastructure 项目。
