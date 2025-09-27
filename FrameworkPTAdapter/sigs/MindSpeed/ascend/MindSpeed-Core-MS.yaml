@@ -1,0 +1,20 @@
+name: MindSpeed-Core-MS
+description: MindSpore 动态图大模型加速库
+type: public
+branches:
+- name: master
+  type: protected
+- name: r0.3.0
+  type: protected
+- name: r0.2.0
+  type: protected
+- name: r0.1.0
+  type: protected
+- name: feature-0.2
+  type: protected
+- name: feature-0.1
+  type: protected
+- name: dev
+  type: protected
+- name: br_master
+  type: protected
