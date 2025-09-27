@@ -123,14 +123,10 @@ repositories:
 - repo:
   - Ascend/MindSpeed-Core-MS
   committers:
-  - gitcode_id: wangmin0104
-  - gitcode_id: mamba_ni
-  - gitcode_id: wjlflyer
-  - gitcode_id: chuht
-  - gitcode_id: adrian0711
+  - gitcode_id: wjlFlyer
+  - gitcode_id: htchu
+  - gitcode_id: adrian07110
   reviewers:
-  - gitcode_id: wangmin0104
-  - gitcode_id: mamba_ni
-  - gitcode_id: wjlflyer
-  - gitcode_id: chuht
-  - gitcode_id: adrian0711
+  - gitcode_id: wjlFlyer
+  - gitcode_id: htchu
+  - gitcode_id: adrian07110
