@@ -1,0 +1,28 @@
+name: AscendNPU-IR  
+description: AscendNPU-IR
+tc_members:
+  - gitcode_id: huchengbei
+    name: 胡桥
+    email: huchengbei@huawei.com
+  - gitcode_id: ccdedreams
+    name: 程琛
+    email: chengchen8@huawei.com
+
+sigs:
+  - sig_name: AscendNPU-IR
+    maintainers: 
+    - gitcode_id: huchengbei
+      name: 胡桥
+      email: huchengbei@huawei.com
+    - gitcode_id: ccdedreams
+      name: 程琛
+      email: chengchen8@huawei.com
+    - gitcode_id: lingfei_wu
+      name: 吴凌飞
+      email: wulingfei@huawei.com
+    - gitcode_id: yangkaixin
+      name: 杨开昕
+      email: yangkaixin@huawei.com
+    - gitcode_id: zhouhao176
+      name: 周浩
+      email: zhouhao176@huawei.com

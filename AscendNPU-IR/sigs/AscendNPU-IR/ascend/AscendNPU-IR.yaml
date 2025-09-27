@@ -1,0 +1,5 @@
+name: AscendNPU-IR
+description: "AscendNPU-IR"
+type: public
+branches:
+  - name: master

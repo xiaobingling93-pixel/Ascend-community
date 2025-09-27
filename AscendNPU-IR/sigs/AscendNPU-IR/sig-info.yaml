@@ -1,0 +1,62 @@
+name: AscendNPU-IR
+description: AscendNPU IR SIG
+mailing_list: ascendnpu-ir@open-ascend.org
+meeting_url: NA
+mentors: []
+approvers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/AscendNPU-IR
+  committers:
+  - gitcode_id: ccdedreams
+  - gitcode_id: HaiLijuan
+  - gitcode_id: cxtjjcz
+  - gitcode_id: tanshengshun
+  - gitcode_id: huchengbei
+  - gitcode_id: blueyi
+  - gitcode_id: zhouhao176
+  - gitcode_id: Zz_zl
+  - gitcode_id: lingfei_wu
+  reviewers:
+  - gitcode_id: ccdedreams
+  - gitcode_id: HaiLijuan
+  - gitcode_id: cxtjjcz
+  - gitcode_id: shijingchang
+  - gitcode_id: wangtao489
+  - gitcode_id: zhouhao176
+  - gitcode_id: Zz_zl
+  - gitcode_id: tanshengshun
+  - gitcode_id: huchengbei
+  - gitcode_id: lingfei_wu
+  entry_configs: []
+- repo:
+  - Ascend/triton-ascend
+  committers:
+  - gitcode_id: ccdedreams
+  - gitcode_id: HaiLijuan
+  - gitcode_id: cxtjjcz
+  - gitcode_id: wcleungaj
+  - gitcode_id: wangtao489
+  - gitcode_id: zhouhao176
+  - gitcode_id: liuzhuheng
+  - gitcode_id: kpxing
+  - gitcode_id: zhaozhijie
+  - gitcode_id: yangkaixin
+  - gitcode_id: shijingchang
+  - gitcode_id: weizhan4
+  - gitcode_id: zhang-chunli01
+  reviewers:
+  - gitcode_id: ccdedreams
+  - gitcode_id: HaiLijuan
+  - gitcode_id: cxtjjcz
+  - gitcode_id: wcleungaj
+  - gitcode_id: wangtao489
+  - gitcode_id: shijingchang 
+  - gitcode_id: junelotus
+  - gitcode_id: lord_of_ironhill  
+  - gitcode_id: zhang-chunli01
+  - gitcode_id: zhucehw
+  - gitcode_id: kpxing
+  - gitcode_id: fengrui886
+  entry_configs: []
