@@ -142,18 +142,6 @@ branches:
     type: protected
   - name: v1.11.0
     type: protected
-  - name: revert-merge-23967-master
-    type: protected
-  - name: revert-merge-23966-v2.8.0
-    type: protected
-  - name: revert-merge-23965-v2.7.1
-    type: protected
-  - name: revert-merge-23964-v2.6.0
-    type: protected
-  - name: revert-merge-23962-v2.5.1
-    type: protected
-  - name: revert-merge-23789-v2.1.0
-    type: protected
   - name: 2.0.4.tr5
     type: protected
   - name: 2.0.3.tr5

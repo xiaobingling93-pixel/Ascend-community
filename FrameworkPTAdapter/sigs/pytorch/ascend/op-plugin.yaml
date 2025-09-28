@@ -6,10 +6,6 @@ branches:
     type: protected
   - name: 7.1.0
     type: protected
-  - name: revert-merge-2850-master
-    type: protected
-  - name: revert-merge-2336-master
-    type: protected
   - name: 7.0.0
     type: protected
   - name: 6.0.rc3
