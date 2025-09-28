@@ -1,0 +1,8 @@
+name: memcache
+description: MemCache是针对LLM推理场景设计的高性能分布式键值 KV Cache 存储引擎, 基于 memfabric_hybrid 构建
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: develop
+    type: protected

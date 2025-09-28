@@ -72,9 +72,9 @@ sigs:
       - gitcode_id: easycurd
         name: 吴伟林
         email: wuweilin6@huawei.com
-      - gitcode_id: daisycc
+      - gitcode_id: daisycc1
         name: 程俊华
-        email: chengjunhua4@huawei.com
+        email: daisy_chengjh@163.com
       - gitcode_id: wang-ruiju
         name: 王睿驹
         email: wangruiju1@huawei.com
@@ -87,3 +87,9 @@ sigs:
       - gitcode_id: WangydGitCode
         name: 王一迪
         email: wangyidi5@huawei.com
+      - gitcode_id: yrewzjsx
+        name: 张金石
+        email: zhangjinshi2@huawei.com
+      - gitcode_id: minibao
+        name: 包小明
+        email: 3190792@qq.com
