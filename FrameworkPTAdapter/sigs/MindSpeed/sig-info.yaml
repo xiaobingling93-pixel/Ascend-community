@@ -26,6 +26,10 @@ repositories:
   - gitcode_id: gp513
   - gitcode_id: wjlflyer
   - gitcode_id: adrian07110
+  - gitcode_id: wuweiqiang24
+  - gitcode_id: libaokui
+  - gitcode_id: Ex_mitsuX
+  - gitcode_id: Jia_Austin
 - repo:
   - Ascend/MindSpeed-LLM
   committers:
