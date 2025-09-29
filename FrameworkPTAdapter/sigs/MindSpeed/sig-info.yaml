@@ -24,7 +24,7 @@ repositories:
   - gitcode_id: liuzhexu
   - gitcode_id: htchu
   - gitcode_id: gp513
-  - gitcode_id: wjlFlyer
+  - gitcode_id: wjlflyer
   - gitcode_id: adrian07110
 - repo:
   - Ascend/MindSpeed-LLM
