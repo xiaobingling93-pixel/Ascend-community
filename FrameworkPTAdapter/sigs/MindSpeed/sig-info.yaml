@@ -40,6 +40,7 @@ repositories:
   - gitcode_id: htchu
   - gitcode_id: wjlflyer
   - gitcode_id: adrian07110
+  - gitcode_id: iansheng
   reviewers:
   - gitcode_id: fengliangjun
   - gitcode_id: leizhenzhen23
@@ -116,6 +117,7 @@ repositories:
   - gitcode_id: Minds66
   - gitcode_id: yezhibei
   - gitcode_id: PIPIXIU
+  - gitcode_id: iansheng
 - repo:
   - Ascend/apex
   committers:
