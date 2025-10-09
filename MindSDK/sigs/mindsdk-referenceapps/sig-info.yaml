@@ -1,0 +1,25 @@
+name: mindsdk-referenceapps
+description: MindSDK Reference Apps
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/mindsdk-referenceapps
+  committers:
+  - gitcode_id: yihao1234
+  - gitcode_id: wangyongjun
+  - gitcode_id: Ascend_ljx
+  - gitcode_id: dd5577854
+  - gitcode_id: bling_728
+  reviewers:
+  - gitcode_id: janusdu
+  - gitcode_id: cai_gou122
+  - gitcode_id: printSSS
+  - gitcode_id: qanly97
+  - gitcode_id: chasefhb
+  - gitcode_id: greatMoyuvan
+  - gitcode_id: ssayhi
+  - gitcode_id: damttty

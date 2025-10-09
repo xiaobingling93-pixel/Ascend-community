@@ -1,0 +1,28 @@
+name: mind-cluster
+description: 昇腾训练和推理的深度学习组件，使能构建集群全流程运行
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/ascend-docker-image
+  - Ascend/memcache
+  - Ascend/memfabric_hybrid
+  - Ascend/mind-cluster
+  - Ascend/mindxdl-deploy
+  committers:
+  - gitcode_id: tands7
+  - gitcode_id: wang-ruiju
+  reviewers:
+  - gitcode_id: swagglian_gitcode
+  - gitcode_id: wuqiangroy
+  - gitcode_id: liujp20
+  - gitcode_id: lirui2381
+  - gitcode_id: Deng-Han
+  - gitcode_id: coobeam
+  - gitcode_id: wangfei-w
+  - gitcode_id: yangpeng197
+  - gitcode_id: tands7
+  - gitcode_id: wang-ruiju
