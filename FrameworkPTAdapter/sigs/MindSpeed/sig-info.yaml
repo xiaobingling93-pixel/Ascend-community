@@ -86,6 +86,7 @@ repositories:
   - gitcode_id: hhhzhuyizhi
   - gitcode_id: PIPIXIU
   - gitcode_id: cxiaolong
+  - gitcode_id: LinMingZhe
 - repo:
   - Ascend/MindSpeed-RL
   committers:
