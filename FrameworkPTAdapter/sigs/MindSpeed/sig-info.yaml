@@ -87,6 +87,7 @@ repositories:
   - gitcode_id: PIPIXIU
   - gitcode_id: cxiaolong
   - gitcode_id: LinMingZhe
+  - gitcode_id: mr-lin125
 - repo:
   - Ascend/MindSpeed-RL
   committers:
@@ -119,6 +120,7 @@ repositories:
   - gitcode_id: yezhibei
   - gitcode_id: PIPIXIU
   - gitcode_id: iansheng
+  - gitcode_id: mr-lin125
 - repo:
   - Ascend/apex
   committers:
