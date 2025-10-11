@@ -50,6 +50,9 @@ repositories:
     - gitcode_id: wangchao285
     - gitcode_id: pengxiaopeng1
     - gitcode_id: zderry
+    - gitcode_id: chenhao_1209
+    - gitcode_id: kali20gakki1
+    - gitcode_id: aerfaliang
     reviewers:
     - gitcode_id: Martin_M
     - gitcode_id: yejiajun
@@ -62,6 +65,9 @@ repositories:
     - gitcode_id: zhengxinqian
     - gitcode_id: mjsz11
     - gitcode_id: zderry
+    - gitcode_id: Seanesmhxocism
+    - gitcode_id: eejiechu
+    - gitcode_id: mei-feiyao
   - path:
     - msmodelslim
     committers:
