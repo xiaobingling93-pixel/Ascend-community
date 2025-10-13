@@ -21,6 +21,8 @@ repositories:
   - gitcode_id: rain-666
   - gitcode_id: wangchao285
   - gitcode_id: wasd1111222
+  - gitcode_id: wangqiang160
+  - gitcode_id: medivh-x
   reviewers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
@@ -44,6 +46,8 @@ repositories:
   - gitcode_id: yangkaixin
   - gitcode_id: rain-666
   - gitcode_id: wangchao285
+  - gitcode_id: wangqiang160
+  - gitcode_id: medivh-x
 - repo:
   - Ascend/op-plugin
   committers:
@@ -76,6 +80,7 @@ repositories:
   - gitcode_id: wang-guangbin
   - gitcode_id: yangkaixin
   - gitcode_id: rain-666
+  - gitcode_id: wangqiang160
 - repo:
   - Ascend/Tensorpipe
   committers:
