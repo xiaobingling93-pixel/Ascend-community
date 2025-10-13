@@ -77,8 +77,6 @@ repositories:
   - gitcode_id: hhhzhuyizhi
   - gitcode_id: PIPIXIU
   reviewers:
-  - gitcode_id: fengliangjun
-  - gitcode_id: qingfenxiaochong1
   - gitcode_id: fightingzhen
   - gitcode_id: zhangsheng3771
   - gitcode_id: chensida
@@ -94,6 +92,23 @@ repositories:
   - gitcode_id: cxiaolong
   - gitcode_id: LinMingZhe
   - gitcode_id: mr-lin125
+  - gitcode_id: bigdog1206
+  - gitcode_id: xuyaoyao
+  - gitcode_id: shaojiemike
+  - gitcode_id: liyx616
+  - gitcode_id: ningmenglh
+  - gitcode_id: vectorwhh
+  - gitcode_id: lu-jinfu1999
+  - gitcode_id: chenpeizhe
+  - gitcode_id: song_hello_world
+  - gitcode_id: ruanhao9656
+  - gitcode_id: feng0w0
+  - gitcode_id: MoCuishle-M
+  - gitcode_id: peng-hengduo
+  - gitcode_id: young256
+  - gitcode_id: zs-derrick1
+  - gitcode_id: meng-coding
+  - gitcode_id: chengchengyyy
 - repo:
   - Ascend/MindSpeed-RL
   committers:
