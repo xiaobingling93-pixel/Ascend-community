@@ -18,6 +18,7 @@ repositories:
   - gitcode_id: zhouhao176
   - gitcode_id: Zz_zl
   - gitcode_id: lingfei_wu
+  - gitcode_id: hocky
   reviewers:
   - gitcode_id: ccdedreams
   - gitcode_id: HaiLijuan
@@ -29,6 +30,7 @@ repositories:
   - gitcode_id: tanshengshun
   - gitcode_id: huchengbei
   - gitcode_id: lingfei_wu
+  - gitcode_id: hocky
   entry_configs: []
 - repo:
   - Ascend/triton-ascend
