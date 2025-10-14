@@ -48,6 +48,7 @@ repositories:
   - gitcode_id: shijingchang
   - gitcode_id: weizhan4
   - gitcode_id: zhang-chunli01
+  - gitcode_id: saruagithub
   reviewers:
   - gitcode_id: ccdedreams
   - gitcode_id: HaiLijuan
@@ -62,4 +63,15 @@ repositories:
   - gitcode_id: kpxing
   - gitcode_id: fengrui886
   - gitcode_id: kang-ingu
+  - gitcode_id: saruagithub
+  - gitcode_id: candyhong
+  - gitcode_id: wangzhanpeng5
+  - gitcode_id: meloliu12327
+  - gitcode_id: zhuxuejie
+  - gitcode_id: leopold0801
+  - gitcode_id: chnjz233
+  - gitcode_id: gymgit1
+  - gitcode_id: KanuaK
+  - gitcode_id: chnjz233
+  - gitcode_id: luobaiqing
   entry_configs: []
