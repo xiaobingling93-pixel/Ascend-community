@@ -49,6 +49,7 @@ repositories:
   - gitcode_id: weizhan4
   - gitcode_id: zhang-chunli01
   - gitcode_id: saruagithub
+  - gitcode_id: kang-ingu
   reviewers:
   - gitcode_id: ccdedreams
   - gitcode_id: HaiLijuan
