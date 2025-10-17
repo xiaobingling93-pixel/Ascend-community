@@ -9,14 +9,6 @@ tc_members:
     email: zhongyuanke@huawei.com
 
 sigs:
-  - sig_name: Ascend-CI
-    maintainers:
-      - gitcode_id: pengxie
-        name: 谢鹏
-        email: xiepeng20@huawei.com
-      - gitcode_id: dilililiwhy
-        name: 吴环宇
-        email: why.wuhuanyu@huawei.com
   - sig_name: community
     maintainers:
       - gitcode_id: mywaaagh_admin
