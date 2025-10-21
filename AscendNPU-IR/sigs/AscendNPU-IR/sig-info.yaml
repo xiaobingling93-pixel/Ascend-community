@@ -19,6 +19,7 @@ repositories:
   - gitcode_id: Zz_zl
   - gitcode_id: lingfei_wu
   - gitcode_id: hocky
+  - gitcode_id: wangtao489
   reviewers:
   - gitcode_id: ccdedreams
   - gitcode_id: HaiLijuan
