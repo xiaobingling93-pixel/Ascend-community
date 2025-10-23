@@ -113,3 +113,17 @@ repositories:
   - gitcode_id: zqwenn
   - gitcode_id: wang-guangbin
   - gitcode_id: liu-jiaweikf
+- repo:
+  - Ascend/torchair
+  committers:
+  - gitcode_id: wasd1111222
+  - gitcode_id: medivh-x
+  - gitcode_id: li_jing_hw
+  reviewers:
+  - gitcode_id: wasd1111222
+  - gitcode_id: medivh-x
+  - gitcode_id: wangqiang160
+  - gitcode_id: li_jing_hw
+  - gitcode_id: duchengkun
+  - gitcode_id: zhanj
+  - gitcode_id: rmch

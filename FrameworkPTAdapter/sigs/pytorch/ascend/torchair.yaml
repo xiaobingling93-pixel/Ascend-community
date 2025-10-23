@@ -1,0 +1,6 @@
+name: torchair
+description: Torch Ascend Intermediate Representation
+type: public
+branches:
+  - name: master
+    type: protected
