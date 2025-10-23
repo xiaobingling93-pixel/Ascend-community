@@ -3,7 +3,7 @@ description: AscendNPU-IR
 tc_members:
   - gitcode_id: huchengbei
     name: 胡桥
-    email: huchengbei@huawei.com
+    email: huqiao9@huawei.com
   - gitcode_id: ccdedreams
     name: 程琛
     email: chengchen8@huawei.com
