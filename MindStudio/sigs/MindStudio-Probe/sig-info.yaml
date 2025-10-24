@@ -1,4 +1,4 @@
-name: msprobe
+name: MindStudio-Probe
 description: MindStudio Probe
 mailing_list: NA
 meeting_url: NA
@@ -7,7 +7,7 @@ committers: []
 reviewers: []
 repositories:
 - repo:
-  - Ascend/msprobe
+  - Ascend/MindStudio-Probe
   committers:
   - gitcode_id: leo920320
   - gitcode_id: wowenjie

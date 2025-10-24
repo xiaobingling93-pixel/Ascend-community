@@ -49,7 +49,7 @@ sigs:
       - gitcode_id: TsaiSyannTyuu
         name: 蔡尚求
         email: caishangqiu@huawei.com
-  - sig_name: msprobe
+  - sig_name: MindStudio-Probe
     maintainers:
       - gitcode_id: kun_8
         name: 贺坤坤
