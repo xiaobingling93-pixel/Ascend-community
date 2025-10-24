@@ -11,7 +11,7 @@ repositories:
   - Ascend/memcache
   - Ascend/memfabric_hybrid
   - Ascend/mind-cluster
-  - Ascend/mindxdl-deploy
+  - Ascend/mindcluster-deploy
   committers:
   - gitcode_id: tands7
   - gitcode_id: wang-ruiju

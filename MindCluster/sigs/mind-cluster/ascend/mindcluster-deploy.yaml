@@ -1,5 +1,6 @@
-name: mindxdl-deploy
-description: 配合MindX DL基础组件使用的样例库，稳定版本请使用Tag中的代码
+name: mindcluster-deploy
+rename_from: mindxdl-deploy
+description: 配合MindCluster基础组件使用的样例库，稳定版本请使用Tag中的代码
 type: public
 branches:
   - name: master
