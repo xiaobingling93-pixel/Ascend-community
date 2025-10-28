@@ -1,0 +1,6 @@
+name: IndexSDK
+description: 基于华为昇腾平台Index SDK实现了一个高效的向量特征检索引擎，用户可以在此引擎上实现面向应用场景的检索系统
+type: public
+branches:
+  - name: master
+    type: protected

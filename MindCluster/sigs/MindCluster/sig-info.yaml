@@ -1,4 +1,4 @@
-name: mind-cluster
+name: MindCluster
 description: 昇腾训练和推理的深度学习组件，使能构建集群全流程运行
 mailing_list: NA
 meeting_url: NA
@@ -47,4 +47,19 @@ repositories:
   - gitcode_id: gpxin
   - gitcode_id: lmztju
   - gitcode_id: shepherd-cheung
-  - gitcode_id: shepherd-cheung
+- repo:
+  - Ascend/ascend-deployer
+  committers:
+  - gitcode_id: tands7
+  - gitcode_id: wang-ruiju
+  reviewers:
+  - gitcode_id: swagglian_gitcode
+  - gitcode_id: wuqiangroy
+  - gitcode_id: liujp20
+  - gitcode_id: lirui2381
+  - gitcode_id: Deng-Han
+  - gitcode_id: coobeam
+  - gitcode_id: wangfei-w
+  - gitcode_id: yangpeng197
+  - gitcode_id: tands7
+  - gitcode_id: wang-ruiju

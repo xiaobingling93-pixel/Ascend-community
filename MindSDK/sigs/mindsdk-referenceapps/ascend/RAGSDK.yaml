@@ -1,0 +1,8 @@
+name: RAGSDK
+description: RAG SDK是昇腾面向大语言模型的知识增强开发套件，为解决大模型知识更新缓慢以及垂直领域知识回答弱的问题，面向大模型知识库提供垂域调优、生成增强、知识管理等特性，帮助用户搭建专属的高性能、准确度高的大模型问答系统
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: develop
+    type: protected

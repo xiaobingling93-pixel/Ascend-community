@@ -1,0 +1,6 @@
+name: MutiModalSDK
+description: MutiModalSDK
+type: public
+branches:
+  - name: master
+    type: protected

@@ -1,5 +1,5 @@
 name: RecSDK
-description: 华为昇腾-MindX 推荐SDK
+description: Rec SDK作为面向互联网市场搜索推荐广告的应用使能SDK产品，对于搜索推荐广告模型训练的应用场景需求，提供基于昇腾平台的搜索推荐广告框架，支撑大规模搜索推荐广告场景，助力完成搜索推荐广告模型的高效训练
 mailing_list: NA
 meeting_url: NA
 mentors: []

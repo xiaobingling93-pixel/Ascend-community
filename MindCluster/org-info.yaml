@@ -3,6 +3,12 @@ description: MindCluster（AI集群系统软件）是支持NPU（昇腾AI处理�
             专为训练和推理任务提供集群级解决方案。深度学习平台开发厂商可以减少底层资源调度相关软件开发工作量，
             快速使能合作伙伴基于MindCluster开发深度学习平台。
 tc_members:
+  - gitcode_id: HLiuzp
+    name: 刘志飘
+    email: liuzhipiao@huawei.com
+  - gitcode_id: yukunQin
+    name: 秦钰昆
+    email: qinyukun@huawei.com
   - gitcode_id: edmund_hu
     name: 胡德鹏
     email: hudepeng2@huawei.com
@@ -12,12 +18,6 @@ tc_members:
   - gitcode_id: tands7
     name: 于书苹
     email: yushuping@huawei.com
-  - gitcode_id: SoberMinded
-    name: 冯建清
-    email: fengjianqing@h-partners.com
-  - gitcode_id: dd5577854
-    name: 狄啸
-    email: dixiao1@hisilicon.com
   - gitcode_id: Ascend_ljx
     name: 李家兴
     email: lijiaxing29@huawei.com
@@ -33,63 +33,33 @@ tc_members:
   - gitcode_id: j0168
     name: 蒋皓洋
     email: jianghaoyang@huawei.com
+  - gitcode_id: daisycc1
+    name: 程俊华
+    email: daisy_chengjh@163.com
+  - gitcode_id: frankang
+    name: 康富安
+    email: kangfuan2@huawei.com
   - gitcode_id: xiangjie10
     name: 向杰
     email: xiangjie9@huawei.com
-  - gitcode_id: yukunQin
-    name: 秦钰昆
-    email: qinyukun@huawei.com
-  - gitcode_id: mywaaagh_admin
-    name: 李超然
-    email: lichaoran1@huawei.com
 
 sigs:
-  - sig_name: ascend-deployer
-    maintainers: 
-      - gitcode_id: tands7
-        name: 于书苹
-        email: yushuping@huawei.com
-      - gitcode_id: wang-ruiju
-        name: 王睿驹
-        email: wangruiju1@huawei.com
-      - gitcode_id: wuqiangroy
-        name: 吴强
-        email: wuqiang80@h-partners.com
-      - gitcode_id: xuchuan19
-        name: 许川
-        email: xuchuan19@h-partners.com
-      - gitcode_id: swagglian
-        name: 沈练
-        email: shenlian6@h-partners.com
-  - sig_name: mind-cluster
+  - sig_name: MindCluster
     maintainers: 
       - gitcode_id: lirui2381
         name: 李睿
         email: lirui238@huawei.com
-      - gitcode_id: luxiang6
-        name: 鲁翔
-        email: luxiang6@huawei.com
-      - gitcode_id: easycurd
-        name: 吴伟林
-        email: wuweilin6@huawei.com
       - gitcode_id: daisycc1
         name: 程俊华
         email: daisy_chengjh@163.com
-      - gitcode_id: wang-ruiju
-        name: 王睿驹
-        email: wangruiju1@huawei.com
-      - gitcode_id: Ramonaaaaa
-        name: 魏浩然
-        email: weihaoran3@huawei.com
-      - gitcode_id: yangpeng197
-        name: 杨鹏
-        email: yangpeng197@huawei.com
-      - gitcode_id: WangydGitCode
-        name: 王一迪
-        email: wangyidi5@huawei.com
-      - gitcode_id: yrewzjsx
-        name: 张金石
-        email: zhangjinshi2@huawei.com
-      - gitcode_id: minibao
-        name: 包小明
-        email: 3190792@qq.com
+      - gitcode_id: tands7
+        name: 于书苹
+        email: yushuping@huawei.com
+  - sig_name: MindEdge
+    maintainers: 
+      - gitcode_id: frankang
+        name: 康富安
+        email: kangfuan2@huawei.com
+      - gitcode_id: yangjingyao
+        name: 杨晶垚
+        email: yangjingyao@huawei.com
