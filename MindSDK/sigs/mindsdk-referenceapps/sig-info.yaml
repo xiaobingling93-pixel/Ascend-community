@@ -13,6 +13,7 @@ repositories:
   - Ascend/VisionSDK
   - Ascend/RAGSDK
   - Ascend/mindsdk-referenceapps
+  - Ascend/MindInferenceService
   committers:
   - gitcode_id: yihao1234
   - gitcode_id: wangyongjun
