@@ -48,6 +48,7 @@ Ascend（组织根）
     │       │       └── *.yaml（仓库配置）
     │       └── Docs-SIG
     ├── MindIE（项目）
+    ├── docs # 文档仓库
     └── infrastructure
         └── community（自管理SIG）
             └── sig-info.yaml # 管理自身权限
@@ -61,7 +62,7 @@ Ascend（组织根）
 
 
 ## 📚 教程与规范文档
-- 📘 [Ascend社区协作指南](https://gitcode.com/Ascend/community/blob/master/role-guidance.md) - 所有角色的完整操作流程
-- 📋 [org-info.yaml编写指南](https://gitcode.com/Ascend/community/blob/master/org-info-guidance.md) - 项目级配置详解
-- 🔧 [sig-info.yaml编写指南](https://gitcode.com/Ascend/community/blob/master/sig-info-guidance.md) - SIG权限配置详解
-- 📁 [repo-info.yaml编写指南](https://gitcode.com/Ascend/community/blob/master/repo-info-guidance.md) - 仓库属性管理说明
+- 📘 [Ascend社区协作指南](https://gitcode.com/Ascend/community/blob/master/docs/role-guidance.md) - 所有角色的完整操作流程
+- 📋 [org-info.yaml编写指南](https://gitcode.com/Ascend/community/blob/master/docs/org-info-guidance.md) - 项目级配置详解
+- 🔧 [sig-info.yaml编写指南](https://gitcode.com/Ascend/community/blob/master/docs/sig-info-guidance.md) - SIG权限配置详解
+- 📁 [repo-info.yaml编写指南](https://gitcode.com/Ascend/community/blob/master/docs/repo-info-guidance.md) - 仓库属性管理说明
