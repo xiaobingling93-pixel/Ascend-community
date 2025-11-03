@@ -33,8 +33,6 @@ repositories:
 - repo:
   - Ascend/MindSpeed-LLM
   committers:
-  - gitcode_id: wujianping996
-  - gitcode_id: fengliangjun
   - gitcode_id: dilililiwhy
   - gitcode_id: leizhenzhen23
   - gitcode_id: htchu
@@ -43,6 +41,7 @@ repositories:
   - gitcode_id: iansheng
   - gitcode_id: fengshuxin
   - gitcode_id: wenjiang23
+  - gitcode_id: dingzicha1997
   reviewers:
   - gitcode_id: fengliangjun
   - gitcode_id: leizhenzhen23
@@ -50,12 +49,10 @@ repositories:
   - gitcode_id: guo-xinjie-1
   - gitcode_id: wucong25
   - gitcode_id: hankdhr
-  - gitcode_id: glhyyz
   - gitcode_id: dingzicha1997
   - gitcode_id: McFlurry100
   - gitcode_id: guozhihua2
   - gitcode_id: iansheng
-  - gitcode_id: ningbenzhe1
   - gitcode_id: yanzhixiao23
   - gitcode_id: qyzqyz
   - gitcode_id: may_feimei
