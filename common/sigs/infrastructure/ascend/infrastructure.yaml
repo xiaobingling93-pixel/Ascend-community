@@ -1,0 +1,6 @@
+name: infrastructure
+description: "infrastructure仓库用于托管Ascend开源社区基础设施团队的公开信息，包括不限于：会议日程，成员信息，服务文档和配置等信息"
+type: public
+branches:
+  - name: master
+    type: protected

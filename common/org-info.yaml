@@ -1,15 +1,8 @@
-name: infrastructure
-description: NA
-tc_members:
-  - gitcode_id: mywaaagh_admin
-    name: 李超然
-    email: lichaoran1@huawei.com
-  - gitcode_id: drizzlezyk
-    name: 钟源珂
-    email: zhongyuanke@huawei.com
-
+name: common
+description: common目录用于Ascend社区公共SIG维护
+tc_members: []
 sigs:
-  - sig_name: community
+  - sig_name: infrastructure
     maintainers:
       - gitcode_id: mywaaagh_admin
         name: 李超然
