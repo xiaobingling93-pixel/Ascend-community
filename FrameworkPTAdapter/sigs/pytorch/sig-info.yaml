@@ -119,6 +119,8 @@ repositories:
   - gitcode_id: wasd1111222
   - gitcode_id: medivh-x
   - gitcode_id: li_jing_hw
+  - gitcode_id: dingdairong
+  - gitcode_id: wangqiang160
   reviewers:
   - gitcode_id: wasd1111222
   - gitcode_id: medivh-x
@@ -127,3 +129,6 @@ repositories:
   - gitcode_id: duchengkun
   - gitcode_id: zhanj
   - gitcode_id: rmch
+  - gitcode_id: dingdairong
+  - gitcode_id: wangqianmia
+  - gitcode_id: XDaoHong
