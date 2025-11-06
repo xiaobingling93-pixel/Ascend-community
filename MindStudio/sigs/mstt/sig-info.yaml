@@ -85,10 +85,20 @@ repositories:
     committers:
     - gitcode_id: duanhaomiao25
     - gitcode_id: jiangzhichao
+    - gitcode_id: aoyouweilai
+    - gitcode_id: mlh0101
     reviewers:
     - gitcode_id: duanhaomiao25
     - gitcode_id: jiangzhichao
     - gitcode_id: weixin_45939871
+    - gitcode_id: zhenghanqiao
+    - gitcode_id: yujialin888888
+    - gitcode_id: aoyouweilai
+    - gitcode_id: ryakagic
+    - gitcode_id: gcw_uWoexP7l
+    - gitcode_id: genius52
+    - gitcode_id: mlh0101
+    - gitcode_id: weixin_43368449
   branch_configs:
   - branch:             
     - br_release_MindStudio_8.2.RC1_20260923
