@@ -19,3 +19,14 @@ sigs:
       - gitcode_id: zeshengzong
         name: 宗泽升
         email: zongzesheng@huawei.com
+  - sig_name: cicd
+    maintainers:
+      - gitcode_id: pengxie
+        name: 谢鹏
+        email: xiepeng20@huawei.com
+      - gitcode_id: dilililiwhy
+        name: 吴环宇
+        email: why.wuhuanyu@huawei.com
+      - gitcode_id: frankang
+        name: 康富安
+        email: kangfuan2@huawei.com

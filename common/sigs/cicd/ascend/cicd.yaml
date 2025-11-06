@@ -1,0 +1,6 @@
+name: cicd
+description: "cicd仓库用于介绍昇腾（Ascend）社区各项目持续集成（Continuous Integration）和持续发布（Continuous Delivery）的实施过程和要求"
+type: public
+branches:
+  - name: master
+    type: protected
