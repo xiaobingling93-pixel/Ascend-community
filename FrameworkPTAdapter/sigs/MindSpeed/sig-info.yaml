@@ -23,6 +23,7 @@ repositories:
   - gitcode_id: zhao-yifan27
   - gitcode_id: liuzhexu
   - gitcode_id: htchu
+  - gitcode_id: wangmin0104
   - gitcode_id: gp513
   - gitcode_id: wjlflyer
   - gitcode_id: adrian07110
@@ -36,6 +37,7 @@ repositories:
   - gitcode_id: dilililiwhy
   - gitcode_id: leizhenzhen23
   - gitcode_id: htchu
+  - gitcode_id: wangmin0104
   - gitcode_id: wjlflyer
   - gitcode_id: adrian07110
   - gitcode_id: iansheng
@@ -58,6 +60,7 @@ repositories:
   - gitcode_id: may_feimei
   - gitcode_id: zhoubeirong
   - gitcode_id: htchu
+  - gitcode_id: wangmin0104
   - gitcode_id: guihaowen666
   - gitcode_id: sunjunjie1587
   - gitcode_id: bigdog1206
@@ -82,6 +85,7 @@ repositories:
   - gitcode_id: ghoshaw
   - gitcode_id: HANHU1CHEN
   - gitcode_id: htchu
+  - gitcode_id: wangmin0104
   - gitcode_id: htwang
   - gitcode_id: yangx_sy
   - gitcode_id: hhhzhuyizhi
@@ -156,8 +160,10 @@ repositories:
   committers:
   - gitcode_id: wjlflyer
   - gitcode_id: htchu
+  - gitcode_id: wangmin0104
   - gitcode_id: adrian07110
   reviewers:
   - gitcode_id: wjlflyer
   - gitcode_id: htchu
+  - gitcode_id: wangmin0104
   - gitcode_id: adrian07110
