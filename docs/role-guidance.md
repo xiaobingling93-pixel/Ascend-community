@@ -6,7 +6,7 @@
 ![](./figures/guide.png)
 
 ### ✍️ 如何签署Ascend社区贡献者许可协议CLA
-在参与社区贡献前，您需要签署[Ascend社区贡献者许可协议（CLA）](https://clasign.osinfra.cn/sign/gitee_ascend-1611222220829317930)
+在参与社区贡献前，您需要签署[Ascend社区贡献者许可协议（CLA）](https://clasign.osinfra.cn/sign/690ca9ddf91c03dee6082ab1)
 - **个人贡献者**：请选择“签署个人CLA”
 - **企业**：请选择“签署法人CLA”
 - **企业员工**：请选择“法人贡献者登记”，签署后会收到主题是`Signing CLA on project of xx`的邮件，请联系邮件内容里的`Corporation Managers`进行审批
