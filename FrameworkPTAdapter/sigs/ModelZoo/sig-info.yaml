@@ -1,0 +1,48 @@
+name: ModelZoo
+description: Ascend ModelZoo
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/modelzoo
+  committers:
+  - gitcode_id: Ginray1
+  - gitcode_id: fightingzhen
+  reviewers:
+  - gitcode_id: Ginray1
+  - gitcode_id: fightingzhen
+- repo:
+  - Ascend/modelzoo-GPL
+  committers:
+  - gitcode_id: Ginray1
+  - gitcode_id: fightingzhen
+  - gitcode_id: gp513
+  - gitcode_id: dilililiwhy
+  reviewers:
+  - gitcode_id: Ginray1
+  - gitcode_id: fightingzhen
+  - gitcode_id: gp513
+  - gitcode_id: dilililiwhy
+- repo:
+  - Ascend/ModelZoo-PyTorch
+  committers:
+  - gitcode_id: Ginray1
+  - gitcode_id: fightingzhen
+  - gitcode_id: gp513
+  - gitcode_id: dilililiwhy
+  - gitcode_id: hhhzhuyizhi
+  - gitcode_id: htwang
+  - gitcode_id: fengliangjun
+  - gitcode_id: guowenna1
+  reviewers:
+  - gitcode_id: Ginray1
+  - gitcode_id: fightingzhen
+  - gitcode_id: gp513
+  - gitcode_id: dilililiwhy
+  - gitcode_id: hhhzhuyizhi
+  - gitcode_id: htwang
+  - gitcode_id: fengliangjun
+  - gitcode_id: guowenna1
