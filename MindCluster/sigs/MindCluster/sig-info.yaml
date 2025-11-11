@@ -21,6 +21,7 @@ repositories:
   - gitcode_id: daisycc1
   - gitcode_id: lirui2381
   - gitcode_id: yuncliu
+  - gitcode_id: chenyuanming008
   reviewers:
   - gitcode_id: swagglian_gitcode
   - gitcode_id: wuqiangroy
@@ -48,6 +49,21 @@ repositories:
   - gitcode_id: gpxin
   - gitcode_id: lmztju
   - gitcode_id: shepherd-cheung
+  - gitcode_id: chenyuanming008
+  - gitcode_id: yuncliu
+  - gitcode_id: xushuhuan
+  - gitcode_id: gaopu2024
+  - gitcode_id: waglog
+  - gitcode_id: hujianrong
+  - gitcode_id: shanyuelanhua
+  - gitcode_id: lululuwenbo
+  - gitcode_id: zhoushixian
+  - gitcode_id: leon_xun
+  - gitcode_id: yangyouchuan
+  - gitcode_id: adamcaoyang
+  - gitcode_id: wangtianyul
+  - gitcode_id: chentian007
+  - gitcode_id: zja4gitcode
 - repo:
   - Ascend/ascend-deployer
   committers:
