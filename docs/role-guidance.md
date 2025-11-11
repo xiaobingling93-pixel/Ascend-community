@@ -3,7 +3,7 @@
 ## 📖 概述
 
 欢迎来到 Ascend 社区！本文档旨在为不同角色的社区成员提供清晰的操作指南。无论您是代码贡献者、SIG maintainer，还是项目TC成员，都可以在此找到对应的协作流程。
-![](./figures/guide.png)
+![](../figures/guide.png)
 
 ### ✍️ 如何签署Ascend社区贡献者许可协议CLA
 在参与社区贡献前，您需要签署[Ascend社区贡献者许可协议（CLA）](https://clasign.osinfra.cn/sign/690ca9ddf91c03dee6082ab1)
@@ -12,10 +12,13 @@
 - **企业员工**：请选择“法人贡献者登记”，签署后会收到主题是`Signing CLA on project of xx`的邮件，请联系邮件内容里的`Corporation Managers`进行审批
 ***
 ### 💻 开发者如何贡献代码
+1.  **贡献代码前请先在平台绑定设置默认邮箱，请务必保证平台默认邮箱、提交代码使用的邮箱、签署CLA协议使用的邮箱三者一致，否则可能会导致无法统计到代码、代码CLA校验不通过等问题**
 
-1.  **Fork 源码仓库**：将目标源码仓库 Fork 到您的个人账号下
-2.  **开发与提交**：在您的 Fork 仓库中进行开发，完成后向上游仓库提交 Pull Request (PR)
-3.  ✅  **通过审查**：您的 PR 必须获得以下四个标签才能被合并：
+    ![](../figures/set-email.png)
+
+2.  **Fork 源码仓库**：将目标源码仓库 Fork 到您的个人账号下
+3.  **开发与提交**：在您的 Fork 仓库中进行开发，完成后向上游仓库提交 Pull Request (PR)
+4.  ✅  **通过审查**：您的 PR 必须获得以下四个标签才能被合并：
 
     - `ascend-cla/yes`：**CLA协议检查**。机器人会自动检查您 commits 中的邮箱是否已签署 CLA 协议。若已签署，将添加此标签；若未签署，会添加 `ascend-cla/no` 标签并留言提示
     - `ci-pipeline-passed`：**CI流水线检查**。在 PR 评论区评论 `compile` 以触发 CI。通过后机器人会添加此标签；若失败，则添加 `ci-pipeline-failed` 标签
