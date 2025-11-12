@@ -76,6 +76,7 @@ repositories:
     - gitcode_id: Kuwatoro
     - gitcode_id: Martin_M
     - gitcode_id: panyj1993
+    - gitcode_id: joejoezhou
     reviewers:
     - gitcode_id: Martin_M
     - gitcode_id: panyj1993
