@@ -22,7 +22,7 @@ tc_members:
   - gitcode_id: panyj1993
     name: 潘杨杰
     email: panyangjie@huawei.com
-  - gitcode_id: zhumo1990
+  - gitcode_id: zhumoon
     name: 朱默
     email: zhumo@huawei.com
   - gitcode_id: kun_8
@@ -38,7 +38,7 @@ sigs:
       - gitcode_id: panyj1993
         name: 潘杨杰
         email: panyangjie@huawei.com
-      - gitcode_id: zhumo1990
+      - gitcode_id: zhumoon
         name: 朱默
         email: zhumo@huawei.com
   - sig_name: mstt
