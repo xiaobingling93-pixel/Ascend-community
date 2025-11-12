@@ -60,3 +60,25 @@ sigs:
       - gitcode_id: wangchao285
         name: 王朝
         email: wangchao285@huawei.com
+  - sig_name: sig-msprof
+    maintainers:
+      - gitcode_id: kali20gakki1
+        name: 张伟
+        email: zhangwei983@huawei.com
+      - gitcode_id: chenhao_1209
+        name: 陈豪
+        email: chenhao61@huawei.com
+      - gitcode_id: aerfaliang
+        name: 梁朝明
+        email: liangchaoming@huawei.com
+  - sig_name: sig-msmonitor
+    maintainers:
+      - gitcode_id: kali20gakki1
+        name: 张伟
+        email: zhangwei983@huawei.com
+      - gitcode_id: chenhao_1209
+        name: 陈豪
+        email: chenhao61@huawei.com
+      - gitcode_id: aerfaliang
+        name: 梁朝明
+        email: liangchaoming@huawei.com
