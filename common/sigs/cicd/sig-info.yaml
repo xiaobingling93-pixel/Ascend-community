@@ -22,4 +22,4 @@ reviewers:
 - gitcode_id: gaozijuan
 repositories:
 - repo:
-  - Ascend/cicd
+  - Ascend/ci-infra
