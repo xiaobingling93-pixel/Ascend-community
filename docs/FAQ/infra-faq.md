@@ -66,7 +66,7 @@
 #### 6.  **请问Ascend社区仓库评论区都支持哪些命令，分别都是什么含义？**
 
 
-目前社区仓库评论区主要支持的命令请参见[Ascend社区评论命令一览](../robot/robot-command.md)。
+目前社区仓库评论区主要支持的命令请参见[Ascend社区评论命令一览](https://gitcode.com/Ascend/infrastructure/blob/master/docs/robot/robot%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md#-%E5%A6%82%E9%9C%80%E4%BA%86%E8%A7%A3%E8%AF%A6%E7%BB%86%E7%9A%84%E5%91%BD%E4%BB%A4%E5%8F%AF%E5%8F%82%E8%80%83%E4%B8%8B%E6%96%B9%E8%AF%A6%E7%BB%86%E8%A1%A8%E6%A0%BC)。
 
 #### 7.  **请问我提交PR后为什么没有触发CI构建，需要如何处理？**
 

@@ -41,7 +41,7 @@
 ## 参与贡献
   - [社区会议日历](https://meeting.osinfra.cn/ascend)
   - [开源协作指南](./role-guidance.md)
-  - [机器人交互流程](./robot/robot-command.md)
+  - [机器人使用指南](https://gitcode.com/Ascend/infrastructure/blob/master/docs/robot/robot%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
   - [FAQ](./FAQ/infra-faq.md)
   - [Code of Conduct](../docs/contributor/code-of-conduct.md)
 
