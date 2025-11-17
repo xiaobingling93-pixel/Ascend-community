@@ -55,6 +55,8 @@ repositories:
   - gitcode_id: zhang-chunli01
   - gitcode_id: saruagithub
   - gitcode_id: kang-ingu
+  - gitcode_id: rusyaev-roman
+  - gitcode_id: tarvlad
   reviewers:
   - gitcode_id: ccdedreams
   - gitcode_id: HaiLijuan
@@ -80,4 +82,6 @@ repositories:
   - gitcode_id: KanuaK
   - gitcode_id: chnjz233
   - gitcode_id: luobaiqing
+  - gitcode_id: rusyaev-roman
+  - gitcode_id: tarvlad
   entry_configs: []
