@@ -7,7 +7,7 @@ committers: []
 reviewers: []
 repositories:
 - repo:
-  - Ascend/MindStudio-Monitor
+  - Ascend/msmonitor
   committers:
   - gitcode_id: xhahn77
   - gitcode_id: aerfaliang

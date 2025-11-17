@@ -7,7 +7,7 @@ committers: []
 reviewers: []
 repositories:
 - repo:
-  - Ascend/MindStudio-Profiler-Analyze
+  - Ascend/msprof-analyze
   committers:
   - gitcode_id: xhahn77
   - gitcode_id: aerfaliang
