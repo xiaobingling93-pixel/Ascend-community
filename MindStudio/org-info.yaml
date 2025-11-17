@@ -82,3 +82,31 @@ sigs:
       - gitcode_id: aerfaliang
         name: 梁朝明
         email: liangchaoming@huawei.com
+  - sig_name: sig-msmodeling
+    maintainers:
+      - gitcode_id: panyj1993
+        name: 潘杨杰
+        email: panyangjie@huawei.com
+      - gitcode_id: jhon-117
+        name: 方锴
+        email: fangkai15@huawei.com
+      - gitcode_id: mjsz11
+        name: 刘成举
+        email: liuchengju5@huawei.com
+      - gitcode_id: yaohan404
+        name: 姚晗
+        email: yaohan8@huawei.com
+  - sig_name: sig-msserviceprofiler
+    maintainers:
+      - gitcode_id: panyj1993
+        name: 潘杨杰
+        email: panyangjie@huawei.com
+      - gitcode_id: mjsz11
+        name: 刘成举
+        email: liuchengju5@huawei.com
+      - gitcode_id: jhon-117
+        name: 方锴
+        email: fangkai15@huawei.com
+      - gitcode_id: yaohan404
+        name: 姚晗
+        email: yaohan8@huawei.com
