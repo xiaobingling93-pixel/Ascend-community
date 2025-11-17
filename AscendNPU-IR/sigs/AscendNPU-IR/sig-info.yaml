@@ -20,6 +20,8 @@ repositories:
   - gitcode_id: lingfei_wu
   - gitcode_id: hocky
   - gitcode_id: wangtao489
+  - gitcode_id: rusyaev-roman
+  - gitcode_id: tarvlad
   reviewers:
   - gitcode_id: ccdedreams
   - gitcode_id: HaiLijuan
@@ -32,6 +34,8 @@ repositories:
   - gitcode_id: huchengbei
   - gitcode_id: lingfei_wu
   - gitcode_id: hocky
+  - gitcode_id: rusyaev-roman
+  - gitcode_id: tarvlad
   entry_configs: []
 - repo:
   - Ascend/triton-ascend
