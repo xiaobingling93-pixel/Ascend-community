@@ -33,7 +33,7 @@ tc_members:
     email: caishangqiu@huawei.com
 
 sigs:
-  - sig_name: msit
+  - sig_name: sig-msit
     maintainers: 
       - gitcode_id: panyj1993
         name: 潘杨杰
@@ -41,7 +41,7 @@ sigs:
       - gitcode_id: zhumoon
         name: 朱默
         email: zhumo@huawei.com
-  - sig_name: mstt
+  - sig_name: sig-mstt
     maintainers: 
       - gitcode_id: kun_8
         name: 贺坤坤
@@ -49,7 +49,7 @@ sigs:
       - gitcode_id: TsaiSyannTyuu
         name: 蔡尚求
         email: caishangqiu@huawei.com
-  - sig_name: MindStudio-Probe
+  - sig_name: sig-msprobe
     maintainers:
       - gitcode_id: kun_8
         name: 贺坤坤
