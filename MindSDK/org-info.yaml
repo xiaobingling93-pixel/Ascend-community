@@ -25,7 +25,7 @@ tc_members:
   - gitcode_id: lirui2381
     name: 李睿
     email: lirui238@huawei.com
-  - gitcode_id: simmerchan
+  - gitcode_id: u011801161
     name: 黄诗磊
     email: huangshilei3@huawei.com
   - gitcode_id: j0168
@@ -52,7 +52,7 @@ sigs:
         email: yihao6@huawei.com
   - sig_name: RecSDK
     maintainers: 
-      - gitcode_id: simmerchan
+      - gitcode_id: u011801161
         name: 黄诗磊
         email: huangshilei3@huawei.com
       - gitcode_id: j0168
