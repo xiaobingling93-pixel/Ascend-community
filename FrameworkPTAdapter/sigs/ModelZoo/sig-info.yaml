@@ -21,11 +21,15 @@ repositories:
   - gitcode_id: fightingzhen
   - gitcode_id: gp513
   - gitcode_id: dilililiwhy
+  - gitcode_id: niushiya
   reviewers:
   - gitcode_id: Ginray1
   - gitcode_id: fightingzhen
   - gitcode_id: gp513
   - gitcode_id: dilililiwhy
+  - gitcode_id: niushiya
+  - gitcode_id: pu-zhe
+  - gitcode_id: LJ_1998
 - repo:
   - Ascend/ModelZoo-PyTorch
   committers:
@@ -37,6 +41,7 @@ repositories:
   - gitcode_id: htwang
   - gitcode_id: fengliangjun
   - gitcode_id: guowenna1
+  - gitcode_id: niushiya
   reviewers:
   - gitcode_id: Ginray1
   - gitcode_id: fightingzhen
@@ -46,3 +51,6 @@ repositories:
   - gitcode_id: htwang
   - gitcode_id: fengliangjun
   - gitcode_id: guowenna1
+  - gitcode_id: niushiya
+  - gitcode_id: pu-zhe
+  - gitcode_id: LJ_1998
