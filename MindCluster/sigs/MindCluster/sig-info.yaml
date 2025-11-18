@@ -64,6 +64,17 @@ repositories:
   - gitcode_id: wangtianyul
   - gitcode_id: chentian007
   - gitcode_id: zja4gitcode
+  branch_configs:
+  - branch:
+    - branch_v5.0.0
+    - branch_v6.0.0
+    - branch_v6.0.RC3
+    - branch_v7.0.RC1
+    - branch_v7.1.RC1
+    - branch_v7.2.RC1
+    branch_keeper:                    #branch_keeper指仓库某个分支的版本经理角色，此角色有权限对PR评论/merge，打上keeper_approved标签
+    - gitcode_id: chenyuanming008
+    - gitcode_id: xiangjie10
 - repo:
   - Ascend/ascend-deployer
   committers:
@@ -80,3 +91,16 @@ repositories:
   - gitcode_id: yangpeng197
   - gitcode_id: tands7
   - gitcode_id: wang-ruiju
+  branch_configs:
+  - branch:
+    - 5.0.0
+    - 6.0.0
+    - 6.0.RC1
+    - 6.0.RC2
+    - 6.0.RC3
+    - 7.0.RC1
+    - 7.1.RC1
+    - 7.2.RC1
+    branch_keeper:                    #branch_keeper指仓库某个分支的版本经理角色，此角色有权限对PR评论/merge，打上keeper_approved标签
+    - gitcode_id: chenyuanming008
+    - gitcode_id: xiangjie10
