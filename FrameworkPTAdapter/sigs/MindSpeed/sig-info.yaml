@@ -51,7 +51,6 @@ repositories:
   - gitcode_id: jzh6229
   - gitcode_id: guo-xinjie-1
   - gitcode_id: wucong25
-  - gitcode_id: hankdhr
   - gitcode_id: dingzicha1997
   - gitcode_id: McFlurry100
   - gitcode_id: guozhihua2
@@ -67,10 +66,10 @@ repositories:
   - gitcode_id: bigdog1206
   - gitcode_id: wjlflyer
   - gitcode_id: adrian07110
-  - gitcode_id: peihan_liu666
   - gitcode_id: HANHU1CHEN
   - gitcode_id: fengshuxin
   - gitcode_id: wenjiang23
+  - gitcode_id: mhh111
 - repo:
   - Ascend/MindSpeed-MM
   committers:
