@@ -110,3 +110,14 @@ sigs:
       - gitcode_id: yaohan404
         name: 姚晗
         email: yaohan8@huawei.com
+  - sig_name: sig-msmodelslim
+    maintainers:
+      - gitcode_id: panyj1993
+        name: 潘杨杰
+        email: panyangjie@huawei.com
+      - gitcode_id: wowenjie
+        name: 沃文杰
+        email: wowenjie@huawei.com
+      - gitcode_id: joejoezhou
+        name: 周容辰
+        email: zhourongchen1@huawei.com
