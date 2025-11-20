@@ -67,6 +67,9 @@ sigs:
       - gitcode_id: fengliangjun
         name: 冯良骏
         email: fengliangjun@huawei.com
+      - gitcode_id: zhoubeirong
+        name: 周蓓蓉
+        email: zhoubeirong@huawei.com
       - gitcode_id: gp513
         name: 郭鹏
         email: guopeng34@huawei.com

@@ -116,12 +116,11 @@ repositories:
 - repo:
   - Ascend/MindSpeed-RL
   committers:
-  - gitcode_id: wujianping996
   - gitcode_id: fengliangjun
-  - gitcode_id: leizhenzhen23
-  - gitcode_id: Ginray1
-  - gitcode_id: ningbenzhe1
   - gitcode_id: zhoubeirong
+  - gitcode_id: elvinp
+  - gitcode_id: wucong0509
+  - gitcode_id: zengshu19991010
   reviewers:
   - gitcode_id: fengliangjun
   - gitcode_id: Ginray1
@@ -129,12 +128,10 @@ repositories:
   - gitcode_id: jzh
   - gitcode_id: guo-xinjie-1
   - gitcode_id: wucong25
-  - gitcode_id: hankdhr
   - gitcode_id: glhyyz
   - gitcode_id: dingzicha1997
   - gitcode_id: McFlurry100
   - gitcode_id: guozhihua2
-  - gitcode_id: ningbenzhe1
   - gitcode_id: qyzqyz
   - gitcode_id: may_feimei
   - gitcode_id: zhoubeirong
@@ -146,6 +143,18 @@ repositories:
   - gitcode_id: PIPIXIU
   - gitcode_id: iansheng
   - gitcode_id: mr-lin125
+  - gitcode_id: ghoshaw
+  - gitcode_id: hhhzhuyizhi
+  - gitcode_id: yaochao20
+  - gitcode_id: xiazhahe
+  - gitcode_id: xiecheng_1
+  - gitcode_id: wangshuyang31
+  - gitcode_id: quancs001
+  - gitcode_id: weixin_56458003
+  - gitcode_id: Hcm03
+  - gitcode_id: weixin_44917616
+  - gitcode_id: zjchenn
+  - gitcode_id: yezhibei
 - repo:
   - Ascend/apex
   committers:
