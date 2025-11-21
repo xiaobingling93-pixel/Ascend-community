@@ -1,0 +1,7 @@
+name: MindStudio-ModelSlim
+description: MindStudio-ModelSlim（msModelSlim）是MindStudio全流程工具链推出的模型量化压缩工具。
+type: public
+branches:
+  - name: master
+  - name: br_release_MindStudio_8.3.0_20261231
+  - name: br_release_MindStudio_8.2.RC1_TR5_20260923
