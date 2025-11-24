@@ -121,8 +121,8 @@ repositories:
   - gitcode_id: fengliangjun
   - gitcode_id: zhoubeirong
   - gitcode_id: elvinp
-  - gitcode_id: wucong0509
-  - gitcode_id: zengshu19991010
+  - gitcode_id: wucong25
+  - gitcode_id: sz19991010
   reviewers:
   - gitcode_id: fengliangjun
   - gitcode_id: Ginray1
@@ -138,6 +138,7 @@ repositories:
   - gitcode_id: may_feimei
   - gitcode_id: zhoubeirong
   - gitcode_id: shuzeng
+  - gitcode_id: sz19991010
   - gitcode_id: ghoshaw
   - gitcode_id: Hcm03
   - gitcode_id: Minds66
