@@ -1,0 +1,24 @@
+name: sig-msserviceprofiler
+description: MindStudio-Service-Profiler
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/msserviceprofiler
+  committers:
+  - gitcode_id: panyj1993
+  - gitcode_id: jhon-117
+  - gitcode_id: yaohan404
+  - gitcode_id: mjsz11
+  reviewers:
+  - gitcode_id: mjsz11
+  - gitcode_id: yaohan404
+  - gitcode_id: jhon-117
+  - gitcode_id: minghang_c
+  - gitcode_id: zhengxinqian
+  - gitcode_id: ChenHuiwen
+  - gitcode_id: AvadaKedavrua
+  - gitcode_id: jiangruitao
