@@ -1,0 +1,36 @@
+name: MindIE
+description: 昇腾推理引擎，基于昇腾硬件的运行加速、调试调优、快速迁移部署的高性能深度学习推理框架，分层开放满足各类需求，统一接口使能极简开发，沉淀能力构筑极致性能
+tc_members:
+- gitcode_id: wumingjing
+  name: 吴铭泾
+  email: wumingjing@huawei.com
+- gitcode_id: mywaaagh_admin
+  name: 李超然
+  email: lichaoran1@huawei.com
+- gitcode_id: towncharlie
+  name: 王洋
+  email: kevin.wangyang@huawei.com
+- gitcode_id: msm_ascend
+  name: 马嘶鸣
+  email: masiming1@huawei.com
+- gitcode_id: jyoung6652
+  name: 杨健
+  email: yangjian184@huawei.com
+- gitcode_id: pengxiao
+  name: 彭晓
+  email: vince.pengxiao@huawei.com
+- gitcode_id: yumiao-hw
+  name: 于淼
+  email: yumiao16@huawei.com
+- gitcode_id: limuyuan31
+  name: 李牧原
+  email: limuyuan3@huawei.com
+sigs:
+- sig_name: MindIE-SD
+  maintainers: 
+  - gitcode_id: masiming
+    name: 马嘶鸣
+    email: masiming1@huawei.com
+  - gitcode_id: lanwangli
+    name: 蓝王力
+    email: lanwangli@huawei.com

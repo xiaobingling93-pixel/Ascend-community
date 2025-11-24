@@ -1,0 +1,44 @@
+name: MindIE-SD
+description: MindIE SD是MindIE的视图生成推理模型套件，其目标是为稳定扩散（Stable Diffusion, SD）系列大模型推理任务提供在昇腾硬件及其软件栈上的端到端解决方案，软件系统内部集成各功能模块，对外呈现统一的编程接口。
+mailing_list: NA
+meeting_url: NA
+mentors: []
+repositories:
+- repo:
+  - Ascend/MindIE-SD
+  committers:
+  - gitcode_id: zk123
+  - gitcode_id: Gongen
+  - gitcode_id: jyoung6652
+  - gitcode_id: guowenna1
+  - gitcode_id: lanwangli
+  - gitcode_id: blian
+  reviewers:
+  - gitcode_id: mazhixin00_00
+  - gitcode_id: betta18
+  - gitcode_id: changetheway
+  - gitcode_id: weixin_44144262
+  - gitcode_id: Semmer
+  - gitcode_id: LoganJane
+  - gitcode_id: yyansifu
+  - gitcode_id: wenjiali_sh
+  - gitcode_id: fan2956
+  - gitcode_id: zhou-wenxue
+  - gitcode_id: shaopeng666
+  - gitcode_id: muziyuhui666
+  branch_configs:
+  - branch:
+    - master
+    - br_develop_mindie
+    - br_release_mindie_2.0.RC1_20251014
+    - br_feature_mindie_2.0.T32_POC_20250723
+    - br_feature_mindie_2.1.T10_POC_20250827
+    - br_noncom_mindie_2.2.T10_730POC_20251025
+    - br_release_mindie_2.1.RC1_20251228
+    - br_noncom_mindie_2.2.T20_830POC_20251121
+    - br_release_mindie_2.2.RC1_20260423
+    branch_keeper:
+    - gitcode_id: pengxiao
+    - gitcode_id: limuyuan31
+    - gitcode_id: lanwangli
+    - gitcode_id: blian
