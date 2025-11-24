@@ -121,3 +121,11 @@ sigs:
       - gitcode_id: joejoezhou
         name: 周容辰
         email: zhourongchen1@huawei.com
+  - sig_name: sig-mindstudio_insight
+    maintainers:
+      - gitcode_id: ly-qianxiao0309
+        name: 廖宴
+        email: liaoyan7@huawei.com
+      - gitcode_id: leo920320
+        name: 刘鹏程
+        email: liupengcheng8@huawei.com
