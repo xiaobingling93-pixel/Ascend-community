@@ -49,7 +49,7 @@
     - `lgtm`：请联系 `org-info.yaml` 中该 SIG 组的 **maintainers** 进行评审。评审通过后，由 maintainer 评论 `/lgtm`
     - `approved`：同样联系该 SIG 组的 **maintainers** 进行批准。批准后，由 maintainer 评论 `/approve`
 
-> **⚠️ 注意事项**：如果某个 SIG 组只有一位 maintainer，则修改 `sig-info.yaml` 文件的 PR **必须由非 maintainer 的成员**提交，以避免无法通过 `/lgtm` 和 `/approve` 指令添加标签的情况
+> **⚠️ 注意事项**：如果某个 SIG 组只有两位 maintainer，则修改 `sig-info.yaml` 文件的 PR **必须由非 maintainer 的成员**提交，以避免无法通过 `/lgtm` 和 `/approve` 指令添加标签的情况
 ***
 
 ### 🆕 如何新增SIG组
@@ -69,7 +69,7 @@
 3.  **提交 PR**：提交第二个 PR 至 `master` 分支
 4.  ✅  **通过审查**：此 PR 需获得 `ascend-cla/yes`, `lgtm`, `approved` 三个标签。评审流程与【调整 SIG 信息文件】完全相同，需由**新 SIG 组的 maintainers** 进行评审和批准
 
-> **⚠️ 注意事项**：如果新 SIG 组初始只有一位 maintainer，则第二步的 PR **必须由其他成员（非该 maintainer）** 提交
+> **⚠️ 注意事项**：如果新 SIG 组初始只有两位 maintainer，则第二步的 PR **必须由其他成员（非该 maintainer）** 提交
 ***
 
 ### 🆕 如何在社区新增/修改项目
@@ -94,7 +94,7 @@
     - `lgtm`：请联系 `org-info.yaml` 中该 SIG 组的 **maintainers** 进行评审。评审通过后，由 maintainer 评论 `/lgtm`
     - `approved`：同上,联系该 SIG 组的 **maintainers** 进行批准。批准后，由 maintainer 评论 `/approve`
 
-> **⚠️ 注意事项**：如果某个 SIG 组只有一位 maintainer，则新增或者修改 `repo-info.yaml` 文件的 PR **必须由非 maintainer 的成员**提交，以避免无法通过 `/lgtm` 和 `/approve` 指令添加标签的情况
+> **⚠️ 注意事项**：如果某个 SIG 组只有两位 maintainer，则新增或者修改 `repo-info.yaml` 文件的 PR **必须由非 maintainer 的成员**提交，以避免无法通过 `/lgtm` 和 `/approve` 指令添加标签的情况
 
 ***
 ### 🔄 如何撤销已添加的标签
