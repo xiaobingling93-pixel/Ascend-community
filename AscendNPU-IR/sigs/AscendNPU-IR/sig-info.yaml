@@ -85,3 +85,65 @@ repositories:
   - gitcode_id: rusyaev-roman
   - gitcode_id: tarvlad
   entry_configs: []
+- repo:
+  - Ascend/llvm-project
+  committers:
+  - gitcode_id: ccdedreams
+  - gitcode_id: HaiLijuan
+  - gitcode_id: cxtjjcz
+  - gitcode_id: tanshengshun
+  - gitcode_id: huchengbei
+  - gitcode_id: blueyi
+  - gitcode_id: zhouhao176
+  - gitcode_id: Zz_zl
+  - gitcode_id: lingfei_wu
+  - gitcode_id: hocky
+  - gitcode_id: wangtao489
+  - gitcode_id: rusyaev-roman
+  - gitcode_id: tarvlad
+  reviewers:
+  - gitcode_id: ccdedreams
+  - gitcode_id: HaiLijuan
+  - gitcode_id: cxtjjcz
+  - gitcode_id: shijingchang
+  - gitcode_id: wangtao489
+  - gitcode_id: zhouhao176
+  - gitcode_id: Zz_zl
+  - gitcode_id: tanshengshun
+  - gitcode_id: huchengbei
+  - gitcode_id: lingfei_wu
+  - gitcode_id: hocky
+  - gitcode_id: rusyaev-roman
+  - gitcode_id: tarvlad
+  entry_configs: []
+- repo:
+  - Ascend/torch-mlir
+  committers:
+  - gitcode_id: ccdedreams
+  - gitcode_id: HaiLijuan
+  - gitcode_id: cxtjjcz
+  - gitcode_id: tanshengshun
+  - gitcode_id: huchengbei
+  - gitcode_id: blueyi
+  - gitcode_id: zhouhao176
+  - gitcode_id: Zz_zl
+  - gitcode_id: lingfei_wu
+  - gitcode_id: hocky
+  - gitcode_id: wangtao489
+  - gitcode_id: rusyaev-roman
+  - gitcode_id: tarvlad
+  reviewers:
+  - gitcode_id: ccdedreams
+  - gitcode_id: HaiLijuan
+  - gitcode_id: cxtjjcz
+  - gitcode_id: shijingchang
+  - gitcode_id: wangtao489
+  - gitcode_id: zhouhao176
+  - gitcode_id: Zz_zl
+  - gitcode_id: tanshengshun
+  - gitcode_id: huchengbei
+  - gitcode_id: lingfei_wu
+  - gitcode_id: hocky
+  - gitcode_id: rusyaev-roman
+  - gitcode_id: tarvlad
+  entry_configs: []
