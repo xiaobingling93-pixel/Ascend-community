@@ -1,0 +1,5 @@
+name: MindStudio-Operators-Tools
+description: MindStudio-Operators-Tools（msot）是MindStudio 用于打包msdebug/mskl/mskpp/msopgen/msopst/msopprof/mssanitizer等工具组件。
+type: private
+branches:
+  - name: master

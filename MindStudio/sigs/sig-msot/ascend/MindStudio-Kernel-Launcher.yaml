@@ -1,0 +1,5 @@
+name: MindStudio-Kernel-Launcher
+description: MindStudio-Kernel-Launcher （mskl）是MindStudio的kenerl launch组件。
+type: private
+branches:
+  - name: master

@@ -1,0 +1,5 @@
+name: MindStudio-Tools-Extension-Library
+description: MindStudio-Tools-Extension-Library 是MindStudio的mstx组件。
+type: private
+branches:
+  - name: master

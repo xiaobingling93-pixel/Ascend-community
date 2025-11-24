@@ -1,0 +1,5 @@
+name: MindStudio-Sanitizer
+description: MindStudio-Sanitizer （mssanitizer）是MindStudio的检测工具组件，提供包括内存检测、竞争检测、未初始化检测等能力。
+type: private
+branches:
+  - name: master

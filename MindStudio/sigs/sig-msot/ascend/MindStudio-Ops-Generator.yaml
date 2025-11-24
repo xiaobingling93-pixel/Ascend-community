@@ -1,0 +1,5 @@
+name: MindStudio-Ops-Generator
+description: MindStudio-Ops-Generator 是MindStudio用于生成自定义算子工程的工具组件。
+type: private
+branches:
+  - name: master

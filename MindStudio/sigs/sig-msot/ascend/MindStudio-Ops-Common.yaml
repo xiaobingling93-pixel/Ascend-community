@@ -1,0 +1,5 @@
+name: MindStudio-Ops-Common
+description: MindStudio-Ops-Common （msopscommon）是MindStudio工具侧使用的基础能力组件，提供函数劫持等能力。
+type: private
+branches:
+  - name: master
