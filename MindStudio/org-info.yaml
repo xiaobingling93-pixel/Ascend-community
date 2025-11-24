@@ -129,3 +129,11 @@ sigs:
       - gitcode_id: leo920320
         name: 刘鹏程
         email: liupengcheng8@huawei.com
+  - sig_name: sig-msmemscope
+    maintainers:
+      - gitcode_id: Martin_M
+        name: 毛晨
+        email: maochen7@huawei.com
+      - gitcode_id: justice1717
+        name: 郑义
+        email: zhengyi50@huawei.com
