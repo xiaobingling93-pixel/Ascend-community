@@ -31,8 +31,8 @@ repo-info.yaml 是 YAML 格式文件，包含以下顶层字段：
 | name | 字符串 |一层| 仓库名，必填 |
 | rename_from |  字符串 |一层| 修改前的仓库名，可选 |
 | description | 字符串 | 一层| 仓库描述，必填 |
-| type| 字符串 |一层| 仓库类型（可填写public或者private），必填|
-| branches| 列表 |一层| 仓库分支信息，必填|f
+| type| 字符串 |一层| 仓库类型（填写public），必填|
+| branches| 列表 |一层| 仓库分支信息，必填|
 
 上述 branches 的每一条分支记录包含如下元素：
 | 字段 | 类型 | 层级|说明 |
@@ -48,7 +48,7 @@ repo-info.yaml 是 YAML 格式文件，包含以下顶层字段：
 name: testDemo2					# 修改后的仓库名
 rename_from: testDemo			# 修改前的仓库名 （如需要修改仓库名）
 description: "test Demo2"		# 仓库描述
-type: public					# 仓库类型（公仓或者私仓）
+type: public					# 仓库类型（公仓）
 branches:
   - name: master				# 分支名
     type: protected				# 分支类型，这里的type值只能填protected，表示该分支为保护分支；要么不填
@@ -63,7 +63,7 @@ branches:
 ```
 name: AAA                 		# 仓库名
 description: "AAA Demo"       	# 仓库描述
-type: public                    # 仓库类型（公仓或者私仓）
+type: public                    # 仓库类型（公仓）
 branches:
   - name: master                # 分支名
     type: protected             # 分支类型，这里的type值只能填protected，表示该分支为保护分支；要么不填
@@ -78,7 +78,7 @@ branches:
 name: AAA						# 新的仓库名
 rename_from: testDemo			# 修改前的仓库名
 description: "AAA Demo"			# 仓库描述
-type: public					# 仓库类型（公仓或者私仓）
+type: public					# 仓库类型（公仓）
 branches:
   - name: master                # 分支名
     type: protected             # 分支类型，这里的type值只能填protected，表示该分支为保护分支；要么不填
@@ -92,7 +92,7 @@ branches:
 ```
 name: AAA                 		# 仓库名
 description: "AAA Demo"       	# 仓库描述
-type: public                    # 仓库类型（公仓或者私仓）
+type: public                    # 仓库类型（公仓）
 branches:
   - name: master                # 分支名
     type: protected             # 分支类型，这里的type值只能填protected，表示该分支为保护分支；要么不填
@@ -107,7 +107,7 @@ branches:
 ```
 name: AAA                 # 仓库名
 description: "AAA Demo"       # 仓库描述
-type: public                    # 仓库类型（公仓或者私仓）
+type: public                    # 仓库类型（公仓）
 branches:
   - name: master                # 分支名
     type: protected             # 分支类型，这里的type值只能填protected，表示该分支为保护分支；要么不填
@@ -123,7 +123,7 @@ branches:
 ```
 name: AAA                 # 仓库名
 description: "AAA Demo"       # 仓库描述
-type: public                    # 仓库类型（公仓或者私仓）
+type: public                    # 仓库类型（公仓）
 branches:
   - name: master                # 分支名
     type: protected             # 分支类型，这里的type值只能填protected，表示该分支为保护分支；要么不填
@@ -136,7 +136,7 @@ branches:
 ```
 name: AAA                 # 仓库名
 description: "AAA Demo"       # 仓库描述
-type: public                    # 仓库类型（公仓或者私仓）
+type: public                    # 仓库类型（公仓）
 branches:
   - name: master                # 分支名
     type: protected             # 分支类型，这里的type值只能填protected，表示该分支为保护分支；要么不填
@@ -145,6 +145,7 @@ branches:
 3. 管理员在gitcode的web页面进行操作删除。
 
 ## 注意事项 
+- 创建仓库时，仓库名不支持包含空格。
 - 当需要创建一个新仓库时，机器人会将main分支或者master分支作为仓库的默认分支创建好。
 - 仓库名即仓库路径，修改仓库名（name）后，仓库路径随之修改。
 - 如果仓库分支的create_from字段没有填写，默认基于master分支创建分支。

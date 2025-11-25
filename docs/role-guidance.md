@@ -69,7 +69,16 @@
 3.  **提交 PR**：提交第二个 PR 至 `master` 分支
 4.  ✅  **通过审查**：此 PR 需获得 `ascend-cla/yes`, `lgtm`, `approved` 三个标签。评审流程与【调整 SIG 信息文件】完全相同，需由**新 SIG 组的 maintainers** 进行评审和批准
 
-> **⚠️ 注意事项**：如果新 SIG 组初始只有两位 maintainer，则第二步的 PR **必须由其他成员（非该 maintainer）** 提交
+> **⚠️ 注意事项**：
+> 1. 如果新 SIG 组初始只有两位 maintainer，则第二步的 PR **必须由其他成员（非该 maintainer）** 提交；
+> 2. sig-info.yaml里配置的repo的值和仓库的路径值需要保持一致；
+>
+>     ![](../figures/create-sig1.png)
+>
+> 3. 请务必保证org-info.yaml中的sig-name和sig目录名和sig-info.yaml中的name三者保持一致，以避免无法通过 `/lgtm` 和 `/approve` 指令添加标签的情况。
+>
+>     ![](../figures/create-sig2.png)
+>
 ***
 
 ### 🆕 如何在社区新增/修改项目
@@ -94,7 +103,9 @@
     - `lgtm`：请联系 `org-info.yaml` 中该 SIG 组的 **maintainers** 进行评审。评审通过后，由 maintainer 评论 `/lgtm`
     - `approved`：同上,联系该 SIG 组的 **maintainers** 进行批准。批准后，由 maintainer 评论 `/approve`
 
-> **⚠️ 注意事项**：如果某个 SIG 组只有两位 maintainer，则新增或者修改 `repo-info.yaml` 文件的 PR **必须由非 maintainer 的成员**提交，以避免无法通过 `/lgtm` 和 `/approve` 指令添加标签的情况
+> **⚠️ 注意事项**：
+> 1. community仓库仅支持创建公仓，如需创建私仓请前往[community-private仓库](https://gitcode.com/Ascend/community-private)；
+> 2. 如果某个 SIG 组只有两位 maintainer，则新增或者修改 `repo-info.yaml` 文件的 PR **必须由非 maintainer 的成员**提交，以避免无法通过 `/lgtm` 和 `/approve` 指令添加标签的情况。
 
 ***
 ### 🔄 如何撤销已添加的标签
