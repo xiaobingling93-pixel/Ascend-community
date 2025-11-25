@@ -29,14 +29,8 @@ repositories:
   branch_configs:
   - branch:
     - master
-    - br_develop_mindie
-    - br_release_mindie_2.0.RC1_20251014
-    - br_feature_mindie_2.0.T32_POC_20250723
-    - br_feature_mindie_2.1.T10_POC_20250827
-    - br_noncom_mindie_2.2.T10_730POC_20251025
-    - br_release_mindie_2.1.RC1_20251228
-    - br_noncom_mindie_2.2.T20_830POC_20251121
-    - br_release_mindie_2.2.RC1_20260423
+    - dev
+    - v2.3.0
     branch_keeper:
     - gitcode_id: pengxiao
     - gitcode_id: limuyuan31
