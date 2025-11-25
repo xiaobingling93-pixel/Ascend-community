@@ -1,4 +1,4 @@
-name: MindStudio Insight
+name: MindStudio-Insight
 description: 针对大模型训练&&推理场景，提供可视化调优能力，辅助用户更快定位模型性能问题
 type: public
 branches:
