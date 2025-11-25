@@ -5,46 +5,9 @@ type: public
 branches:
   - name: master
     type: protected
-  - name: develop
+  - name: dev
     type: protected
-  - name: br_release_mindie_2.1.RC1_20251228
+    create_from: master
+  - name: v2.3.0
     type: protected
-  - name: br_release_mindie_2.0.RC1_20251014
-    type: protected
-  - name: br_release_mindie_1.0.RC3_20250321
-    type: protected
-  - name: br_release_mindie_1.0.0_20250519
-    type: protected
-  - name: br_noncom_mindie_poc_20240807
-    type: protected
-  - name: br_noncom_mindie_2.2.T10_730POC_20251025
-    type: protected
-  - name: br_feature_mindie_2.1.T10_POC_20250827
-    type: protected
-  - name: br_feature_mindie_2.1.RC1_CH_20250928
-    type: protected
-  - name: br_feature_mindie_2.1.0_pangu_20250910
-    type: protected
-  - name: br_feature_mindie_2.0.T8_POC_20250620
-    type: protected
-  - name: br_feature_mindie_2.0.T32_POC_20250723
-  - name: br_feature_mindie_2.0.RC1_JC_POC_20250722
-    type: protected
-  - name: br_feature_mindie_2.0.RC1_A3_POC_NEW_20250710
-    type: protected
-  - name: br_feature_mindie_2.0.RC1_A3_POC_20250710
-    type: protected
-  - name: br_feature_mindie_2.0.RC1_20250213
-    type: protected
-  - name: br_feature_mindie_1.0.RC3_openmind_20250305
-    type: protected
-  - name: br_feature_mindie_1.0.RC3_POC_ZS_20241215
-    type: protected
-  - name: br_feature_mindie_1.0.RC3_POC_ZS_20241130
-    type: protected
-  - name: br_develop_mindie
-    type: protected
-  - name: br_feature_mindie_2.3.0_opensource_20260220
-    type: protected
-  - name: br_release_mindie_2.3.0_20260520
-    type: protected
+    create_from: master
