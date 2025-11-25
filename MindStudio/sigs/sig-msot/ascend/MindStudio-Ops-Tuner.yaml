@@ -1,5 +1,0 @@
-name: MindStudio-Ops-Tuner
-description: MindStudio-Ops-Tuner 是MindStudio的msopturner组件。
-type: private
-branches:
-  - name: master

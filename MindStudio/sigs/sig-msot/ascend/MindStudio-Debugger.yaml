@@ -1,5 +1,0 @@
-name: MindStudio-Debugger
-description: MindStudio-Debugger （msdebug）是基于LLVM编译器基础架构打造的，专为MindStudio环境提供增强的调试能力的工具组件。
-type: private
-branches:
-  - name: master

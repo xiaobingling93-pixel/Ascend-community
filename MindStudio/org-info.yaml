@@ -137,19 +137,3 @@ sigs:
       - gitcode_id: justice1717
         name: 郑义
         email: zhengyi50@huawei.com
-  - sig_name: sig-mstx
-    maintainers:
-      - gitcode_id: won40
-        name: 王世领
-        email: wangshiling2@huawei.com
-      - gitcode_id: Kuwatoro
-        name: 陈泽仁
-        email: chenzeren@huawei.com
-  - sig_name: sig-msot
-    maintainers:
-      - gitcode_id: won40
-        name: 王世领
-        email: wangshiling2@huawei.com
-      - gitcode_id: Kuwatoro
-        name: 陈泽仁
-        email: chenzeren@huawei.com

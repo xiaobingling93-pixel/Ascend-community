@@ -1,5 +1,0 @@
-name: MindStudio-Ops-Profiler
-description: MindStudio-Ops-Profiler （msopprof）是MindStudio的算子开发工具msopprof工具组件。
-type: private
-branches:
-  - name: master

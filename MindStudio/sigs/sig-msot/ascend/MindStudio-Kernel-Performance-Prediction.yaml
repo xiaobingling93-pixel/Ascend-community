@@ -1,5 +1,0 @@
-name: MindStudio-Kernel-Performance-Prediction
-description: MindStudio-Kernel-Performance-Prediction （mskpp）是MindStudio支持用户输入算子表达，进而预测算子在这一算法实现下的性能上线的工具组件。
-type: private
-branches:
-  - name: master
