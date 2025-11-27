@@ -1,9 +1,0 @@
-name: MindStudio-Monitor
-description: MindStudio-Monitor（msmonitor）是MindStudio全流程工具链推出的一站式在线监控工具，提供用户在集群场景性能监控定位端到端能力。
-type: public
-branches:
-  - name: master
-  - name: poc
-  - name: pre-research
-  - name: br_release_MindStudio_8.3.0_20261231
-  - name: br_release_MindStudio_8.2.RC1_TR5_20260923

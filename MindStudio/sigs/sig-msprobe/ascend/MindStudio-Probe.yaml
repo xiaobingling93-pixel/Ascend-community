@@ -1,7 +1,0 @@
-name: MindStudio-Probe
-rename_from: msprobe
-description: 针对昇腾提供的全场景精度工具链，帮助用户快速提高模型精度定位效率。
-type: public
-branches:
-  - name: master
-    type: protected
