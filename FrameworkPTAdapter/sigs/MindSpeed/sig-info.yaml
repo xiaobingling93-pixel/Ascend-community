@@ -70,6 +70,12 @@ repositories:
   - gitcode_id: fengshuxin
   - gitcode_id: wenjiang23
   - gitcode_id: mhh111
+  - gitcode_id: cjy840282
+  - gitcode_id: tichang
+  - gitcode_id: zttjjj
+  - gitcode_id: zhyebin01
+  - gitcode_id: LinShua
+  - gitcode_id: JZY_SC30
 - repo:
   - Ascend/MindSpeed-MM
   committers:
