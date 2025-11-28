@@ -42,7 +42,7 @@ tc_members:
     email: xiangjie9@huawei.com
 
 sigs:
-  - sig_name: mindsdk-referenceapps
+  - sig_name: MindSDK
     maintainers: 
       - gitcode_id: Ascend_ljx
         name: 李家兴
