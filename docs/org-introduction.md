@@ -30,9 +30,14 @@
     <a href="https://gitcode.com/Ascend/MindStudio-Probe"><span style="font-size:16px;">MindStudio-Probe Repo</span></a><br>
   </tr>
   <tr>
-    <td><span style="font-size:16px;">Ascend NPU IR</span></td>
+    <td><span style="font-size:16px;">AscendNPU IR</span></td>
     <td><span style="font-size:16px;">AscendNPU IR（AscendNPU Intermediate Representation）是基于MLIR（Multi-Level Intermediate Representation）构建的，面向昇腾亲和算子编译时使用的中间表示，提供昇腾完备表达能力，通过编译优化提升昇腾AI处理器计算效率，支持通过生态框架使能昇腾AI处理器与深度调优。</span></td>
-	<td><a href="https://gitcode.com/Ascend/AscendNPU-IR/blob/master/README_zh.md"><span style="font-size:16px;">Ascend NPU IR Repo</span></a><br>
+    <td><a href="https://gitcode.com/Ascend/AscendNPU-IR"><span style="font-size:16px;">AscendNPU IR Repo</span></a><br>
+  </tr>
+  <tr>
+    <td><span style="font-size:16px;">MindIE SD</span></td>
+    <td><span style="font-size:16px;">MindIE SD（Mind Inference Engine Stable Diffusion）是 MindIE 的视图生成推理模型套件，它的目标是为稳定扩散（Stable Diffusion, SD）系列大模型提供在昇腾硬件及其软件栈上的端到端推理解决方案。该软件系统内部集成了各功能模块，并对外提供统一的编程接口。</span></td>
+	<td><a href="https://gitcode.com/Ascend/MindIE-SD"><span style="font-size:16px;">MindIE SD Repo</span></a><br>
   </tr>
 </table>
 
