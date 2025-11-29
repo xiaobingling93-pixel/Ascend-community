@@ -29,11 +29,11 @@
 
 ## 说明
 
-本规范以[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)为基础，参考[OpenHarmony社区编码规范](https://gitcode.com/openharmony/docs/blob/master/zh-cn/contribute/OpenHarmony-cpp-coding-style-guide.md)、[OpenEuler社区安全编程规范](https://gitee.com/openeuler/security-committee/blob/master/docs/zh/developer-guide/SecureCoding.md)、[CANN社区编码规范](https://gitcode.com/cann/community/blob/master/contributor/coding-standards/C++%20Coding%20standards.md)整理而成，给参与Ascend开源社区项目的开发者提供编程指导。
+本指导以[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)为基础，给参与Ascend开源社区项目的开发者提供编程指导。
 
 规则并不是完美的，通过禁止在特定情况下有用的特性，可能会对代码实现造成影响。但是我们制定规则的目的是“为了大多数程序员可以得到更多的好处”。
 
-参考该规范之前，希望您具有相应的C++语言基础能力，而不是通过该文档来学习C++语言。
+参考本指导之前，希望您具有相应的C++语言基础能力，而不是通过该文档来学习C++语言。
 
 1. 了解C++语言的ISO标准；
 2. 熟知C++语言的基本语言特性，包括C++ 03/11/14/17/20相关特性；
@@ -47,14 +47,14 @@
 
 **建议**：编程时应该遵守的约定(should)
 
-本规范适用通用C++标准，如果没有特定的标准版本，适用所有的版本(C++03/11/14/17/20)。
+本指导适用通用C++标准，如果没有特定的标准版本，适用所有的版本(C++03/11/14/17/20)。
 
 ## 例外
 
 无论是'规则'还是'建议'，都必须理解该条目这么规定的原因，并努力遵守。
 但是，有些规则和建议可能会有例外。
 
-在不违背总体原则，经过充分考虑，有充足的理由的前提下，可以适当违背规范中约定。
+在不违背总体原则，经过充分考虑，有充足理由的前提下，可以适当违背本指导中的约定。
 例外破坏了代码的一致性，请尽量避免。'规则'的例外应该是极少的。
 
 下列情况，应风格一致性原则优先： 
