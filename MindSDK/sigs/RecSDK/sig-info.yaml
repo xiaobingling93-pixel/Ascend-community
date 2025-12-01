@@ -53,6 +53,12 @@ repositories:
   - gitcode_id: FngSeven
   - gitcode_id: CD1114
   - gitcode_id: zhouyubuzhaozhong
+  - gitcode_id: wangzenan
+  - gitcode_id: a2154542
+  - gitcode_id: yz53665
+  - gitcode_id: Fionazm
+  - gitcode_id: KingNineun
+  - gitcode_id: w30064656
   branch_configs:
   - branch:
     - branch_v6.0.0
