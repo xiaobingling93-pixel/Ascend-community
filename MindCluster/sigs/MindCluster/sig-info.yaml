@@ -70,6 +70,14 @@ repositories:
   - gitcode_id: zja4gitcode
   - gitcode_id: wlwen
   - gitcode_id: higher_speeder
+  - gitcode_id: shilinlee_com
+  - gitcode_id: KevinKeson
+  - gitcode_id: henian_Ni
+  - gitcode_id: wuxiaotong
+  - gitcode_id: zhangjialee
+  - gitcode_id: guoywang
+  - gitcode_id: p_chenhui
+  - gitcode_id: zengyihang
   branch_configs:
   - branch:
     - branch_v5.0.0
