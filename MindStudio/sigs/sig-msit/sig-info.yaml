@@ -121,3 +121,11 @@ repositories:
     - gitcode_id: minghang_c
     - gitcode_id: zderry
     - gitcode_id: panyj1993
+  - branch:
+    - eco_contri
+    committers:
+    - gitcode_id: hu-xiao-bo                      
+    - gitcode_id: sure-sun
+    - gitcode_id: liu_jiaxu
+    reviewers:
+    - gitcode_id: wangqihui10
