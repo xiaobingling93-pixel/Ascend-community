@@ -7,39 +7,42 @@ tc_members:
   - gitcode_id: yukunQin
     name: 秦钰昆
     email: qinyukun@huawei.com
-  - gitcode_id: edmund_hu
-    name: 胡德鹏
-    email: hudepeng2@huawei.com
+  - gitcode_id: Atomo
+    name: 宋欣
+    email: love.song@huawei.com
   - gitcode_id: chenyuanming008
     name: 陈元明
     email: chenyuanming3@huawei.com
-  - gitcode_id: tands7
-    name: 于书苹
-    email: yushuping@huawei.com
+  - gitcode_id: xinpeigeng
+    name: 耿鑫沛
+    email: gengxinpei@huawei.com
+  - gitcode_id: tensorbov2025
+    name: 高思敏
+    email: gaosimin1@huawei.com
+  - gitcode_id: zhouyubuzhaozhong
+    name: 郝日佩
+    email: haoripei@huawei.com
+  - gitcode_id: yanghw1111
+    name: 杨宏伟
+    email: yanghongwei27@huawei.com
   - gitcode_id: Ascend_ljx
     name: 李家兴
     email: lijiaxing29@huawei.com
   - gitcode_id: yihao1234
     name: 易浩
     email: yihao6@huawei.com
-  - gitcode_id: lirui2381
-    name: 李睿
-    email: lirui238@huawei.com
   - gitcode_id: u011801161
     name: 黄诗磊
     email: huangshilei3@huawei.com
   - gitcode_id: j0168
     name: 蒋皓洋
     email: jianghaoyang@huawei.com
-  - gitcode_id: daisycc1
-    name: 程俊华
-    email: daisy_chengjh@163.com
-  - gitcode_id: frankang
-    name: 康富安
-    email: kangfuan2@huawei.com
   - gitcode_id: xiangjie10
     name: 向杰
     email: xiangjie9@huawei.com
+  - gitcode_id: spangebobo
+    name: 龙万彬
+    email: longwanbin@huawei.com
 
 sigs:
   - sig_name: MindSDK
