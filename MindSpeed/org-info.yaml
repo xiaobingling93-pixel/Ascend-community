@@ -1,0 +1,66 @@
+name: MindSpeed
+description: 昇腾提供加速库以及大语言模型、多模态模型以及强化学习模型套件加速库，使客户大模型业务能快速迁移至昇腾设备，并且支持昇腾专有算法，确保开箱可用。
+tc_members:
+  - gitcode_id: gp513
+    name: 郭鹏
+    email: guopeng34@huawei.com
+  - gitcode_id: JialiZheng1
+    name: 郑加利
+    email: jializheng@huawei.com
+  - gitcode_id: dingzicha1997
+    name: 丁子霖
+    email: dingzilin@huawei.com
+  - gitcode_id: ghoshaw
+    name: 陈志国
+    email: chenzhiguo6@huawei.com
+  - gitcode_id: elvinp
+    name: 潘晨毅
+    email: panchenyi2@huawei.com
+  - gitcode_id: captainjing
+    name: 靖深进
+    email: jingshenjin@huawei.com
+  - gitcode_id: jihuazhong
+    name: 季华忠
+    email: jihuazhong1@huawei.com
+  - gitcode_id: fightingzhen
+    name: 丛臻
+    email: congzhen@huawei.com
+  - gitcode_id: fengshuxin
+    name: 封舒鑫
+    email: fengshuxin@huawei.com
+
+sigs:
+  - sig_name: MindSpeed
+    maintainers: 
+      - gitcode_id: fengliangjun
+        name: 冯良骏
+        email: fengliangjun@huawei.com
+      - gitcode_id: zhoubeirong
+        name: 周蓓蓉
+        email: zhoubeirong@huawei.com
+      - gitcode_id: gp513
+        name: 郭鹏
+        email: guopeng34@huawei.com
+      - gitcode_id: JialiZheng1
+        name: 郑加利
+        email: jializheng@huawei.com
+      - gitcode_id: leizhenzhen23
+        name: 雷珍珍
+        email: leizhenzhen4@huawei.com
+      - gitcode_id: hhhzhuyizhi
+        name: 朱彦儒
+        email: zhuyanru2@huawei.com
+      - gitcode_id: htwang
+        name: 王海涛
+        email: wanghaitao60@huawei.com
+      - gitcode_id: liyx616
+        name: 李盈萱
+        email: liyingxuan3@huawei.com
+  - sig_name: DrivingSDK
+    maintainers: 
+      - gitcode_id: jayhua
+        name: 华郁秀
+        email: huayuxiu1@huawei.com
+      - gitcode_id: zhangchenrui2
+        name: 张宸瑞
+        email: zhangchenrui2@huawei.com
