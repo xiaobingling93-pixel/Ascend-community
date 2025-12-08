@@ -1,4 +1,5 @@
 name: Tensorpipe
+description: NA
 type: public
 branches:
   - name: master

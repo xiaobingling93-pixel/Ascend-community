@@ -1,4 +1,5 @@
 name: openmind-hub
+description: NA
 type: public
 branches:
   - name: v1.2.0
