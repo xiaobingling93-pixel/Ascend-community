@@ -7,22 +7,19 @@ repositories:
 - repo:
   - Ascend/MindIE-SD
   committers:
-  - gitcode_id: zk123
-  - gitcode_id: Gongen
-  - gitcode_id: jyoung6652
   - gitcode_id: guowenna1
   - gitcode_id: lanwangli
   - gitcode_id: blian
-  reviewers:
   - gitcode_id: mazhixin00_00
-  - gitcode_id: betta18
-  - gitcode_id: changetheway
   - gitcode_id: weixin_44144262
+  - gitcode_id: fan2956
+  - gitcode_id: betta18
+  reviewers:
+  - gitcode_id: changetheway
   - gitcode_id: Semmer
   - gitcode_id: LoganJane
   - gitcode_id: yyansifu
   - gitcode_id: wenjiali_sh
-  - gitcode_id: fan2956
   - gitcode_id: zhou-wenxue
   - gitcode_id: shaopeng666
   - gitcode_id: muziyuhui666
