@@ -34,3 +34,11 @@ sigs:
   - gitcode_id: lanwangli
     name: 蓝王力
     email: lanwangli@huawei.com
+- sig_name: MindIE-Turbo
+  maintainers: 
+  - gitcode_id: masiming
+    name: 马嘶鸣
+    email: masiming1@huawei.com
+  - gitcode_id: jyoung6652
+    name: 杨健
+    email: yangjian184@huawei.com
