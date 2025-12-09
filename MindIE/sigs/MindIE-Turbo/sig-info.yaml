@@ -1,0 +1,32 @@
+name: MindIE-Turbo
+description: MindIE Turbo是基于NPU芯片的大语言模型推理引擎加速插件库，旨在承载自研的大语言模型优化算法及推理引擎相关优化。MindIE Turbo提供一系列模块化和插件化接口，支持外部推理引擎的接入和加速。
+mailing_list: NA
+meeting_url: NA
+mentors: []
+repositories:
+- repo:
+  - Ascend/MindIE-Turbo
+  committers:
+  - gitcode_id: maoxx241
+  - gitcode_id: chenchuw
+  - gitcode_id: jyoung6652
+  - gitcode_id: wen-jie666
+  reviewers:
+  - gitcode_id: jyoung6652
+  - gitcode_id: maoxx241
+  - gitcode_id: chenchuw
+  - gitcode_id: liang-yuhuitongji
+  - gitcode_id: wen-jie666
+  - gitcode_id: yumiao-hw
+  - gitcode_id: zhaorifa263
+  - gitcode_id: LiuYi-UP
+  branch_configs:
+  - branch:
+    - master
+    - dev
+    - v2.3.0
+    branch_keeper:
+    - gitcode_id: pengxiao
+    - gitcode_id: limuyuan31
+    - gitcode_id: jyoung6652
+    - gitcode_id: maoxx241
