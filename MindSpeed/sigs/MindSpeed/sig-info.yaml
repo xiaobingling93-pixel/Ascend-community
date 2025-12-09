@@ -122,6 +122,7 @@ repositories:
   - gitcode_id: meng-coding
   - gitcode_id: chengchengyyy
   - gitcode_id: wanglikai1019
+  - gitcode_id: gaojie
 - repo:
   - Ascend/MindSpeed-RL
   committers:
