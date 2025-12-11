@@ -78,6 +78,14 @@ repositories:
   - gitcode_id: guoywang
   - gitcode_id: p_chenhui
   - gitcode_id: zengyihang
+  - gitcode_id: east-yuan
+  - gitcode_id: Henry_jihaoen
+  - gitcode_id: jupitergone
+  - gitcode_id: xu-jingru
+  - gitcode_id: youngzhou66
+  - gitcode_id: Crookiebird
+  - gitcode_id: cqchou
+  - gitcode_id: Wenlin7150
   branch_configs:
   - branch:
     - branch_v5.0.0
