@@ -1,5 +1,5 @@
-name: MultiModalSDK
-description: MultiModalSDK
+name: MultimodalSDK
+description: MultimodalSDK
 type: public
 branches:
   - name: master

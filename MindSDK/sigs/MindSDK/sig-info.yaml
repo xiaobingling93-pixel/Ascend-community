@@ -9,7 +9,7 @@ repositories:
 - repo:
   - Ascend/AgentSDK
   - Ascend/IndexSDK
-  - Ascend/MultiModalSDK
+  - Ascend/MultimodalSDK
   - Ascend/VisionSDK
   - Ascend/RAGSDK
   - Ascend/mindsdk-referenceapps
