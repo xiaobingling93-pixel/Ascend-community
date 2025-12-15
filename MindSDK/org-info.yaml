@@ -43,6 +43,9 @@ tc_members:
   - gitcode_id: spangebobo
     name: 龙万彬
     email: longwanbin@huawei.com
+  - gitcode_id: captainjing
+    name: 靖深进
+    email: jingshenjin@huawei.com
 
 sigs:
   - sig_name: MindSDK
@@ -64,3 +67,11 @@ sigs:
       - gitcode_id: zhouyubuzhaozhong
         name: 郝日佩
         email: haoripei@huawei.com
+  - sig_name: DrivingSDK
+    maintainers: 
+      - gitcode_id: jayhua
+        name: 华郁秀
+        email: huayuxiu1@huawei.com
+      - gitcode_id: zhangchenrui2
+        name: 张宸瑞
+        email: zhangchenrui2@huawei.com

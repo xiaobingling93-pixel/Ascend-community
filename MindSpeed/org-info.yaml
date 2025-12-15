@@ -56,11 +56,3 @@ sigs:
       - gitcode_id: liyx616
         name: 李盈萱
         email: liyingxuan3@huawei.com
-  - sig_name: DrivingSDK
-    maintainers: 
-      - gitcode_id: jayhua
-        name: 华郁秀
-        email: huayuxiu1@huawei.com
-      - gitcode_id: zhangchenrui2
-        name: 张宸瑞
-        email: zhangchenrui2@huawei.com
