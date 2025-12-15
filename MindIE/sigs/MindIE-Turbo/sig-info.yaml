@@ -8,16 +8,11 @@ repositories:
   - Ascend/MindIE-Turbo
   committers:
   - gitcode_id: maoxx241
-  - gitcode_id: chenchuw
   - gitcode_id: jyoung6652
-  - gitcode_id: wen-jie666
   reviewers:
   - gitcode_id: jyoung6652
   - gitcode_id: maoxx241
-  - gitcode_id: chenchuw
-  - gitcode_id: liang-yuhuitongji
-  - gitcode_id: wen-jie666
-  - gitcode_id: yumiao-hw
+  - gitcode_id: yumiao_hw
   - gitcode_id: zhaorifa263
   - gitcode_id: LiuYi-UP
   branch_configs:

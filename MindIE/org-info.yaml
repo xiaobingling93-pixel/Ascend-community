@@ -10,7 +10,7 @@ tc_members:
 - gitcode_id: towncharlie
   name: 王洋
   email: kevin.wangyang@huawei.com
-- gitcode_id: msm_ascend
+- gitcode_id: masiming
   name: 马嘶鸣
   email: masiming1@huawei.com
 - gitcode_id: jyoung6652
@@ -19,7 +19,7 @@ tc_members:
 - gitcode_id: pengxiao
   name: 彭晓
   email: vince.pengxiao@huawei.com
-- gitcode_id: yumiao-hw
+- gitcode_id: yumiao_hw
   name: 于淼
   email: yumiao16@huawei.com
 - gitcode_id: limuyuan31

@@ -33,7 +33,7 @@ sigs:
         name: 钟源珂
   - sig_name: security
     maintainers:
-      - gitcode_id: HZFenng
+      - gitcode_id: HZFeng
         name: 胡占锋
         email: huzhanfeng@huawei.com
       - gitcode_id: pengxie

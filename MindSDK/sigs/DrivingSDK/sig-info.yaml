@@ -17,7 +17,7 @@ repositories:
   - gitcode_id: zhuweichen
   - gitcode_id: wangshihao_2025
   - gitcode_id: jayhua
-  - gitcode_id: captainjing
+  - gitcode_id: captain_jing
   - gitcode_id: zhangchenrui2
   - gitcode_id: zhang_qianqian46
   - gitcode_id: yuansunshun
@@ -39,7 +39,7 @@ repositories:
     - gitcode_id: jayhua
     - gitcode_id: zhangchenrui2
     reviewers:
-    - gitcode_id: captainjing
+    - gitcode_id: captain_jing
     - gitcode_id: zhang_qianqian46
     - gitcode_id: zhangchenrui2
     - gitcode_id: jayhua
@@ -50,7 +50,7 @@ repositories:
     - gitcode_id: jayhua
     - gitcode_id: zhangchenrui2
     reviewers:
-    - gitcode_id: captainjing
+    - gitcode_id: captain_jing
     - gitcode_id: zhang_qianqian46
     - gitcode_id: zhangchenrui2
     - gitcode_id: jayhua
