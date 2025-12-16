@@ -91,6 +91,7 @@ repositories:
     - gitcode_id: jiangzhichao
     - gitcode_id: aoyouweilai
     - gitcode_id: mlh0101
+    - gitcode_id: kaocong
     reviewers:
     - gitcode_id: duanhaomiao25
     - gitcode_id: jiangzhichao
@@ -103,6 +104,10 @@ repositories:
     - gitcode_id: genius52
     - gitcode_id: mlh0101
     - gitcode_id: weixin_43368449
+    - gitcode_id: liuhaoran18
+    - gitcode_id: ljtyzx
+    - gitcode_id: C_LMQ_15981673791
+    - gitcode_id: Fisher_
   branch_configs:
   - branch:             
     - br_release_MindStudio_8.2.RC1_20260923
