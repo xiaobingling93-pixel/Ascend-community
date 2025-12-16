@@ -1,30 +1,45 @@
 name: MindIE
 description: 昇腾推理引擎，基于昇腾硬件的运行加速、调试调优、快速迁移部署的高性能深度学习推理框架，分层开放满足各类需求，统一接口使能极简开发，沉淀能力构筑极致性能
 tc_members:
-- gitcode_id: wumingjing
-  name: 吴铭泾
-  email: wumingjing@huawei.com
-- gitcode_id: mywaaagh_admin
-  name: 李超然
-  email: lichaoran1@huawei.com
-- gitcode_id: towncharlie
-  name: 王洋
-  email: kevin.wangyang@huawei.com
+- gitcode_id: wang_ddu
+  name: 王建辉
+  email: wangjianhui14@huawei.com
+- gitcode_id: lu_lucas
+  name: 吕坤
+  email: lvkun@huawei.com
 - gitcode_id: masiming
   name: 马嘶鸣
   email: masiming1@huawei.com
-- gitcode_id: jyoung6652
-  name: 杨健
-  email: yangjian184@huawei.com
-- gitcode_id: pengxiao
-  name: 彭晓
-  email: vince.pengxiao@huawei.com
+- gitcode_id: jgong5
+  name: 龚炯
+  email: gongjiong@huawei.com
+- gitcode_id: blian
+  name: 连斌
+  email: lianbin@huawei.com
+- gitcode_id: tanjinghui
+  name: 檀景辉
+  email: tanjinghui@huawei.com
+- gitcode_id: senxiangms
+  name: 项森
+  email: xiangsen2@huawei.com
 - gitcode_id: yumiao_hw
   name: 于淼
   email: yumiao16@huawei.com
-- gitcode_id: limuyuan31
-  name: 李牧原
-  email: limuyuan3@huawei.com
+- gitcode_id: ChenBoAscend
+  name: 陈波
+  email: chenbo113@huawei.com
+- gitcode_id: hekefeng
+  name: 贺科峰
+  email: hekefeng@huawei.com
+- gitcode_id: xinyuanyue2010
+  name: 张馨元
+  email: zhangxinyuan1@huawei.com
+- gitcode_id: zgaox2025
+  name: 高志平
+  email: gaozhiping@huawei.com
+- gitcode_id: hejianping
+  name: 何建平
+  email: hejianping7@huawei.com
 sigs:
 - sig_name: MindIE-SD
   maintainers: 
