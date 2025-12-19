@@ -22,6 +22,7 @@ repositories:
   - gitcode_id: wangtao489
   - gitcode_id: rusyaev-roman
   - gitcode_id: tarvlad
+  - gitcode_id: dainbow
   reviewers:
   - gitcode_id: ccdedreams
   - gitcode_id: HaiLijuan
@@ -36,6 +37,7 @@ repositories:
   - gitcode_id: hocky
   - gitcode_id: rusyaev-roman
   - gitcode_id: tarvlad
+  - gitcode_id: dainbow
   entry_configs: []
 - repo:
   - Ascend/triton-ascend
