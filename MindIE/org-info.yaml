@@ -25,7 +25,7 @@ tc_members:
 - gitcode_id: yumiao_hw
   name: 于淼
   email: yumiao16@huawei.com
-- gitcode_id: ChenBoAscend
+- gitcode_id: whuguozili
   name: 陈波
   email: chenbo113@huawei.com
 - gitcode_id: hekefeng
@@ -118,7 +118,7 @@ sigs:
   - gitcode_id: towncharlie
     name: 王洋
     email: kevin.wangyang@huawei.com
-  - gitcode_id: ChenBoAscend
+  - gitcode_id: whuguozili
     name: 陈波
     email: chenbo113@huawei.com
 - sig_name: MindIE-QA
