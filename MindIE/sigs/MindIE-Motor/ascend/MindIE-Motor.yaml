@@ -1,0 +1,13 @@
+name: MindIE-Motor
+rename_from: MindIE-Motor
+description: 昇腾自研推理集群管理框架
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: dev
+    type: protected
+    create_from: master
+  - name: v2.3.0
+    type: protected
+    create_from: master

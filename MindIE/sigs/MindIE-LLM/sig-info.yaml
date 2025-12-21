@@ -1,0 +1,59 @@
+name: MindIE-LLM
+description: MindIE LLM（Mind Inference Engine Large Language Model，大语言模型）是MindIE下的大语言模型推理组件，基于昇腾硬件提供业界通用大模型推理能力，同时提供多并发请求的调度功能，支持Continuous Batching、PageAttention、FlashDecoding等加速特性，使能用户高性能推理需求。
+mailing_list: NA
+meeting_url: NA
+mentors: []
+repositories:
+- repo:
+  - Ascend/MindIE-LLM
+  committers:
+  - gitcode_id: masiming
+  - gitcode_id: wu_yushan
+  - gitcode_id: Katrina-CXY
+  - gitcode_id: jyoung6652
+  - gitcode_id: maoxx241
+  - gitcode_id: zk123
+  - gitcode_id: senxiangms
+  - gitcode_id: wumingjing
+  - gitcode_id: coding-lz
+  - gitcode_id: taojiovvo
+  - gitcode_id: you-zhiyuan-0511
+  - gitcode_id: niushiya
+  reviewers:
+  - gitcode_id: limuyuan31
+  - gitcode_id: momo_chenchuw
+  - gitcode_id: guleo2
+  - gitcode_id: bigsir007
+  - gitcode_id: wbj1207
+  - gitcode_id: freyfwt
+  - gitcode_id: chuyuelin
+  - gitcode_id: syli1107
+  - gitcode_id: guanxinghua
+  - gitcode_id: chenyangwang2
+  - gitcode_id: zzhao2012
+  - gitcode_id: jiangkaiqiang
+  - gitcode_id: winton_he
+  - gitcode_id: kongdeshuo
+  - gitcode_id: heartStrive
+  - gitcode_id: yjy_ac
+  - gitcode_id: zouzy5137
+  - gitcode_id: earthmanylf
+  - gitcode_id: xsxhw1
+  - gitcode_id: bowenli
+  - gitcode_id: yydyzr
+  - gitcode_id: yht1024
+  - gitcode_id: imwangyue
+  - gitcode_id: liuzepeng6
+  - gitcode_id: pu-zhe
+  - gitcode_id: chenzhinan1212
+  - gitcode_id: kk1994
+  - gitcode_id: zxf_boluochuishui
+  branch_configs:
+  - branch:
+    - master
+    - dev
+    - v2.3.0
+    branch_keeper:
+    - gitcode_id: pengxiao
+    - gitcode_id: limuyuan31
+    - gitcode_id: Katrina-CXY
