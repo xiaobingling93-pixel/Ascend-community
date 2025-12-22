@@ -41,48 +41,6 @@ tc_members:
   name: 何建平
   email: hejianping7@huawei.com
 sigs:
-- sig_name: Release-SIG
-  maintainers: 
-  - gitcode_id: yumiao_hw
-    name: 于淼
-    email: yumiao16@huawei.com
-  - gitcode_id: limuyuan31
-    name: 李牧原
-    email: limuyuan3@huawei.com
-  - gitcode_id: YuJforAscend 
-    name: 于健
-    email: yujian.yujian@huawei.com
-  - gitcode_id: hw-zhoutianyang
-    name: 周天扬
-    email: zhoutianyang@huawei.com
-- sig_name: Security-SIG
-  maintainers: 
-  - gitcode_id: zk123
-    name: 柯展
-    email: kezhan@huawei.com
-  - gitcode_id: zhaorifa263
-    name: 赵日发
-    email: zhaorifa@huawei.com
-  - gitcode_id: limuyuan31
-    name: 李牧原
-    email: limuyuan3@huawei.com
-- sig_name: Doc-SIG
-  maintainers: 
-  - gitcode_id: evakkkkkkk
-    name: 康宇昕
-    email: kangyuxin@huawei.com
-  - gitcode_id: xiao-qing123
-    name: 肖庆
-    email: xiaoqing14@h-partners.com
-  - gitcode_id: ella07
-    name: 谢昌秀
-    email: xiechangxiu3@h-partners.com
-  - gitcode_id: herizhen
-    name: 何日侦
-    email: herizhen@h-partners.com
-  - gitcode_id: caiwenwen 
-    name: 蔡雯雯
-    email: caiwenwen6@h-partners.com
 - sig_name: MindIE-SD
   maintainers: 
   - gitcode_id: lanwangli
@@ -121,11 +79,3 @@ sigs:
   - gitcode_id: whuguozili
     name: 陈波
     email: chenbo113@huawei.com
-- sig_name: MindIE-QA
-  maintainers: 
-  - gitcode_id: QingC_xili
-    name: 崔青
-    email: cuiqing2@huawei.com
-  - gitcode_id: dengshiqi9933_admin
-    name: 邓诗锜
-    email: dengshiqi6@huawei.com
