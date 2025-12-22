@@ -25,7 +25,7 @@ repositories:
   - gitcode_id: zderry
   - gitcode_id: kali20gakki1
   - gitcode_id: wuyulong17
-  - gitcode_id: Ascend_t00897426
+  - gitcode_id: tangke28
   reviewers:
   - gitcode_id: lv-kaimeng
   - gitcode_id: wowenjie
@@ -46,7 +46,7 @@ repositories:
   - gitcode_id: qinyyy
   - gitcode_id: xiaoy2459
   - gitcode_id: wuyulong17
-  - gitcode_id: Ascend_t00897426
+  - gitcode_id: tangke28
   entry_configs:
   - path:
     - debug
