@@ -48,3 +48,32 @@ sigs:
       - gitcode_id: longlivethepeople_
         name: 麦江东
         email: maijiangdong1@huawei.com
+  - sig_name: qa
+    maintainers:
+      - gitcode_id: FuSuzee
+        name: 付学智
+        email: fuxuezhi1@huawei.com
+      - gitcode_id: zz-z-zz
+        name: 史志锋
+        email: shizhifeng.shi@huawei.com
+      - gitcode_id: Bruce1206
+        name: 上官飞
+        email: shangguanfei@huawei.com
+      - gitcode_id: gaozijuan
+        name: 高紫娟
+        email: gaozijuan@huawei.com
+      - gitcode_id: QingC_xili
+        name: 崔青
+        email: cuiqing2@huawei.com
+      - gitcode_id: kobadguy
+        name: 陈挺
+        email: chenting23@huawei.com
+      - gitcode_id: Lzark
+        name: 刘博
+        email: zark.liubo@huawei.com
+      - gitcode_id: ogq123
+        name: 欧国琴
+        email: ouguoqin@huawei.com
+      - gitcode_id: sheng_nan_zhang1
+        name: 张胜男
+        email: zhangshengnan1@huawei.com

@@ -1,0 +1,34 @@
+name: qa
+description: NA
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers:
+- gitcode_id: Melody
+  name: 陈美玲
+- gitcode_id: hid43639950
+  name: 高敏惠
+- gitcode_id: liuting0211
+  name: 刘婷
+- gitcode_id: chenqian-huawei
+  name: 陈乾
+- gitcode_id: MQ_0804
+  name: 朱绍铨
+- gitcode_id: sheng_nan_zhang1
+  name: 张胜男
+- gitcode_id: ly577
+  name: 刘杨
+- gitcode_id: wantiantian
+  name: 万天添
+- gitcode_id: yejingjing
+  name: 叶晶晶
+- gitcode_id: zoushilang-hw
+  name: 邹侍琅
+- gitcode_id: jiachengyu
+  name: 俞佳程
+- gitcode_id: Xu-yejie
+  name: 徐正虎
+- gitcode_id: Bruce1206
+  name: 上官飞
+repositories:
+- repo: []
