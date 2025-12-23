@@ -55,11 +55,6 @@ sigs:
       - gitcode_id: tands7
         name: 于书苹
         email: yushuping@huawei.com
-  - sig_name: MindEdge
-    maintainers: 
       - gitcode_id: frankang
         name: 康富安
         email: kangfuan2@huawei.com
-      - gitcode_id: yangjingyao
-        name: 杨晶垚
-        email: yangjingyao@huawei.com
