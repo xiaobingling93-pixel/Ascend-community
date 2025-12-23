@@ -1,0 +1,7 @@
+name: om-sdk
+description: 使能构建边云协同平台、管理边缘AI业务，提供安全、可信、完整的轻量化端边云框架
+type: public
+branches:
+  - name: master
+    type: protected
+
