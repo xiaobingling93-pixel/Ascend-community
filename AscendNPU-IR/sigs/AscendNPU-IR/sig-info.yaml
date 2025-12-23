@@ -44,21 +44,16 @@ repositories:
   committers:
   - gitcode_id: ccdedreams
   - gitcode_id: HaiLijuan
-  - gitcode_id: cxtjjcz
-  - gitcode_id: wcleungaj
   - gitcode_id: wangtao489
+  - gitcode_id: wcleungaj
+  - gitcode_id: shijingchang
   - gitcode_id: zhouhao176
-  - gitcode_id: liuzhuheng
   - gitcode_id: kpxing
   - gitcode_id: zhaozhijie
   - gitcode_id: yangkaixin
-  - gitcode_id: shijingchang
-  - gitcode_id: weizhan4
   - gitcode_id: zhang-chunli01
-  - gitcode_id: saruagithub
-  - gitcode_id: kang-ingu
-  - gitcode_id: rusyaev-roman
-  - gitcode_id: tarvlad
+  - gitcode_id: zhucehw
+  - gitcode_id: HinPeng
   reviewers:
   - gitcode_id: ccdedreams
   - gitcode_id: HaiLijuan
@@ -86,6 +81,8 @@ repositories:
   - gitcode_id: luobaiqing
   - gitcode_id: rusyaev-roman
   - gitcode_id: tarvlad
+  - gitcode_id: weizhan4
+  - gitcode_id: HinPeng
   entry_configs: []
 - repo:
   - Ascend/llvm-project
