@@ -136,3 +136,13 @@ repositories:
     - gitcode_id: qiangge123a
     - gitcode_id: qinyyy
     - gitcode_id: xiaoy2459
+  - Ascend/mockcpp
+  committers:
+  - gitcode_id: xhahn77
+  - gitcode_id: aerfaliang
+  - gitcode_id: chenhao_1209
+  - gitcode_id: kali20gakki1
+  reviewers:
+  - gitcode_id: aerfaliang
+  - gitcode_id: chenhao_1209
+  - gitcode_id: kali20gakki1
