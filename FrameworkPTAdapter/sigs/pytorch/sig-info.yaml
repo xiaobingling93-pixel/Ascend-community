@@ -86,6 +86,7 @@ repositories:
   - gitcode_id: wangqiang160
   - gitcode_id: liangsongwei
   - gitcode_id: culechan
+  - gitcode_id: chuboning
 - repo:
   - Ascend/Tensorpipe
   committers:
