@@ -19,6 +19,7 @@ repositories:
   - gitcode_id: taojiovvo
   - gitcode_id: you-zhiyuan-0511
   - gitcode_id: niushiya
+  - gitcode_id: evakkkkkkk
   reviewers:
   - gitcode_id: limuyuan31
   - gitcode_id: momo_chenchuw
@@ -48,6 +49,9 @@ repositories:
   - gitcode_id: chenzhinan1212
   - gitcode_id: kk1994
   - gitcode_id: zxf_boluochuishui
+  - gitcode_id: martinXuc
+  - gitcode_id: xiao-qing123
+  - gitcode_id: ella07
   branch_configs:
   - branch:
     - master
