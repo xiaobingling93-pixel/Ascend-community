@@ -41,6 +41,9 @@ sigs:
       - gitcode_id: zhumoon
         name: 朱默
         email: zhumo@huawei.com
+      - gitcode_id: keith_wa
+        name: 王建新
+        email: wangjianxin11@huawei.com
   - sig_name: sig-mstt
     maintainers: 
       - gitcode_id: kun_8
