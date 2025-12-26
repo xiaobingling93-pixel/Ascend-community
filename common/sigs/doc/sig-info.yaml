@@ -1,0 +1,20 @@
+name: doc
+description: NA
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers:
+- gitcode_id: xzm123
+  name: 谢作孟
+  email: xiezuomeng@huawei.com
+- gitcode_id: evakkkkkkk
+  name: 康宇昕
+  email: kangyuxin@huawei.com
+- gitcode_id: xyy_doc
+  name: 姚歆毅
+  email: yaoxinyi2@huawei.com
+- gitcode_id: lee_jihae
+  name: LEE JIHAE
+  email: lee.jihae1@huawei.com
+repositories:
+- repo: []
