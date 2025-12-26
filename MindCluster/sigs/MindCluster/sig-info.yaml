@@ -126,7 +126,7 @@ repositories:
     - gitcode_id: chenyuanming008
     - gitcode_id: xiangjie10
 - repo:
-  - Ascend/mef
-  - Ascend/om-sdk
+  - Ascend/MEF
+  - Ascend/OMSDK
   committers:
   - gitcode_id: yangjingyao
