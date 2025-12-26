@@ -77,3 +77,14 @@ sigs:
       - gitcode_id: sheng_nan_zhang1
         name: 张胜男
         email: zhangshengnan1@huawei.com
+  - sig_name: doc 
+    maintainers:
+      - gitcode_id: cherry_03
+        name: 王艳秋
+        email: wangyanqiu2@huawei.com
+      - gitcode_id: xiejunqi
+        name: 谢君奇
+        email: xiejunqi@huawei.com
+      - gitcode_id: Ww7012
+        name: 郑雯文
+        email: zhengwenwen7@huawei.com
