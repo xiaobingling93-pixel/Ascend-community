@@ -23,6 +23,8 @@ repositories:
   - gitcode_id: wangqiang160
   - gitcode_id: medivh-x
   - gitcode_id: zqwenn
+  - gitcode_id: anyrenwei
+  - gitcode_id: guoqi1024
   reviewers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
@@ -50,6 +52,8 @@ repositories:
   - gitcode_id: medivh-x
   - gitcode_id: liangsongwei
   - gitcode_id: culechan
+  - gitcode_id: anyrenwei
+  - gitcode_id: guoqi1024
 - repo:
   - Ascend/op-plugin
   committers:
@@ -62,6 +66,7 @@ repositories:
   - gitcode_id: yangkaixin
   - gitcode_id: rain-666
   - gitcode_id: zqwenn
+  - gitcode_id: guoqi1024
   reviewers:
   - gitcode_id: qingfenxiaochong1
   - gitcode_id: li_jing_hw
@@ -87,6 +92,7 @@ repositories:
   - gitcode_id: liangsongwei
   - gitcode_id: culechan
   - gitcode_id: chuboning
+  - gitcode_id: guoqi1024
 - repo:
   - Ascend/Tensorpipe
   committers:
