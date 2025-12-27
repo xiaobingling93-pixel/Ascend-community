@@ -1,4 +1,4 @@
-name: MindSDK
+name: MindSeriesSDK
 description: 提供昇腾AI处理器加速的各类AI软件开发套件（SDK），提供极简易用的API，加速高性能AI应用的开发，赋能千行百业。
 tc_members:
   - gitcode_id: HLiuzp
@@ -48,7 +48,7 @@ tc_members:
     email: jingshenjin@huawei.com
 
 sigs:
-  - sig_name: MindSDK
+  - sig_name: MindSeriesSDK
     maintainers: 
       - gitcode_id: Ascend_ljx
         name: 李家兴

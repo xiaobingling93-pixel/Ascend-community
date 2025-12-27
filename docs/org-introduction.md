@@ -16,7 +16,7 @@
       <a href="https://gitcode.com/Ascend/mind-cluster"><span style="font-size:16px;">MindCluster Repo</span></a><br>
   </tr>
   <tr>
-    <td><span style="font-size:16px;">MindSDK</span></td>
+    <td><span style="font-size:16px;">MindSeriesSDK</span></td>
     <td><span style="font-size:16px;">提供昇腾AI处理器加速的各类AI软件开发套件（SDK），提供极简易用的API，加速高性能AI应用的开发，赋能千行百业。</span></td>
 	<td><a href="https://gitcode.com/Ascend/RecSDK"><span style="font-size:16px;">RecSDK Repo</span></a><br>
        </td>

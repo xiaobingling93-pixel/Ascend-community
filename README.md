@@ -17,7 +17,7 @@ community 仓库是昇腾（Ascend）社区的核心管理仓库，用于实现*
 ## 📊 核心管理文件体系
 | 文件             | 位置                                      | 核心作用                          | 管理范围       |
 |------------------|-------------------------------------------|-----------------------------------|---------------------|
-| `org-info.yaml`  | 项目目录（如 `Ascend/community/MindSDK/`） | 定义项目级 TC 成员和 SIG 框架     | 项目全局架构      |
+| `org-info.yaml`  | 项目目录（如 `Ascend/community/MindCluster/`） | 定义项目级 TC 成员和 SIG 框架     | 项目全局架构      |
 | `sig-info.yaml`  | SIG 目录（如 `sigs/RecSDK/`）           | 配置 SIG 内仓库的精细权限规则     | SIG 组内所有仓库代码合入权限 |
 | `repo-info.yaml`  | SIG 目录（如 `sigs/ascend/`）           | 定义仓库分支结构与属性     | SIG 组内所有仓库创建 |
 
@@ -29,10 +29,10 @@ community代码仓目录结构对应管理组织结构：
 |--|--|--|--|
 |  平台组织 |Ascend  	| 0层 |组织
 |  仓库    | community 	| 一层 |权限管理统一仓库
-|  目录    | MindStudio/MindSDK/...	| 二层 |项目目录
+|  目录    | MindStudio/MindCluster/...	| 二层 |项目目录
 |  文件    | org-info.yaml 	| 三层 |项目成员权限管理
 |  目录    | sigs 	| 三层 |项目SIG集合
-|  目录    | RecSDK/mindsdk-referenceapps/...	| 四层 |一个SIG一个目录
+|  目录    | RecSDK/DrivingSDK/...	| 四层 |一个SIG一个目录
 |  文件    | sig-info.yaml 	| 五层 |单个SIG仓库权限管理
 
 具体示例：
@@ -47,7 +47,7 @@ Ascend（组织根）
     │       │   └── ascend/
     │       │       └── *.yaml（仓库配置）
     │       └── mstt
-    ├── MindSDK（项目）
+    ├── MindCluster（项目）
     ├── docs (文档仓库)
     └── common (公共SIG)
         ├── org-info.yaml
