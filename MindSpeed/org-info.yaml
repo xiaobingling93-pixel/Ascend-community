@@ -29,6 +29,14 @@ tc_members:
 sigs:
   - sig_name: MindSpeed
     maintainers: 
+      - gitcode_id: gp513
+        name: 郭鹏
+        email: guopeng34@huawei.com
+      - gitcode_id: JialiZheng1
+        name: 郑加利
+        email: jializheng@huawei.com
+  - sig_name: MindSpeed-RL
+    maintainers: 
       - gitcode_id: fengliangjun
         name: 冯良骏
         email: fengliangjun@huawei.com
@@ -38,15 +46,19 @@ sigs:
       - gitcode_id: wucong25
         name: 吴聪
         email: wucong25@huawei.com
-      - gitcode_id: gp513
-        name: 郭鹏
-        email: guopeng34@huawei.com
-      - gitcode_id: JialiZheng1
-        name: 郑加利
-        email: jializheng@huawei.com
+  - sig_name: MindSpeed-LLM
+    maintainers: 
       - gitcode_id: leizhenzhen23
         name: 雷珍珍
         email: leizhenzhen4@huawei.com
+      - gitcode_id: dingzicha1997
+        name: 丁子霖
+        email: dingzilin@huawei.com
+      - gitcode_id: guozhihua2
+        name: 郭志华
+        email: guozhihua2@huawei.com
+  - sig_name: MindSpeed-MM
+    maintainers: 
       - gitcode_id: hhhzhuyizhi
         name: 朱彦儒
         email: zhuyanru2@huawei.com
