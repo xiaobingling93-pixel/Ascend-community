@@ -52,3 +52,136 @@ sigs:
       - gitcode_id: TsaiSyannTyuu
         name: 蔡尚求
         email: caishangqiu@huawei.com
+  - sig_name: sig-msot
+    maintainers:
+      - gitcode_id: won40
+        name: 王世领
+        email: wangshiling2@huawei.com
+      - gitcode_id: Kuwatoro
+        name: 陈泽仁
+        email: chenzeren@huawei.com
+  - sig_name: sig-msinsight
+    maintainers:
+      - gitcode_id: ly-qianxiao0309
+        name: 廖宴
+        email: liaoyan7@huawei.com
+      - gitcode_id: leo920320
+        name: 刘鹏程
+        email: liupengcheng8@huawei.com
+  - sig_name: sig-msprobe
+    maintainers:
+      - gitcode_id: kun_8
+        name: 贺坤坤
+        email: hekunkun@huawei.com
+      - gitcode_id: TsaiSyannTyuu
+        name: 蔡尚求
+        email: caishangqiu@huawei.com
+      - gitcode_id: wangchao285
+        name: 王朝
+        email: wangchao285@huawei.com
+      - gitcode_id: ly-qianxiao0309
+        name: 廖宴
+        email: liaoyan7@huawei.com
+      - gitcode_id: leo920320
+        name: 刘鹏程
+        email: liupengcheng8@huawei.com
+  - sig_name: sig-msprof
+    maintainers:
+      - gitcode_id: kali20gakki1
+        name: 张伟
+        email: zhangwei983@huawei.com
+      - gitcode_id: aerfaliang
+        name: 梁朝明
+        email: liangchaoming@huawei.com
+      - gitcode_id: chenhao_1209
+        name: 陈豪
+        email: chenhao61@huawei.com
+  - sig_name: sig-mspti
+    maintainers:
+      - gitcode_id: kali20gakki1
+        name: 张伟
+        email: zhangwei983@huawei.com
+      - gitcode_id: aerfaliang
+        name: 梁朝明
+        email: liangchaoming@huawei.com
+      - gitcode_id: Kuwatoro
+        name: 陈泽仁
+        email: chenzeren@huawei.com
+      - gitcode_id: won40
+        name: 王世领
+        email: wangshiling2@huawei.com
+      - gitcode_id: chenhao_1209
+        name: 陈豪
+        email: chenhao61@huawei.com
+  - sig_name: sig-msmemscope
+    maintainers:
+      - gitcode_id: Martin_M
+        name: 毛晨
+        email: maochen7@huawei.com
+      - gitcode_id: justice1717
+        name: 郑义
+        email: zhengyi50@huawei.com
+  - sig_name: sig-msmodelslim
+    maintainers:
+      - gitcode_id: panyj1993
+        name: 潘杨杰
+        email: panyangjie@huawei.com
+      - gitcode_id: wowenjie
+        name: 沃文杰
+        email: wowenjie@huawei.com
+      - gitcode_id: joejoezhou
+        name: 周容辰
+        email: zhourongchen1@huawei.com
+  - sig_name: sig-msserviceprofiler
+    maintainers:
+      - gitcode_id: panyj1993
+        name: 潘杨杰
+        email: panyangjie@huawei.com
+      - gitcode_id: jhon-117
+        name: 方锴
+        email: fangkai15@huawei.com
+      - gitcode_id: mjsz11
+        name: 刘成举
+        email: liuchengju5@huawei.com
+      - gitcode_id: yaohan404
+        name: 姚晗
+        email: yaohan8@huawei.com
+  - sig_name: sig-msmodeling
+    maintainers:
+      - gitcode_id: panyj1993
+        name: 潘杨杰
+        email: panyangjie@huawei.com
+      - gitcode_id: jhon-117
+        name: 方锴
+        email: fangkai15@huawei.com
+      - gitcode_id: mjsz11
+        name: 刘成举
+        email: liuchengju5@huawei.com
+      - gitcode_id: yaohan404
+        name: 姚晗
+        email: yaohan8@huawei.com
+  - sig_name: sig-mstx
+    maintainers:
+      - gitcode_id: won40
+        name: 王世领
+        email: wangshiling2@huawei.com
+      - gitcode_id: Kuwatoro
+        name: 陈泽仁
+        email: chenzeren@huawei.com
+      - gitcode_id: aerfaliang
+        name: 梁朝明
+        email: liangchaoming@huawei.com
+      - gitcode_id: justice1717
+        name: 郑义
+        email: zhengyi50@huawei.com
+  - sig_name: sig-msmonitor
+    maintainers:
+      - gitcode_id: kali20gakki1
+        name: 张伟
+        email: zhangwei983@huawei.com
+      - gitcode_id: aerfaliang
+        name: 梁朝明
+        email: liangchaoming@huawei.com
+      - gitcode_id: chenhao_1209
+        name: 陈豪
+        email: chenhao61@huawei.com
