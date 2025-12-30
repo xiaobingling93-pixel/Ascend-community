@@ -130,6 +130,8 @@ repositories:
   - Ascend/OMSDK
   committers:
   - gitcode_id: yangjingyao
+  - gitcode_id: xiangjie10
+  - gitcode_id: chenyuanming008
   reviewers:
   - gitcode_id: xxzzqqvvqq
   - gitcode_id: fufeng123_
