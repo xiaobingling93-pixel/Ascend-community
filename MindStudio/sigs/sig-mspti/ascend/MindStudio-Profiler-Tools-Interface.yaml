@@ -1,0 +1,6 @@
+name: MindStudio-Profiler-Tools-Interface
+description: NA
+type: public
+branches:
+  - name: master
+    type: protected

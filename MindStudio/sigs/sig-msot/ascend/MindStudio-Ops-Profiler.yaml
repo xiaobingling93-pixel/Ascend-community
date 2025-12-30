@@ -1,0 +1,6 @@
+name: MindStudio-Ops-Profiler
+description: NA
+type: public
+branches:
+  - name: master
+    type: protected

@@ -1,0 +1,6 @@
+name: MindStudio-Ops-Generator
+description: NA
+type: public
+branches:
+  - name: master
+    type: protected

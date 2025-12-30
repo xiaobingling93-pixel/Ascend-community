@@ -1,0 +1,6 @@
+name: MindStudio-Operator-Tools
+description: NA
+type: public
+branches:
+  - name: master
+    type: protected

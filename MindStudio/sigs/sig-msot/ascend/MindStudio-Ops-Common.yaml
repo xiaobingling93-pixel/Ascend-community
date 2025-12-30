@@ -1,0 +1,6 @@
+name: MindStudio-Ops-Common
+description: NA
+type: public
+branches:
+  - name: master
+    type: protected

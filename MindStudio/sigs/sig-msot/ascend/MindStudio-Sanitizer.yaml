@@ -1,0 +1,6 @@
+name: MindStudio-Sanitizer
+description: NA
+type: public
+branches:
+  - name: master
+    type: protected

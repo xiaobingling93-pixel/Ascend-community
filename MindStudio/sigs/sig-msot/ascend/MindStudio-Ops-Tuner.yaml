@@ -1,0 +1,6 @@
+name: MindStudio-Ops-Tuner
+description: NA
+type: public
+branches:
+  - name: master
+    type: protected

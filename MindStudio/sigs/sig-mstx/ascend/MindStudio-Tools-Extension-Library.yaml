@@ -1,0 +1,6 @@
+name: MindStudio-Tools-Extension-Library
+description: NA
+type: public
+branches:
+  - name: master
+    type: protected

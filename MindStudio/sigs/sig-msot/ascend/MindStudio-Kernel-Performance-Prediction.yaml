@@ -1,0 +1,6 @@
+name: MindStudio-Kernel-Performance-Prediction
+description: NA
+type: public
+branches:
+  - name: master
+    type: protected
