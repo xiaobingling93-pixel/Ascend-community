@@ -27,3 +27,4 @@ repositories:
 - repo:
   - Ascend/community
   - Ascend/infrastructure
+  - Ascend/.gitcode

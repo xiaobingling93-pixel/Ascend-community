@@ -1,0 +1,6 @@
+name: .gitcode
+description: ".gitcode仓用于对Ascend组织进行全局Issue模板、Pull Request模板配置"
+type: public
+branches:
+  - name: master
+    type: protected
