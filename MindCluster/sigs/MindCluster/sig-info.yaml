@@ -26,6 +26,7 @@ repositories:
   - gitcode_id: yrewzjsx
   - gitcode_id: chenyz6
   - gitcode_id: liu1103xwxw
+  - gitcode_id: shepherd-cheung
   reviewers:
   - gitcode_id: swagglian_gitcode
   - gitcode_id: wuqiangroy
@@ -52,7 +53,6 @@ repositories:
   - gitcode_id: zhoupan39
   - gitcode_id: gpxin
   - gitcode_id: lmztju
-  - gitcode_id: shepherd-cheung
   - gitcode_id: chenyuanming008
   - gitcode_id: yuncliu
   - gitcode_id: xushuhuan
