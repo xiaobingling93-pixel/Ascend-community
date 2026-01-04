@@ -23,6 +23,7 @@
 #### 2. 版本号处理规则
 
 社区版本号转换为分支名称时：
+
 - 保留字母、数字、`.`、`_`、`-`
 - 特殊字符替换为 `_`
 - 删除中文字符
@@ -37,6 +38,7 @@
 ### 示例：引入 OpenSSL v3.0.9
 
 #### 第一步：在GitCode创建空仓库
+
 按照[仓库信息yaml文件指导说明](../repo-info-guidance.md)在Ascend社区GitCode组织下创建名为 `openssl` 的仓库。
 
 #### 第二步：克隆上游仓库并建立分支
@@ -78,7 +80,7 @@ git push gitcode openssl-3.0.9          # 推送版本tag
 
 **使用命令行方式创建的仓库结构：**
 
-```
+```text
 openssl/
 ├── ascend_mindspeed_openssl-3.0.9       # 定制开发分支（默认分支）
 └── openssl-3.0.9             # 版本tag（指向上游版本）
@@ -88,7 +90,7 @@ openssl/
 
 如果通过镜像方式创建，GitCode会自动同步原仓库的所有分支和标签，因此仓库中还会包含原仓库的其他分支和标签：
 
-```
+```text
 openssl/
 ├── ascend_mindspeed_openssl-3.0.9       # 定制开发分支
 ├── openssl-3.0.9                        # 版本tag（指向上游版本）

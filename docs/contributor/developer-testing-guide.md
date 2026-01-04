@@ -22,11 +22,14 @@
 1. 开发者在昇腾（Ascend）社区贡献测试代码时需在代码头部增加版权声明，明确代码的版权归属，并同步增加许可证声明
 
     版权声明格式可参考
-    ```
+
+    ```text
     Copyright (c) [Year] [name of copyright holder]
     ```
+
     许可证声明方式可参考（以Mulan PSL v2为例）
-    ```
+
+    ```text
     This program is licensed under Mulan PSL v2.
     You can use it according to the terms and conditions of the Mulan PSL v2.
            http://license.coscl.org.cn/MulanPSL2

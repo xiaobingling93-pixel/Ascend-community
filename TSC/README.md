@@ -1,4 +1,5 @@
 # 技术指导委员会（TSC-Technical Steering Committee）定位与职责
+
 - 定义社区项目的技术发展方向和愿景，决策重大技术事项；
 - 制定、修改技术指导委员会相关制度；
 - 选举、任免技术指导委员会主席及委员；
@@ -6,9 +7,11 @@
 - 其他对社区有重要影响的技术工作。
 
 ## 社区会议
+
 欢迎通过社区[会议日历](https://meeting.ascend.osinfra.cn/)了解相关会议公告及内容，我们欢迎任何感兴趣的开发者旁听会议。
 
 ## TSC成员（排名不分先后）
+
 - 李春生 [lichunsheng@huawei.com](mailto:lichunsheng@huawei.com)
 - 孙宏伟 [sunhongwei7@huawei.com](mailto:sunhongwei7@huawei.com)
 - Yaoqing Gao [yaoqing.gao@huawei.com](mailto:yaoqing.gao@huawei.com)
@@ -22,4 +25,5 @@
 - 刘志飘 [liuzhipiao@huawei.com](mailto:liuzhipiao@huawei.com)
 
 ## 联系信息  
-contact@ascend.osinfra.cn
+
+<contact@ascend.osinfra.cn>
