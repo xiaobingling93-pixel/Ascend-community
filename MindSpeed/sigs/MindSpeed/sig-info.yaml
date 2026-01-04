@@ -185,3 +185,32 @@ repositories:
   - gitcode_id: htchu
   - gitcode_id: wangmin0104
   - gitcode_id: adrian07110
+- repo:
+  - Ascend/TransferQueue
+  committers:
+  - gitcode_id: hanzhenyu8
+  - gitcode_id: elvinp
+  - gitcode_id: xiaoyanghuaban
+  - gitcode_id: chase-rong
+  - gitcode_id: yxstev
+  - gitcode_id: Yu-Huang
+  - gitcode_id: tianyi-huawei
+  - gitcode_id: Ginray1
+  - gitcode_id: fightingzhen
+  - gitcode_id: jihuazhong
+  reviewers:
+  - gitcode_id: hanzhenyu8
+  - gitcode_id: elvinp
+  - gitcode_id: xiaoyanghuaban
+  - gitcode_id: chase-rong
+  - gitcode_id: yxstev
+  - gitcode_id: Yu-Huang
+  - gitcode_id: tianyi-huawei
+  - gitcode_id: Ginray1
+  - gitcode_id: fightingzhen
+  - gitcode_id: jihuazhong
+  - gitcode_id: zhongjianjun
+  - gitcode_id: dpj135
+  - gitcode_id: Lexie-7
+  - gitcode_id: LLLXXMM
+  - gitcode_id: baymax_591

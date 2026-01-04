@@ -68,6 +68,8 @@ sigs:
       - gitcode_id: liyx616
         name: 李盈萱
         email: liyingxuan3@huawei.com
+  - sig_name: TransferQueue
+    maintainers: 
       - gitcode_id: hanzhenyu8
         name: 韩振宇
         email: hanzhenyu8@huawei.com
