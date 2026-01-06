@@ -60,6 +60,9 @@ sigs:
       - gitcode_id: Kuwatoro
         name: 陈泽仁
         email: chenzeren@huawei.com
+      - gitcode_id: went_code
+        name: 门飞飞
+        email: menfeifei@huawei.com
   - sig_name: sig-msinsight
     maintainers:
       - gitcode_id: ly-qianxiao0309
@@ -168,6 +171,9 @@ sigs:
       - gitcode_id: Kuwatoro
         name: 陈泽仁
         email: chenzeren@huawei.com
+      - gitcode_id: went_code
+        name: 门飞飞
+        email: menfeifei@huawei.com
       - gitcode_id: aerfaliang
         name: 梁朝明
         email: liangchaoming@huawei.com
