@@ -8,6 +8,7 @@ reviewers: []
 repositories:
 - repo:
   - Ascend/RecSDK
+  - Ascend/HierarchicalKV-ascend
   committers:
   - gitcode_id: xiangpx
   - gitcode_id: tqy1998
