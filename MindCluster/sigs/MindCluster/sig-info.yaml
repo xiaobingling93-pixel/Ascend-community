@@ -112,6 +112,9 @@ repositories:
   - gitcode_id: yangpeng197
   - gitcode_id: tands7
   - gitcode_id: wang-ruiju
+  - gitcode_id: stitch27
+  - gitcode_id: u013217006
+  - gitcode_id: chenzhongnan
   branch_configs:
   - branch:
     - 5.0.0
