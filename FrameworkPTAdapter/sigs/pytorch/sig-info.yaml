@@ -136,15 +136,18 @@ repositories:
   - gitcode_id: li_jing_hw
   - gitcode_id: dingdairong
   - gitcode_id: wangqiang160
+  - gitcode_id: yang-binrong
   reviewers:
   - gitcode_id: wasd1111222
   - gitcode_id: medivh-x
   - gitcode_id: wangqiang160
   - gitcode_id: li_jing_hw
-  - gitcode_id: duchengkun
   - gitcode_id: zhanj
-  - gitcode_id: rmch
   - gitcode_id: dingdairong
   - gitcode_id: wangqianmia
   - gitcode_id: XDaoHong
   - gitcode_id: wujunliang
+  - gitcode_id: fu-hao-huawei
+  - gitcode_id: wuyi_huawei
+  - gitcode_id: songkai111
+  - gitcode_id: shen_weiling
