@@ -20,6 +20,7 @@ repositories:
   - gitcode_id: Ascend_ljx
   - gitcode_id: dd5577854
   - gitcode_id: xiangjie10
+  - gitcode_id: KinDom
   reviewers:
   - gitcode_id: janusdu
   - gitcode_id: cai_gou122
@@ -31,4 +32,3 @@ repositories:
   - gitcode_id: tree-zby
   - gitcode_id: evanTang
   - gitcode_id: chadwweng
-  
