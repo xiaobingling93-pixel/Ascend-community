@@ -1,0 +1,48 @@
+name: MindSpeed-RL
+description: 昇腾强化学习加速库
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/MindSpeed-RL
+  committers:
+  - gitcode_id: fengliangjun
+  - gitcode_id: zhoubeirong
+  - gitcode_id: elvinp
+  - gitcode_id: wucong25
+  - gitcode_id: sz19991010
+  reviewers:
+  - gitcode_id: fengliangjun
+  - gitcode_id: Ginray1
+  - gitcode_id: leizhenzhen23
+  - gitcode_id: jzh
+  - gitcode_id: wucong25
+  - gitcode_id: glhyyz
+  - gitcode_id: dingzicha1997
+  - gitcode_id: McFlurry100
+  - gitcode_id: guozhihua2
+  - gitcode_id: qyzqyz
+  - gitcode_id: may_feimei
+  - gitcode_id: zhoubeirong
+  - gitcode_id: sz19991010
+  - gitcode_id: ghoshaw
+  - gitcode_id: Hcm03
+  - gitcode_id: Minds66
+  - gitcode_id: yezhibei
+  - gitcode_id: PIPIXIU
+  - gitcode_id: iansheng
+  - gitcode_id: mr-lin125
+  - gitcode_id: ghoshaw
+  - gitcode_id: hhhzhuyizhi
+  - gitcode_id: yaochao20
+  - gitcode_id: xiazhahe
+  - gitcode_id: xiecheng_1
+  - gitcode_id: wangshuyang31
+  - gitcode_id: quancs001
+  - gitcode_id: Hcm03
+  - gitcode_id: weixin_44917616
+  - gitcode_id: zjchenn
+  - gitcode_id: yezhibei

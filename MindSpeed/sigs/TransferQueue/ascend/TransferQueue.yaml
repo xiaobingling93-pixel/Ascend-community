@@ -1,0 +1,6 @@
+name: TransferQueue
+description: 异步高性能流式数据引擎
+type: public
+branches:
+  - name: main
+    type: protected

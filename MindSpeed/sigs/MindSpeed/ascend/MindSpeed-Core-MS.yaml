@@ -1,5 +1,5 @@
 name: MindSpeed-Core-MS
-description: MindSpore 动态图大模型加速库
+description: MindSpore动态图大模型加速库
 type: public
 branches:
 - name: master

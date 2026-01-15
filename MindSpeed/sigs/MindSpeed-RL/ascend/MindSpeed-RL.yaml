@@ -1,0 +1,10 @@
+name: MindSpeed-RL
+description: 昇腾强化学习加速库
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: 2.1.0
+    type: protected
+  - name: 2.0.0
+    type: protected

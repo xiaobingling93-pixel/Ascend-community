@@ -1,0 +1,54 @@
+name: MindSpeed-MM
+description: 华为昇腾面向大规模分布式训练的多模态大模型套件，支撑多模态生成、多模态理解。
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/MindSpeed-MM
+  committers:
+  - gitcode_id: htwang
+  - gitcode_id: hhhzhuyizhi
+  - gitcode_id: PIPIXIU
+  - gitcode_id: cxiaolong
+  - gitcode_id: bigdog1206
+  - gitcode_id: ghoshaw
+  reviewers:
+  - gitcode_id: fightingzhen
+  - gitcode_id: chensida
+  - gitcode_id: AZe_404
+  - gitcode_id: js1234567
+  - gitcode_id: ghoshaw
+  - gitcode_id: HANHU1CHEN
+  - gitcode_id: htchu
+  - gitcode_id: wangmin0104
+  - gitcode_id: wjlflyer
+  - gitcode_id: adrian07110
+  - gitcode_id: htwang
+  - gitcode_id: yangx_sy
+  - gitcode_id: hhhzhuyizhi
+  - gitcode_id: PIPIXIU
+  - gitcode_id: cxiaolong
+  - gitcode_id: LinMingZhe
+  - gitcode_id: mr-lin125
+  - gitcode_id: bigdog1206
+  - gitcode_id: yaoyaoxu
+  - gitcode_id: shaojiemike
+  - gitcode_id: liyx616
+  - gitcode_id: ningmenglh
+  - gitcode_id: vectorwhh
+  - gitcode_id: lu-jinfu1999
+  - gitcode_id: chenpeizhe
+  - gitcode_id: song_hello_world
+  - gitcode_id: ruanhao9656
+  - gitcode_id: feng0w0
+  - gitcode_id: MoCuishle-M
+  - gitcode_id: peng-hengduo
+  - gitcode_id: young256
+  - gitcode_id: zs-derrick1
+  - gitcode_id: meng-coding
+  - gitcode_id: chengchengyyy
+  - gitcode_id: wanglikai1019
+  - gitcode_id: gaojie
