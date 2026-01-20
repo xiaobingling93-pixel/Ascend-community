@@ -38,9 +38,11 @@
 
 1. **Fork 并修改**：Fork `Ascend/community` 仓库到您的个人账号，修改 `org-info.yaml` 文件（[org-info.yaml编写指南](https://gitcode.com/Ascend/community/blob/master/docs/org-info-guidance.md)）。
 2. **提交 PR**：向 `Ascend/community` 仓库的 `master` 分支提交 PR
-3. ✅  **通过审查**：您的 PR 需要获得以下三个标签才能被合并：
+3. ✅  **通过审查**：您的 PR 需要获得以下标签才能被合并：
 
     - `ascend-cla/yes`：**CLA协议检查**。机器人会自动检查您 commits 中的邮箱是否已签署 CLA 协议。若已签署，将添加此标签；若未签署，会添加 `ascend-cla/no` 标签并留言提示
+    - `ci-pipeline-passed`：**配置格式CI流水线检查**。pr创建/更新后自动触发，在 PR 评论区评论 `compile` 可以触发 CI。通过后机器人会添加此标签；若失败，则添加 `ci-pipeline-failed` 标签
+    - `docs-ci-pipeline-success`：**文档CI流水线检查**。pr创建/更新后自动触发，在 PR 评论区评论 `compile` 可以触发 CI。通过后机器人会添加此标签；若失败，则添加 `docs-ci-pipeline-failed` 标签
     - `lgtm`：请联系 `org-info.yaml` 文件中列出的 **tc_members** 进行评审。评审通过后，由一位 tc_member 评论 `/lgtm`，机器人会自动添加标签
     - `approved`：同样联系 **tc_members** 进行批准。批准后，由一位 tc_member 评论 `/approve`，机器人会自动添加标签
 
@@ -52,9 +54,10 @@
 
 1. **Fork 并修改**：Fork `Ascend/community` 仓库，修改目标 SIG 的 `sig-info.yaml` 文件([sig-info.yaml编写指南](https://gitcode.com/Ascend/community/blob/master/docs/sig-info-guidance.md))。
 2. **提交 PR**：向 `Ascend/community` 仓库的 `master` 分支提交 PR
-3. ✅  **通过审查**：您的 PR 需要获得以下三个标签才能被合并：
-
+3. ✅  **通过审查**：您的 PR 需要获得以下标签才能被合并：
     - `ascend-cla/yes`：**CLA协议检查**。机器人会自动检查您 commits 中的邮箱是否已签署 CLA 协议。若已签署，将添加此标签；若未签署，会添加 `ascend-cla/no` 标签并留言提示
+    - `ci-pipeline-passed`：**配置格式CI流水线检查**。pr创建/更新后自动触发，在 PR 评论区评论 `compile` 可以触发 CI。通过后机器人会添加此标签；若失败，则添加 `ci-pipeline-failed` 标签
+    - `docs-ci-pipeline-success`：**文档CI流水线检查**。pr创建/更新后自动触发，在 PR 评论区评论 `compile` 可以触发 CI。通过后机器人会添加此标签；若失败，则添加 `docs-ci-pipeline-failed` 标签
     - `lgtm`：请联系 `org-info.yaml` 中该 SIG 组的 **maintainers** 进行评审。评审通过后，由 maintainer 评论 `/lgtm`
     - `approved`：同样联系该 SIG 组的 **maintainers** 进行批准。批准后，由 maintainer 评论 `/approve`
 
@@ -71,14 +74,14 @@
 
 1. **Fork 并修改**：Fork `Ascend/community` 仓库，修改 `org-info.yaml` 文件([org-info.yaml编写指南](https://gitcode.com/Ascend/community/blob/master/docs/org-info-guidance.md))，新增该 SIG 组的定义。
 2. **提交 PR**：提交 PR 至 `master` 分支
-3. ✅  **通过审查**：此 PR 需获得 `ascend-cla/yes`, `lgtm`, `approved` 三个标签。评审流程与【调整社区 SIG 架构】完全相同，需由 **tc_members** 进行 `/lgtm` 和 `/approve`
+3. ✅  **通过审查**：此 PR 需获得 `ascend-cla/yes`, `lgtm`, `approved`，`ci-pipeline-passed` ， `docs-ci-pipeline-success` 标签。评审流程与【调整社区 SIG 架构】完全相同，需由 **tc_members** 进行 `/lgtm` 和 `/approve`
 
 #### 第二步：创建SIG目录和信息文件
 
 1. **在第一PR合并后**，在相应项目的 `sigs` 目录下创建新的 SIG 组目录
 2. **创建信息文件**：在该目录中创建 `sig-info.yaml` 文件([sig-info.yaml编写指南](https://gitcode.com/Ascend/community/blob/master/docs/sig-info-guidance.md))，并配置 maintainers、committers 等信息
 3. **提交 PR**：提交第二个 PR 至 `master` 分支
-4. ✅  **通过审查**：此 PR 需获得 `ascend-cla/yes`, `lgtm`, `approved` 三个标签。评审流程与【调整 SIG 信息文件】完全相同，需由**新 SIG 组的 maintainers** 进行评审和批准
+4. ✅  **通过审查**：此 PR 需获得  `ascend-cla/yes`, `lgtm`, `approved`，`ci-pipeline-passed` ， `docs-ci-pipeline-success` 标签。评审流程与【调整 SIG 信息文件】完全相同，需由**新 SIG 组的 maintainers** 进行评审和批准
 
 > **⚠️ 注意事项**：
 >
@@ -99,9 +102,11 @@
 
 1. **Fork 并创建**：Fork `Ascend/community` 仓库。参考现有项目的结构，创建新的项目目录并添加 `org-info.yaml` 文件 ([org-info.yaml编写指南](https://gitcode.com/Ascend/community/blob/master/docs/org-info-guidance.md))
 2. **提交 PR**：向 `Ascend/community` 仓库的 `master` 分支提交 PR
-3. ✅  **通过审查**：您的 PR 需要获得以下三个标签才能被合并：
+3. ✅  **通过审查**：您的 PR 需要获得以下标签才能被合并：
 
     - `ascend-cla/yes`：**CLA协议检查**。机器人会自动检查您 commits 中的邮箱是否已签署 CLA 协议。若已签署，将添加此标签；若未签署，会添加 `ascend-cla/no` 标签并留言提示
+    - `ci-pipeline-passed`：**配置格式CI流水线检查**。pr创建/更新后自动触发，在 PR 评论区评论 `compile` 可以触发 CI。通过后机器人会添加此标签；若失败，则添加 `ci-pipeline-failed` 标签
+    - `docs-ci-pipeline-success`：**文档CI流水线检查**。pr创建/更新后自动触发，在 PR 评论区评论 `compile` 可以触发 CI。通过后机器人会添加此标签；若失败，则添加 `docs-ci-pipeline-failed` 标签
     - `lgtm`：请联系 [infrastructure](https://gitcode.com/Ascend/community/blob/master/common/sigs/infrastructure/sig-info.yaml) SIG 的 **committer** 进行评审。评审通过后，由其评论 `/lgtm`
     - `approved`：同上,联系 [infrastructure](https://gitcode.com/Ascend/community/blob/master/common/sigs/infrastructure/sig-info.yaml) SIG 的 **committer** 进行批准。批准后，由其评论 `/approve`
 
@@ -113,9 +118,11 @@
 
 1. **Fork 并创建**：Fork `Ascend/community` 仓库。参考现有项目的结构，在对应SIG目录下添加 `ascend/*.yaml` 文件。([repo-info.yaml编写指南](https://gitcode.com/Ascend/community/blob/master/docs/repo-info-guidance.md))
 2. **提交 PR**：向 `Ascend/community` 仓库的 `master` 分支提交 PR
-3. ✅  **通过审查**：您的 PR 需要获得以下三个标签才能被合并：
+3. ✅  **通过审查**：您的 PR 需要获得以下标签才能被合并：
 
     - `ascend-cla/yes`：**CLA协议检查**。机器人会自动检查您 commits 中的邮箱是否已签署 CLA 协议。若已签署，将添加此标签；若未签署，会添加 `ascend-cla/no` 标签并留言提示
+    - `ci-pipeline-passed`：**配置格式CI流水线检查**。pr创建/更新后自动触发，在 PR 评论区评论 `compile` 可以触发 CI。通过后机器人会添加此标签；若失败，则添加 `ci-pipeline-failed` 标签
+    - `docs-ci-pipeline-success`：**文档CI流水线检查**。pr创建/更新后自动触发，在 PR 评论区评论 `compile` 可以触发 CI。通过后机器人会添加此标签；若失败，则添加 `docs-ci-pipeline-failed` 标签
     - `lgtm`：请联系 `org-info.yaml` 中该 SIG 组的 **maintainers** 进行评审。评审通过后，由 maintainer 评论 `/lgtm`
     - `approved`：同上,联系该 SIG 组的 **maintainers** 进行批准。批准后，由 maintainer 评论 `/approve`
 
