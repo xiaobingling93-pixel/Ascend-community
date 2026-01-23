@@ -50,6 +50,18 @@ repositories:
   reviewers:
   - gitcode_id: Ginray1
   - gitcode_id: fightingzhen
+  - gitcode_id: mamba-chen
+  - gitcode_id: fightingzhen
+  - gitcode_id: calvinhuang
+  - gitcode_id: cheetah-sun
+  - gitcode_id: humphrey0007
+  - gitcode_id: xiaolan_1
+  - gitcode_id: jayhua
+  - gitcode_id: A1wayzBeenHere
+  - gitcode_id: jin-yongxu
+  - gitcode_id: addsubmuldiv
+  - gitcode_id: cqq_wink
+
 - repo:
   - Ascend/modelzoo-GPL
   committers:
@@ -66,6 +78,17 @@ repositories:
   - gitcode_id: niushiya
   - gitcode_id: pu-zhe
   - gitcode_id: LJ_1998
+  - gitcode_id: mamba-chen
+  - gitcode_id: fightingzhen
+  - gitcode_id: calvinhuang
+  - gitcode_id: cheetah-sun
+  - gitcode_id: humphrey0007
+  - gitcode_id: xiaolan_1
+  - gitcode_id: jayhua
+  - gitcode_id: A1wayzBeenHere
+  - gitcode_id: jin-yongxu
+  - gitcode_id: addsubmuldiv
+  - gitcode_id: cqq_wink
 - repo:
   - Ascend/ModelZoo-PyTorch
   committers:
@@ -90,3 +113,14 @@ repositories:
   - gitcode_id: niushiya
   - gitcode_id: pu-zhe
   - gitcode_id: LJ_1998
+  - gitcode_id: mamba-chen
+  - gitcode_id: fightingzhen
+  - gitcode_id: calvinhuang
+  - gitcode_id: cheetah-sun
+  - gitcode_id: humphrey0007
+  - gitcode_id: xiaolan_1
+  - gitcode_id: jayhua
+  - gitcode_id: A1wayzBeenHere
+  - gitcode_id: jin-yongxu
+  - gitcode_id: addsubmuldiv
+  - gitcode_id: cqq_wink
