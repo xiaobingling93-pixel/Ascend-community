@@ -56,8 +56,7 @@ repositories:
   - branch:
     - master
     - dev
-    - v2.3.0
     branch_keeper:
-    - gitcode_id: pengxiao
-    - gitcode_id: limuyuan31
+    - gitcode_id: taojiovvo
+    - gitcode_id: masiming
     - gitcode_id: Katrina-CXY
