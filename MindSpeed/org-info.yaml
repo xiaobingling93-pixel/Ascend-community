@@ -25,6 +25,9 @@ tc_members:
   - gitcode_id: fengshuxin
     name: 封舒鑫
     email: fengshuxin@huawei.com
+  - gitcode_id: wujianping996
+    name: 吴建平
+    email: wujianping5@huawei.com
 
 sigs:
   - sig_name: MindSpeed
@@ -76,3 +79,6 @@ sigs:
       - gitcode_id: Ginray1
         name: 孙银磊
         email: sunyinlei@huawei.com
+      - gitcode_id: wujianping996
+        name: 吴建平
+        email: wujianping5@huawei.com
