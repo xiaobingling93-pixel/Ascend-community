@@ -47,6 +47,7 @@ repositories:
   - gitcode_id: xiaoy2459
   - gitcode_id: wuyulong17
   - gitcode_id: tangke28
+  - gitcode_id: Tjh-UKN
   entry_configs:
   - path:
     - debug
@@ -65,6 +66,7 @@ repositories:
     - gitcode_id: mnhdxnh
     - gitcode_id: li-changwei4
     - gitcode_id: qiangge123a
+    - gitcode_id: Tjh-UKN
   - path:
     - plugins/tensorboard-plugins
     committers:
