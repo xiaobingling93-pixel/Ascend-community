@@ -70,6 +70,8 @@ repositories:
     - gitcode_id: Seanesmhxocism
     - gitcode_id: eejiechu
     - gitcode_id: mei-feiyao
+    - gitcode_id: xzm123
+    - gitcode_id: liuying-1022
   - path:
     - msmodelslim
     committers:
@@ -86,6 +88,8 @@ repositories:
     - gitcode_id: xiaoheng181
     - gitcode_id: libarry
     - gitcode_id: joejoezhou
+    - gitcode_id: xzm123
+    - gitcode_id: luyq11
   - path:
     - msserviceprofiler
     committers:
@@ -101,6 +105,8 @@ repositories:
     - gitcode_id: zhengxinqian
     - gitcode_id: ChenHuiwen
     - gitcode_id: AvadaKedavrua
+    - gitcode_id: xzm123
+    - gitcode_id: cai-weiwei1989
   branch_configs:
   - branch:
     - br_release_MindStudio_8.2.RC1_20260923
