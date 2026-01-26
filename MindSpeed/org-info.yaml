@@ -82,3 +82,11 @@ sigs:
       - gitcode_id: wujianping996
         name: 吴建平
         email: wujianping5@huawei.com
+  - sig_name: ray-ascend
+    maintainers:
+      - gitcode_id: tianyi-huawei
+        name: 葛天逸
+        email: getianyi1@huawei.com
+      - gitcode_id: huafengchun
+        name: 花逢春
+        email: huafengchun@huawei.com

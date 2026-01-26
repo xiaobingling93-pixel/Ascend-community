@@ -1,0 +1,6 @@
+name: ray-ascend
+description: ray昇腾亲和特性插件
+type: public
+branches:
+  - name: main
+    type: protected
