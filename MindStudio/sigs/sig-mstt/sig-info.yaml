@@ -48,6 +48,8 @@ repositories:
   - gitcode_id: wuyulong17
   - gitcode_id: tangke28
   - gitcode_id: Tjh-UKN
+  - gitcode_id: xzm123
+  - gitcode_id: cai-weiwei1989
   entry_configs:
   - path:
     - debug
