@@ -79,3 +79,14 @@ sigs:
   - gitcode_id: whuguozili
     name: 陈波
     email: chenbo113@huawei.com
+- sig_name: MindIE-PyMotor
+  maintainers: 
+  - gitcode_id: wumingjing
+    name: 吴铭泾
+    email: wumingjing@huawei.com
+  - gitcode_id: towncharlie
+    name: 王洋
+    email: kevin.wangyang@huawei.com
+  - gitcode_id: whuguozili
+    name: 陈波
+    email: chenbo113@huawei.com

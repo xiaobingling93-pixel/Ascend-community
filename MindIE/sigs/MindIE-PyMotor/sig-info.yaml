@@ -1,0 +1,52 @@
+name: MindIE-PyMotor
+description: MindIE PyMotor是面向通用模型场景的推理服务化框架，通过开放、可扩展的推理服务化平台架构提供推理服务化能力，支持对接业界主流推理框架接口，满足大语言模型的高性能推理需求。
+mailing_list: NA
+meeting_url: NA
+mentors: []
+repositories:
+- repo:
+  - Ascend/MindIE-PyMotor
+  committers:
+  - gitcode_id: towncharlie
+  - gitcode_id: wumingjing
+  - gitcode_id: whuguozili
+  - gitcode_id: ganglv
+  - gitcode_id: codeDogPro
+  - gitcode_id: yjy_ac
+  - gitcode_id: tobking
+  - gitcode_id: Katrina-CXY
+  - gitcode_id: masiming
+  - gitcode_id: taojiovvo
+  - gitcode_id: wu_yushan
+  - gitcode_id: guanxinghua
+  - gitcode_id: zk123
+  - gitcode_id: senxiangms
+  - gitcode_id: you-zhiyuan-0511
+  - gitcode_id: pengxiao
+  - gitcode_id: evakkkkkkk
+  reviewers:
+  - gitcode_id: limuyuan31
+  - gitcode_id: coding-lz
+  - gitcode_id: zhang-chi-119
+  - gitcode_id: dljzx
+  - gitcode_id: heartStrive
+  - gitcode_id: y1lou
+  - gitcode_id: zhang980530
+  - gitcode_id: hu-xinyi_555
+  - gitcode_id: zhoujing101
+  - gitcode_id: zhangdiago
+  - gitcode_id: wenjinhust
+  - gitcode_id: xiao-qing123
+  - gitcode_id: ella07
+  branch_configs:
+  - branch:
+    - master
+    - dev
+    branch_keeper:
+    - gitcode_id: pengxiao
+    - gitcode_id: limuyuan31
+    - gitcode_id: wumingjing
+    - gitcode_id: towncharlie
+    - gitcode_id: whuguozili
+
+
