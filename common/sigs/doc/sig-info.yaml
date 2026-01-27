@@ -4,6 +4,15 @@ mailing_list: NA
 meeting_url: NA
 mentors: []
 committers:
+- gitcode_id: xiejunqi
+  name: 谢君奇
+  email: xiejunqi@huawei.com
+- gitcode_id: Ww7012
+  name: 郑雯文
+  email: zhengwenwen7@huawei.com
+- gitcode_id: cherry_03
+  name: 王艳秋
+  email: wangyanqiu2@huawei.com
 - gitcode_id: xzm123
   name: 谢作孟
   email: xiezuomeng@huawei.com
@@ -16,6 +25,14 @@ committers:
 - gitcode_id: lee_jihae
   name: LEE JIHAE
   email: lee.jihae1@huawei.com
+reviewers:
+- gitcode_id: xzm123
+- gitcode_id: evakkkkkkk
+- gitcode_id: xyy_doc
+- gitcode_id: lee_jihae
+- gitcode_id: xiejunqi
+- gitcode_id: Ww7012
+- gitcode_id: cherry_03
 repositories:
 - repo:
   - Ascend/docs
