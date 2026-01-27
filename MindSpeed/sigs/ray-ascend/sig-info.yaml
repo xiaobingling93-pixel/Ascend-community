@@ -1,0 +1,21 @@
+name: ray-ascend
+description: ray昇腾亲和特性插件
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/ray-ascend
+  committers:
+  - gitcode_id: tianyi-huawei
+  - gitcode_id: huafengchun
+  - gitcode_id: zhilong_chen
+  - gitcode_id: KaisennHu
+  reviewers:
+  - gitcode_id: tianyi-huawei
+  - gitcode_id: huafengchun
+  - gitcode_id: zhilong_chen
+  - gitcode_id: KaisennHu
+  - gitcode_id: Lexie-7
