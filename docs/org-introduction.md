@@ -67,9 +67,13 @@
   </tr>
   <tr>
     <td>
-      <span style="font-size:16px"><a href="https://gitcode.com/Ascend/mind-cluster">MindCluster</a> - 为训练和推理任务提供集群级解决方案</span><br>
+      <span style="font-size:16px">MindCluster</span><br>
+      <span style="font-size:16px">・<a href="https://gitcode.com/Ascend/mind-cluster">MindCluster</a> - 为训练和推理任务提供集群级解决方案</span><br>
       <span style="font-size:16px">・<a href="https://gitcode.com/Ascend/MEF">MEF</a> - 轻量化端边云协同框架，提供边缘节点管理、边缘推理应用生命周期管理等能力</span><br>
       <span style="font-size:16px">・<a href="https://gitcode.com/Ascend/OMSDK">OMSDK</a> - 提供快速搭建智能边缘硬件管理平台，自定义构建设备运维系统，简化设备运维部署能力</span><br>
+      <span style="font-size:16px">・<a href="https://gitcode.com/Ascend/memcache">MemCache</a> - 为LLM推理、GR推理场景设计的高性能分布式KVCache存储引擎</span><br>
+      <span style="font-size:16px">・<a href="https://gitcode.com/Ascend/memfabric_hybrid">MemFabric</a> - 提供内存池化、高性能的全局内存直接访问的能力</span><br>
+      <span style="font-size:16px">・<a href="https://gitcode.com/Ascend/ascend-deployer">ascend-deployer</a> - 提供驱动、固件、CANN等昇腾带内软件以及OS依赖软件，自动下载及安装部署参考的功能</span><br>
     </td>
   </tr>
 </table>
