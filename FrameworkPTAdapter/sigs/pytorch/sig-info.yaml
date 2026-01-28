@@ -14,24 +14,17 @@ repositories:
   - gitcode_id: dilililiwhy
   - gitcode_id: chenhao_1209
   - gitcode_id: wangchao430
-  - gitcode_id: yanpengquan
   - gitcode_id: shaoyf
-  - gitcode_id: yangkaixin
-  - gitcode_id: rain-666
   - gitcode_id: wangchao285
   - gitcode_id: wasd1111222
   - gitcode_id: wangqiang160
   - gitcode_id: medivh-x
   - gitcode_id: zqwenn
-  - gitcode_id: anyrenwei
   - gitcode_id: guoqi1024
-  - gitcode_id: zichun_ye
-  - gitcode_id: weizhan4
   reviewers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
   - gitcode_id: shaoyf
-  - gitcode_id: yanpengquan
   - gitcode_id: chenhao_1209
   - gitcode_id: dilililiwhy
   - gitcode_id: ShaoFeifan
@@ -56,6 +49,58 @@ repositories:
   - gitcode_id: culechan
   - gitcode_id: anyrenwei
   - gitcode_id: guoqi1024
+  entry_configs:
+  - path:
+    - torch_npu/_inductor
+    - third_party/torch-mlir
+    - test/_inductor
+    committers:
+    - gitcode_id: li_jing_hw
+    - gitcode_id: liwei386
+    - gitcode_id: dilililiwhy
+    - gitcode_id: chenhao_1209
+    - gitcode_id: wangchao430
+    - gitcode_id: shaoyf
+    - gitcode_id: wangchao285
+    - gitcode_id: wasd1111222
+    - gitcode_id: wangqiang160
+    - gitcode_id: medivh-x
+    - gitcode_id: zqwenn
+    - gitcode_id: guoqi1024
+    - gitcode_id: yangkaixin
+    - gitcode_id: rain-666
+    - gitcode_id: anyrenwei
+    - gitcode_id: zichun_ye
+    - gitcode_id: weizhan4
+    - gitcode_id: crazyDannyBoy
+    reviewers:
+    - gitcode_id: li_jing_hw
+    - gitcode_id: liwei386
+    - gitcode_id: shaoyf
+    - gitcode_id: chenhao_1209
+    - gitcode_id: dilililiwhy
+    - gitcode_id: ShaoFeifan
+    - gitcode_id: zhanJ
+    - gitcode_id: qinchuanyu
+    - gitcode_id: chuboning
+    - gitcode_id: guoguanghao
+    - gitcode_id: yuhaiyan
+    - gitcode_id: wangchao430
+    - gitcode_id: zhaozhijie
+    - gitcode_id: duchengkun
+    - gitcode_id: kuhn7
+    - gitcode_id: zqwenn
+    - gitcode_id: huangyunlong2022
+    - gitcode_id: SCh_zx
+    - gitcode_id: yangkaixin
+    - gitcode_id: rain-666
+    - gitcode_id: wangchao285
+    - gitcode_id: wangqiang160
+    - gitcode_id: medivh-x
+    - gitcode_id: liangsongwei
+    - gitcode_id: culechan
+    - gitcode_id: anyrenwei
+    - gitcode_id: guoqi1024
 - repo:
   - Ascend/op-plugin
   committers:
@@ -64,7 +109,6 @@ repositories:
   - gitcode_id: shaoyf
   - gitcode_id: dilililiwhy
   - gitcode_id: wangchao430
-  - gitcode_id: yanpengquan
   - gitcode_id: yangkaixin
   - gitcode_id: rain-666
   - gitcode_id: zqwenn
@@ -74,7 +118,6 @@ repositories:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
   - gitcode_id: shaoyf
-  - gitcode_id: yanpengquan
   - gitcode_id: chenhao_1209
   - gitcode_id: dai-yuwen
   - gitcode_id: dilililiwhy
@@ -102,10 +145,8 @@ repositories:
   - gitcode_id: liwei386
   - gitcode_id: dilililiwhy
   - gitcode_id: wangchao430
-  - gitcode_id: yanpengquan
   reviewers:
   - gitcode_id: li_jing_hw
-  - gitcode_id: yanpengquan
   - gitcode_id: shaoyf
   - gitcode_id: ShaoFeifan
   - gitcode_id: liwei386
