@@ -39,7 +39,7 @@ repositories:
   - branch:
     - master
     - dev
-    - v2.3.0
+    - v3.0.0.beta.1
     branch_keeper:
     - gitcode_id: pengxiao
     - gitcode_id: limuyuan31

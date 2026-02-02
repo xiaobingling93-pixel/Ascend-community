@@ -56,6 +56,7 @@ repositories:
   - branch:
     - master
     - dev
+    - v3.0.0.beta.1
     branch_keeper:
     - gitcode_id: taojiovvo
     - gitcode_id: masiming
