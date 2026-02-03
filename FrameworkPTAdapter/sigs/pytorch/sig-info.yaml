@@ -21,6 +21,8 @@ repositories:
   - gitcode_id: medivh-x
   - gitcode_id: zqwenn
   - gitcode_id: guoqi1024
+  - gitcode_id: htchu
+  - gitcode_id: wangmin0104
   reviewers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
@@ -53,7 +55,10 @@ repositories:
   - path:
     - torch_npu/_inductor
     - third_party/torch-mlir
-    - test/_inductor
+    - test
+    - torch_npu/utils
+    - torch_npu/csrc/inductor
+    - docs
     committers:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
@@ -67,6 +72,8 @@ repositories:
     - gitcode_id: medivh-x
     - gitcode_id: zqwenn
     - gitcode_id: guoqi1024
+    - gitcode_id: htchu
+    - gitcode_id: wangmin0104
     - gitcode_id: yangkaixin
     - gitcode_id: rain-666
     - gitcode_id: anyrenwei
@@ -114,6 +121,8 @@ repositories:
   - gitcode_id: zqwenn
   - gitcode_id: guoqi1024
   - gitcode_id: htchu
+  - gitcode_id: wangmin0104
+  - gitcode_id: yang-binrong
   reviewers:
   - gitcode_id: qingfenxiaochong1
   - gitcode_id: li_jing_hw
@@ -139,6 +148,9 @@ repositories:
   - gitcode_id: culechan
   - gitcode_id: chuboning
   - gitcode_id: guoqi1024
+  - gitcode_id: shen_weiling
+  - gitcode_id: wuyi_huawei
+  - gitcode_id: songkai111
 - repo:
   - Ascend/Tensorpipe
   committers:
