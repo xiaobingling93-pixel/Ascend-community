@@ -135,6 +135,9 @@ sigs:
       - gitcode_id: joejoezhou
         name: 周容辰
         email: zhourongchen1@huawei.com
+      - gitcode_id: keith_wa
+        name: 王建新
+        email: wangjianxin11@huawei.com
   - sig_name: sig-msserviceprofiler
     maintainers:
       - gitcode_id: panyj1993
