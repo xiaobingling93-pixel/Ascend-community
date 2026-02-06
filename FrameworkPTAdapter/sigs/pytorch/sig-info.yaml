@@ -11,103 +11,193 @@ repositories:
   committers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
-  - gitcode_id: dilililiwhy
-  - gitcode_id: chenhao_1209
-  - gitcode_id: wangchao430
   - gitcode_id: shaoyf
-  - gitcode_id: wangchao285
-  - gitcode_id: wasd1111222
-  - gitcode_id: wangqiang160
-  - gitcode_id: medivh-x
+  - gitcode_id: wangchao430
   - gitcode_id: zqwenn
+  - gitcode_id: dilililiwhy
   - gitcode_id: guoqi1024
   - gitcode_id: htchu
   - gitcode_id: wangmin0104
+  - gitcode_id: wasd1111222
+  - gitcode_id: wangqiang160
+  - gitcode_id: medivh-x
+  - gitcode_id: chujinjin
+  - gitcode_id: liujunzhu
   reviewers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
   - gitcode_id: shaoyf
-  - gitcode_id: chenhao_1209
-  - gitcode_id: dilililiwhy
-  - gitcode_id: ShaoFeifan
-  - gitcode_id: zhanj
-  - gitcode_id: qinchuanyu
-  - gitcode_id: chuboning
-  - gitcode_id: guoguanghao
-  - gitcode_id: yuhaiyan
   - gitcode_id: wangchao430
-  - gitcode_id: zhaozhijie
-  - gitcode_id: duchengkun
-  - gitcode_id: kuhn7
   - gitcode_id: zqwenn
-  - gitcode_id: huangyunlong2022
-  - gitcode_id: SCh_zx
-  - gitcode_id: yangkaixin
-  - gitcode_id: rain-666
-  - gitcode_id: wangchao285
+  - gitcode_id: dilililiwhy
+  - gitcode_id: guoqi1024
+  - gitcode_id: htchu
+  - gitcode_id: wangmin0104
+  - gitcode_id: wasd1111222
   - gitcode_id: wangqiang160
   - gitcode_id: medivh-x
-  - gitcode_id: liangsongwei
-  - gitcode_id: culechan
-  - gitcode_id: anyrenwei
-  - gitcode_id: guoqi1024
+  - gitcode_id: chuboning
+  - gitcode_id: chujinjin
+  - gitcode_id: liujunzhu
+  - gitcode_id: hbhu_bin
+  - gitcode_id: luochao60
+  - gitcode_id: ffmh
+  - gitcode_id: huangyunlong2022
   entry_configs:
   - path:
     - torch_npu/_inductor
+    - torch_npu/dynamo
     - third_party/torch-mlir
-    - test
     - torch_npu/utils
     - torch_npu/csrc/inductor
+    committers:
+    - gitcode_id: anyrenwei
+    - gitcode_id: zichun_ye
+    - gitcode_id: suhaibo
+    - gitcode_id: adrian07110
+    reviewers:
+    - gitcode_id: yangkaixin
+    - gitcode_id: rain-666
+    - gitcode_id: weizhan4
+    - gitcode_id: yang-binrong
+  entry_configs:
+  - path:
+    - torch_npu/distributed
+    - torch_npu/csrc/distributed
+    committers:
+    - gitcode_id: renyujin
+    - gitcode_id: wjlflyer
+    reviewers:
+    - gitcode_id: kisnwang
+    - gitcode_id: zhenyu10
+    - gitcode_id: senzhen-town
+    - gitcode_id: pengjingyou
+    - gitcode_id: huangjingwei
+  entry_configs:
+  - path:
+    - torch_npu/npu
+    committers:
+    - gitcode_id: zqwenn
+    reviewers:
+    - gitcode_id: daifu1234567
+    - gitcode_id: liangsongwei
+    - gitcode_id: liangchenghui
+    - gitcode_id: probiotics_53
+    - gitcode_id: ffmh
+    - gitcode_id: wanglijun55
+  entry_configs:
+  - path:
+    - torch_npu/profiler
+    committers:
+    - gitcode_id: chenhao_1209
+    - gitcode_id: wangchao285
+    reviewers:
+    - gitcode_id: chenhao_1209
+    - gitcode_id: wangchao285
+  entry_configs:
+  - path:
     - docs
     committers:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
-    - gitcode_id: dilililiwhy
-    - gitcode_id: chenhao_1209
-    - gitcode_id: wangchao430
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao285
-    - gitcode_id: wasd1111222
-    - gitcode_id: wangqiang160
-    - gitcode_id: medivh-x
+    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
+    - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
     - gitcode_id: htchu
     - gitcode_id: wangmin0104
-    - gitcode_id: yangkaixin
-    - gitcode_id: rain-666
+    - gitcode_id: wasd1111222
+    - gitcode_id: wangqiang160
+    - gitcode_id: medivh-x
     - gitcode_id: anyrenwei
     - gitcode_id: zichun_ye
-    - gitcode_id: weizhan4
-    - gitcode_id: crazyDannyBoy
+    - gitcode_id: suhaibo
+    - gitcode_id: adrian07110
+    - gitcode_id: renyujin
+    - gitcode_id: wjlflyer
+    - gitcode_id: chenhao_1209
+    - gitcode_id: wangchao285
+    - gitcode_id: wjlflyer
+    - gitcode_id: chujinjin
+    - gitcode_id: liujunzhu
+    reviewers:
+    - gitcode_id: lee_jihae
+    - gitcode_id: LQ1206
+    - gitcode_id: molly123321
+    - gitcode_id: lyx324521
+    - gitcode_id: gitcode-chenjiao
+  entry_configs:
+  - path:
+    - test
+    committers:
+    - gitcode_id: li_jing_hw
+    - gitcode_id: liwei386
+    - gitcode_id: shaoyf
+    - gitcode_id: wangchao430
+    - gitcode_id: zqwenn
+    - gitcode_id: dilililiwhy
+    - gitcode_id: guoqi1024
+    - gitcode_id: htchu
+    - gitcode_id: wangmin0104
+    - gitcode_id: wasd1111222
+    - gitcode_id: wangqiang160
+    - gitcode_id: medivh-x
+    - gitcode_id: anyrenwei
+    - gitcode_id: zichun_ye
+    - gitcode_id: suhaibo
+    - gitcode_id: adrian07110
+    - gitcode_id: renyujin
+    - gitcode_id: wjlflyer
+    - gitcode_id: chenhao_1209
+    - gitcode_id: wangchao285
+    - gitcode_id: wjlflyer
+    - gitcode_id: chujinjin
+    - gitcode_id: liujunzhu
     reviewers:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: chenhao_1209
-    - gitcode_id: dilililiwhy
-    - gitcode_id: ShaoFeifan
-    - gitcode_id: zhanJ
-    - gitcode_id: qinchuanyu
-    - gitcode_id: chuboning
-    - gitcode_id: guoguanghao
-    - gitcode_id: yuhaiyan
     - gitcode_id: wangchao430
-    - gitcode_id: zhaozhijie
-    - gitcode_id: duchengkun
-    - gitcode_id: kuhn7
     - gitcode_id: zqwenn
-    - gitcode_id: huangyunlong2022
-    - gitcode_id: SCh_zx
-    - gitcode_id: yangkaixin
-    - gitcode_id: rain-666
-    - gitcode_id: wangchao285
+    - gitcode_id: dilililiwhy
+    - gitcode_id: guoqi1024
+    - gitcode_id: htchu
+    - gitcode_id: wangmin0104
+    - gitcode_id: wasd1111222
     - gitcode_id: wangqiang160
     - gitcode_id: medivh-x
+    - gitcode_id: chuboning
+    - gitcode_id: yangkaixin
+    - gitcode_id: rain-666
+    - gitcode_id: weizhan4
+    - gitcode_id: yang-binrong
+    - gitcode_id: kisnwang
+    - gitcode_id: zhenyu10
+    - gitcode_id: senzhen-town
+    - gitcode_id: pengjingyou
+    - gitcode_id: huangjingwei
+    - gitcode_id: daifu1234567
     - gitcode_id: liangsongwei
+    - gitcode_id: liangchenghui
+    - gitcode_id: probiotics_53
+    - gitcode_id: ffmh
+    - gitcode_id: wanglijun55
+    - gitcode_id: chenhao_1209
+    - gitcode_id: wangchao285
+    - gitcode_id: lee_jihae
+    - gitcode_id: LQ1206
+    - gitcode_id: molly123321
+    - gitcode_id: lyx324521
+    - gitcode_id: gitcode-chenjiao
+    - gitcode_id: shi-jiaxin9
     - gitcode_id: culechan
-    - gitcode_id: anyrenwei
-    - gitcode_id: guoqi1024
+    - gitcode_id: chujinjin
+    - gitcode_id: liujunzhu
+    - gitcode_id: hbhu_bin
+    - gitcode_id: luochao60
+    - gitcode_id: ffmh
+    - gitcode_id: huangyunlong2022
 - repo:
   - Ascend/op-plugin
   committers:
@@ -116,41 +206,21 @@ repositories:
   - gitcode_id: shaoyf
   - gitcode_id: dilililiwhy
   - gitcode_id: wangchao430
-  - gitcode_id: yangkaixin
-  - gitcode_id: rain-666
   - gitcode_id: zqwenn
   - gitcode_id: guoqi1024
   - gitcode_id: htchu
   - gitcode_id: wangmin0104
-  - gitcode_id: yang-binrong
+  - gitcode_id: renyujin
   reviewers:
-  - gitcode_id: qingfenxiaochong1
-  - gitcode_id: li_jing_hw
-  - gitcode_id: liwei386
-  - gitcode_id: shaoyf
-  - gitcode_id: chenhao_1209
-  - gitcode_id: dai-yuwen
-  - gitcode_id: dilililiwhy
-  - gitcode_id: ShaoFeifan
-  - gitcode_id: liuzhexu
-  - gitcode_id: zheyiwu
-  - gitcode_id: daifu1234567
-  - gitcode_id: wangchao430
-  - gitcode_id: zqwenn
-  - gitcode_id: huangyunlong2022
-  - gitcode_id: liu-jiaweikf
-  - gitcode_id: shi-jiaxin9
-  - gitcode_id: wang-guangbin
-  - gitcode_id: yangkaixin
   - gitcode_id: rain-666
-  - gitcode_id: wangqiang160
-  - gitcode_id: liangsongwei
+  - gitcode_id: yangkaixin
+  - gitcode_id: daifu1234567
+  - gitcode_id: shi-jiaxin9
   - gitcode_id: culechan
-  - gitcode_id: chuboning
-  - gitcode_id: guoqi1024
-  - gitcode_id: shen_weiling
-  - gitcode_id: wuyi_huawei
-  - gitcode_id: songkai111
+  - gitcode_id: liangsongwei
+  - gitcode_id: liangchenghui
+  - gitcode_id: ffmh
+  - gitcode_id: wanglijun55
 - repo:
   - Ascend/Tensorpipe
   committers:
