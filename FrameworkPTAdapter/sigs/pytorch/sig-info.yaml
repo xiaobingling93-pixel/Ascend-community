@@ -60,7 +60,6 @@ repositories:
     - gitcode_id: rain-666
     - gitcode_id: weizhan4
     - gitcode_id: yang-binrong
-  entry_configs:
   - path:
     - torch_npu/distributed
     - torch_npu/csrc/distributed
@@ -73,7 +72,6 @@ repositories:
     - gitcode_id: senzhen-town
     - gitcode_id: pengjingyou
     - gitcode_id: huangjingwei
-  entry_configs:
   - path:
     - torch_npu/npu
     committers:
@@ -85,7 +83,6 @@ repositories:
     - gitcode_id: probiotics_53
     - gitcode_id: ffmh
     - gitcode_id: wanglijun55
-  entry_configs:
   - path:
     - torch_npu/profiler
     committers:
@@ -94,7 +91,6 @@ repositories:
     reviewers:
     - gitcode_id: chenhao_1209
     - gitcode_id: wangchao285
-  entry_configs:
   - path:
     - docs
     committers:
@@ -127,7 +123,6 @@ repositories:
     - gitcode_id: molly123321
     - gitcode_id: lyx324521
     - gitcode_id: gitcode-chenjiao
-  entry_configs:
   - path:
     - test
     committers:
