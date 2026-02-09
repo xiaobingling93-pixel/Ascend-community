@@ -351,6 +351,7 @@ repositories:
   - gitcode_id: liangchenghui
   - gitcode_id: ffmh
   - gitcode_id: wanglijun55
+  - gitcode_id: chuboning
 - repo:
   - Ascend/Tensorpipe
   committers:
