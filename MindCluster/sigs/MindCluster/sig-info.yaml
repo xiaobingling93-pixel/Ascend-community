@@ -27,6 +27,7 @@ repositories:
   - gitcode_id: chenyz6
   - gitcode_id: liu1103xwxw
   - gitcode_id: shepherd-cheung
+  - gitcode_id: yangpeng197
   reviewers:
   - gitcode_id: Datoo-J
   - gitcode_id: swagglian_gitcode
@@ -103,6 +104,7 @@ repositories:
   committers:
   - gitcode_id: tands7
   - gitcode_id: wang-ruiju
+  - gitcode_id: yangpeng197
   reviewers:
   - gitcode_id: swagglian_gitcode
   - gitcode_id: wuqiangroy
