@@ -352,37 +352,65 @@ repositories:
   - gitcode_id: ffmh
   - gitcode_id: wanglijun55
   - gitcode_id: chuboning
+  - gitcode_id: lee_jihae
+  - gitcode_id: LQ1206
+  - gitcode_id: molly123321
+  - gitcode_id: lyx324521
+  - gitcode_id: gitcode-chenjiao
 - repo:
   - Ascend/Tensorpipe
   committers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
-  - gitcode_id: dilililiwhy
+  - gitcode_id: shaoyf
   - gitcode_id: wangchao430
+  - gitcode_id: zqwenn
+  - gitcode_id: dilililiwhy
+  - gitcode_id: guoqi1024
+  - gitcode_id: htchu
+  - gitcode_id: wangmin0104
   reviewers:
   - gitcode_id: li_jing_hw
-  - gitcode_id: shaoyf
-  - gitcode_id: ShaoFeifan
   - gitcode_id: liwei386
-  - gitcode_id: dilililiwhy
+  - gitcode_id: shaoyf
   - gitcode_id: wangchao430
-  - gitcode_id: huangyunlong2022
+  - gitcode_id: zqwenn
+  - gitcode_id: dilililiwhy
+  - gitcode_id: guoqi1024
+  - gitcode_id: htchu
+  - gitcode_id: wangmin0104
+  - gitcode_id: lee_jihae
+  - gitcode_id: LQ1206
+  - gitcode_id: molly123321
+  - gitcode_id: lyx324521
+  - gitcode_id: gitcode-chenjiao
 - repo:
   - Ascend/vision
   committers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
-  - gitcode_id: dilililiwhy
   - gitcode_id: shaoyf
+  - gitcode_id: wangchao430
   - gitcode_id: zqwenn
+  - gitcode_id: dilililiwhy
+  - gitcode_id: guoqi1024
+  - gitcode_id: htchu
+  - gitcode_id: wangmin0104
   reviewers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
-  - gitcode_id: dilililiwhy
   - gitcode_id: shaoyf
+  - gitcode_id: wangchao430
   - gitcode_id: zqwenn
-  - gitcode_id: wang-guangbin
-  - gitcode_id: liu-jiaweikf
+  - gitcode_id: dilililiwhy
+  - gitcode_id: guoqi1024
+  - gitcode_id: htchu
+  - gitcode_id: wangmin0104
+  - gitcode_id: lee_jihae
+  - gitcode_id: LQ1206
+  - gitcode_id: molly123321
+  - gitcode_id: lyx324521
+  - gitcode_id: gitcode-chenjiao
 - repo:
   - Ascend/torchair
   committers:
@@ -406,3 +434,8 @@ repositories:
   - gitcode_id: wuyi_huawei
   - gitcode_id: songkai111
   - gitcode_id: shen_weiling
+  - gitcode_id: lee_jihae
+  - gitcode_id: LQ1206
+  - gitcode_id: molly123321
+  - gitcode_id: lyx324521
+  - gitcode_id: gitcode-chenjiao
