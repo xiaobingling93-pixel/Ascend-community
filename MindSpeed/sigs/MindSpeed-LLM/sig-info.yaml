@@ -50,3 +50,10 @@ repositories:
   - gitcode_id: zhyebin01
   - gitcode_id: LinShua
   - gitcode_id: JZY_SC30
+  entry_configs:
+  - path:
+    - docs
+    reviewers:
+    - gitcode_id: lee_jihae
+    - gitcode_id: kali00
+    - gitcode_id: LQ1206

@@ -56,3 +56,10 @@ repositories:
   - gitcode_id: gaojie_
   - gitcode_id: vasileone
   - gitcode_id: qq_31502577
+  entry_configs:
+  - path:
+    - docs
+    reviewers:
+    - gitcode_id: lee_jihae
+    - gitcode_id: kali00
+    - gitcode_id: LQ1206

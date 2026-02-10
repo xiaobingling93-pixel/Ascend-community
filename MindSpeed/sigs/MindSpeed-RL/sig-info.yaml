@@ -46,3 +46,10 @@ repositories:
   - gitcode_id: weixin_44917616
   - gitcode_id: zjchenn
   - gitcode_id: yezhibei
+  entry_configs:
+  - path:
+    - docs
+    reviewers:
+    - gitcode_id: lee_jihae
+    - gitcode_id: kali00
+    - gitcode_id: LQ1206

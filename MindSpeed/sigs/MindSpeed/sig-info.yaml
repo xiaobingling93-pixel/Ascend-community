@@ -31,6 +31,13 @@ repositories:
   - gitcode_id: libaokui
   - gitcode_id: EX_mitsuX
   - gitcode_id: Jia_Austin
+  entry_configs:
+  - path:
+      - docs
+    reviewers:
+    - gitcode_id: lee_jihae
+    - gitcode_id: kali00
+    - gitcode_id: LQ1206
 - repo:
   - Ascend/apex
   committers:
@@ -43,6 +50,12 @@ repositories:
   - gitcode_id: bingobb
   - gitcode_id: RyanWang1022
   - gitcode_id: gp513
+  entry_configs:
+  - path:
+    - docs
+    reviewers:
+    - gitcode_id: lee_jihae
+    - gitcode_id: LQ1206
 - repo:
   - Ascend/MindSpeed-Core-MS
   committers:

@@ -54,3 +54,8 @@ repositories:
     - gitcode_id: zhang_qianqian46
     - gitcode_id: zhangchenrui2
     - gitcode_id: jayhua
+  - path:
+    - docs
+    reviewers:
+    - gitcode_id: lee_jihae
+    - gitcode_id: lyx324521
