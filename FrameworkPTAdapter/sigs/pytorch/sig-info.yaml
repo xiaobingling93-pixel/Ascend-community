@@ -69,6 +69,7 @@ repositories:
     - gitcode_id: medivh-x
     - gitcode_id: chujinjin
     - gitcode_id: liujunzhu
+    - gitcode_id: crazyDannyBoy
     reviewers:
     - gitcode_id: yangkaixin
     - gitcode_id: rain-666
@@ -93,6 +94,7 @@ repositories:
     - gitcode_id: luochao60
     - gitcode_id: ffmh
     - gitcode_id: huangyunlong2022
+    - gitcode_id: crazyDannyBoy
   - path:
     - torch_npu/distributed
     - torch_npu/csrc/distributed
@@ -352,11 +354,26 @@ repositories:
   - gitcode_id: ffmh
   - gitcode_id: wanglijun55
   - gitcode_id: chuboning
-  - gitcode_id: lee_jihae
-  - gitcode_id: LQ1206
-  - gitcode_id: molly123321
-  - gitcode_id: lyx324521
-  - gitcode_id: gitcode-chenjiao
+  entry_configs:
+  - path:
+    - docs
+    committers:
+    - gitcode_id: li_jing_hw
+    - gitcode_id: liwei386
+    - gitcode_id: shaoyf
+    - gitcode_id: dilililiwhy
+    - gitcode_id: wangchao430
+    - gitcode_id: zqwenn
+    - gitcode_id: guoqi1024
+    - gitcode_id: htchu
+    - gitcode_id: wangmin0104
+    - gitcode_id: renyujin
+    reviewers:
+    - gitcode_id: lee_jihae
+    - gitcode_id: LQ1206
+    - gitcode_id: molly123321
+    - gitcode_id: lyx324521
+    - gitcode_id: gitcode-chenjiao
 - repo:
   - Ascend/Tensorpipe
   committers:
@@ -406,11 +423,25 @@ repositories:
   - gitcode_id: guoqi1024
   - gitcode_id: htchu
   - gitcode_id: wangmin0104
-  - gitcode_id: lee_jihae
-  - gitcode_id: LQ1206
-  - gitcode_id: molly123321
-  - gitcode_id: lyx324521
-  - gitcode_id: gitcode-chenjiao
+  entry_configs:
+  - path:
+    - docs
+    committers:
+    - gitcode_id: li_jing_hw
+    - gitcode_id: liwei386
+    - gitcode_id: shaoyf
+    - gitcode_id: wangchao430
+    - gitcode_id: zqwenn
+    - gitcode_id: dilililiwhy
+    - gitcode_id: guoqi1024
+    - gitcode_id: htchu
+    - gitcode_id: wangmin0104
+    reviewers:
+    - gitcode_id: lee_jihae
+    - gitcode_id: LQ1206
+    - gitcode_id: molly123321
+    - gitcode_id: lyx324521
+    - gitcode_id: gitcode-chenjiao
 - repo:
   - Ascend/torchair
   committers:
@@ -434,8 +465,19 @@ repositories:
   - gitcode_id: wuyi_huawei
   - gitcode_id: songkai111
   - gitcode_id: shen_weiling
-  - gitcode_id: lee_jihae
-  - gitcode_id: LQ1206
-  - gitcode_id: molly123321
-  - gitcode_id: lyx324521
-  - gitcode_id: gitcode-chenjiao
+  entry_configs:
+  - path:
+    - docs
+    committers:
+    - gitcode_id: wasd1111222
+    - gitcode_id: medivh-x
+    - gitcode_id: li_jing_hw
+    - gitcode_id: dingdairong
+    - gitcode_id: wangqiang160
+    - gitcode_id: yang-binrong
+    reviewers:
+    - gitcode_id: lee_jihae
+    - gitcode_id: LQ1206
+    - gitcode_id: molly123321
+    - gitcode_id: lyx324521
+    - gitcode_id: gitcode-chenjiao
