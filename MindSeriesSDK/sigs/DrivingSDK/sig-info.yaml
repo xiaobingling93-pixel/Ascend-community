@@ -56,6 +56,10 @@ repositories:
     - gitcode_id: jayhua
   - path:
     - docs
+    committers:
+    - gitcode_id: liuzhexu
+    - gitcode_id: zhangchenrui2
+    - gitcode_id: jayhua
     reviewers:
     - gitcode_id: lee_jihae
     - gitcode_id: lyx324521
