@@ -59,6 +59,13 @@ repositories:
   entry_configs:
   - path:
     - docs
+    committers:
+    - gitcode_id: htwang
+    - gitcode_id: hhhzhuyizhi
+    - gitcode_id: PIPIXIU
+    - gitcode_id: cxiaolong
+    - gitcode_id: bigdog1206
+    - gitcode_id: ghoshaw
     reviewers:
     - gitcode_id: lee_jihae
     - gitcode_id: kali00

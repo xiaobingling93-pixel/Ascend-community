@@ -49,6 +49,12 @@ repositories:
   entry_configs:
   - path:
     - docs
+    committers:
+    - gitcode_id: fengliangjun
+    - gitcode_id: zhoubeirong
+    - gitcode_id: elvinp
+    - gitcode_id: wucong25
+    - gitcode_id: sz19991010
     reviewers:
     - gitcode_id: lee_jihae
     - gitcode_id: kali00

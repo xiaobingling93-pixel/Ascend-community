@@ -34,6 +34,11 @@ repositories:
   entry_configs:
   - path:
       - docs
+    committers:
+    - gitcode_id: qingfenxiaochong1
+    - gitcode_id: bingobb
+    - gitcode_id: JialiZheng1
+    - gitcode_id: gp513
     reviewers:
     - gitcode_id: lee_jihae
     - gitcode_id: kali00
@@ -53,6 +58,10 @@ repositories:
   entry_configs:
   - path:
     - docs
+    committers:
+    - gitcode_id: qingfenxiaochong1
+    - gitcode_id: JialiZheng1
+    - gitcode_id: gp513
     reviewers:
     - gitcode_id: lee_jihae
     - gitcode_id: LQ1206
