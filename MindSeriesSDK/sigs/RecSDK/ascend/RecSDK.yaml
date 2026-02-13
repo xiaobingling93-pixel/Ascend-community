@@ -3,18 +3,9 @@ description: 华为昇腾-MindX 推荐SDK
 type: public
 branches:
   - name: sync-dev
-  - name: subnet_pattern
-  - name: revert-merge-751-develop
   - name: master
     type: protected
-  - name: lccl-new
-  - name: lccl
   - name: develop_torch_benchmark
-    type: protected
-  - name: develop_tf_xla_npu
-    type: protected
-  - name: develop_for_security
-  - name: develop_embcache
     type: protected
   - name: develop
     type: protected
@@ -24,7 +15,6 @@ branches:
     type: protected
   - name: branch_v7.0.0-POC_torch
     type: protected
-  - name: branch_v7.0.0-POC_pciethrough
   - name: branch_v7.0.0-POC
     type: protected
   - name: branch_v6.0.0-RC3
@@ -35,6 +25,3 @@ branches:
     type: protected
   - name: branch_v6.0.0
     type: protected
-  - name: br_20250821_tf_rev_v1_ut_fix
-  - name: bak_20250822_8c16798_RecSDK-Refactoring
-  - name: RecSDK-Refactoring
