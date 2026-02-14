@@ -146,3 +146,17 @@ repositories:
   - gitcode_id: rusyaev-roman
   - gitcode_id: tarvlad
   entry_configs: []
+- repo:
+  - Ascend/triton-ascend-kernels
+  committers:
+  - gitcode_id: zhouhao176
+  - gitcode_id: kpxing
+  - gitcode-id: hunterjjj
+  reviewers:
+  - gitcode_id: zhaozhijie
+  - gitcode_id: yangkaixin
+  - gitcode_id: weizhan4
+  - gitcode_id: zhang-chunli01
+  - gitcode_id: kpxing
+  - gitcode_id: fengrui886
+  entry_configs: []

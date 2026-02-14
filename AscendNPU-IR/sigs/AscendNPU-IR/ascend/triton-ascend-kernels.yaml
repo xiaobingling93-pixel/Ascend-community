@@ -1,0 +1,5 @@
+name: triton-ascend-kernels
+description: "triton-ascend-kernels"
+type: public
+branches:
+    - name: master
