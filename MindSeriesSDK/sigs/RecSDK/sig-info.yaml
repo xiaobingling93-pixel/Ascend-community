@@ -72,3 +72,25 @@ repositories:
     branch_keeper:                    #branch_keeper指仓库某个分支的版本经理角色，此角色有权限对PR评论/merge，打上keeper_approved标签
     - gitcode_id: chenyuanming008
     - gitcode_id: xiangjie10
+- repo:
+  - Ascend/TrustAiSDK
+  committers:
+  - gitcode_id: chenyuanming008
+  - gitcode_id: xiangjie10
+  - gitcode_id: tands7
+  - gitcode_id: wang-ruiju
+  - gitcode_id: yangpeng197
+  - gitcode_id: BeDemo
+  reviewers:
+  - gitcode_id: swagglian_gitcode
+  - gitcode_id: wuqiangroy
+  - gitcode_id: liujp20
+  - gitcode_id: lirui2381
+  - gitcode_id: Deng-Han
+  - gitcode_id: coobeam
+  - gitcode_id: wangfei-w
+  - gitcode_id: yangpeng197
+  - gitcode_id: tands7
+  - gitcode_id: wang-ruiju
+  - gitcode_id: yizixi_001
+  - gitcode_id: jiang_xue_bo
