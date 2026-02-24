@@ -1,0 +1,6 @@
+name: TrustAiSDK
+description: 华为昇腾TrustAiSDK混淆SDK, 提供模型、数据的预混淆处理能力
+type: public
+branches:
+  - name: master
+    type: protected
