@@ -282,6 +282,7 @@ repositories:
     - gitcode_id: wjlflyer
     - gitcode_id: chujinjin
     - gitcode_id: liujunzhu
+    - gitcode_id: crazyDannyBoy
     reviewers:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
@@ -320,6 +321,7 @@ repositories:
     - gitcode_id: hbhu_bin
     - gitcode_id: luochao60
     - gitcode_id: huangyunlong2022
+    - gitcode_id: crazyDannyBoy
 - repo:
   - Ascend/op-plugin
   committers:
