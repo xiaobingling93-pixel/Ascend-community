@@ -1,0 +1,281 @@
+
+on:
+  pull_request:
+    actions: ["opened","reopened","synchronize"]
+    branches: ["master"]
+    exclude_paths: [".gitcode/workflows/*"]
+    note: "compile"
+
+
+codearts:
+  ci-label: false
+
+jobs:
+  - format-check:
+      check:
+        name: formatcheck1
+        uses: shell-action
+        run: |
+            cd /root/
+
+            log_info() {
+                echo -e "${BLUE}[INFO]${NC} $1"
+            }
+
+            log_success() {
+                echo -e "${GREEN}[SUCCESS]${NC} $1"
+            }
+
+            log_warning() {
+                echo -e "${YELLOW}[WARNING]${NC} $1"
+            }
+
+            log_error() {
+                echo -e "${RED}[ERROR]${NC} $1"
+            }
+
+            # 安装Python依赖
+            install_python_deps() {
+                local max_retries=3
+                local retry_delay=1
+                local retry_count=0
+                
+                log_info "安装Python依赖..."
+                
+                while [ $retry_count -lt $max_retries ]; do
+                    # 尝试使用pip3安装
+                    if pip3 install --quiet requests pyyaml; then
+                        log_success "Python依赖安装成功"
+                        return 0
+                    fi
+                    
+                    log_warning "pip3安装失败，尝试使用pip..."
+                    
+                    # 尝试使用pip安装
+                    if pip install --quiet requests pyyaml; then
+                        log_success "Python依赖安装成功"
+                        return 0
+                    fi
+                    
+                    retry_count=$((retry_count + 1))
+                    
+                    if [ $retry_count -lt $max_retries ]; then
+                        log_warning "安装失败，第 ${retry_count}/${max_retries} 次重试"
+                        
+                        # 升级pip工具再重试
+                        log_info "尝试升级pip工具..."
+                        
+                        # 尝试升级pip3
+                        if command -v pip3 &>/dev/null; then
+                            log_info "升级pip3..."
+                            python3 -m pip install --quiet --upgrade pip 2>/dev/null || true
+                        fi
+                        
+                        # 尝试升级pip
+                        if command -v pip &>/dev/null; then
+                            log_info "升级pip..."
+                            python -m pip install --quiet --upgrade pip 2>/dev/null || true
+                        fi
+                        
+                        log_warning "${retry_delay}秒后重试..."
+                        sleep $retry_delay
+                        # 指数退避增加等待时间
+                        retry_delay=$((retry_delay * 2))
+                    fi
+                done
+                
+                log_error "安装Python依赖失败，已重试 ${max_retries} 次"
+                return 1
+            }
+
+
+            git clone -b test-zy https://${gitcode_zy_username}:${gitcode_zy_token}@gitcode.com/Zherphy/website-portal.git
+            cd ./website-portal
+            echo "name_space:${name_space}"
+            echo "REPOSITORY_NAME:${community_REPOSITORY_NAME}"
+            echo "MERGE_ID:${MERGE_ID}"
+            echo "gitcode_token:${gitcode_token}"
+            echo "comment:Ascend docs pipeline is running..."
+            echo "docs-center_REPO_URL: ${community_REPO_URL}"
+            # 调用函数
+            install_python_deps || {
+                log_error "Python依赖安装失败，退出脚本"
+                exit 1
+            }
+            python3 addComment.py \
+                --owner ${name_space} \
+                --project ${community_REPOSITORY_NAME} \
+                --pr-number ${MERGE_ID} \
+                --token ${gitcode_token} \
+                --comment "Ascend docs pipeline is running..."
+            python3 ci_tags.py ${name_space} ${community_REPOSITORY_NAME} ${MERGE_ID} ${gitcode_token} "ATDR" 
+ 
+  - stage_1:
+      check:
+        name: formatcheck2
+        uses: shell-action
+        run: |
+            cd /root/
+            mkdir PR-${MERGE_ID}
+            cd PR-${MERGE_ID}
+
+            log_info() {
+                echo -e "${BLUE}[INFO]${NC} $1"
+            }
+
+            log_success() {
+                echo -e "${GREEN}[SUCCESS]${NC} $1"
+            }
+
+            log_warning() {
+                echo -e "${YELLOW}[WARNING]${NC} $1"
+            }
+
+            log_error() {
+                echo -e "${RED}[ERROR]${NC} $1"
+            }
+
+            # 安装Python依赖
+            install_python_deps() {
+                local max_retries=3
+                local retry_delay=1
+                local retry_count=0
+                
+                log_info "安装Python依赖..."
+                
+                while [ $retry_count -lt $max_retries ]; do
+                    # 尝试使用pip3安装
+                    if pip3 install --quiet requests pyyaml; then
+                        log_success "Python依赖安装成功"
+                        return 0
+                    fi
+                    
+                    log_warning "pip3安装失败，尝试使用pip..."
+                    
+                    # 尝试使用pip安装
+                    if pip install --quiet requests pyyaml; then
+                        log_success "Python依赖安装成功"
+                        return 0
+                    fi
+                    
+                    retry_count=$((retry_count + 1))
+                    
+                    if [ $retry_count -lt $max_retries ]; then
+                        log_warning "安装失败，第 ${retry_count}/${max_retries} 次重试"
+                        
+                        # 升级pip工具再重试
+                        log_info "尝试升级pip工具..."
+                        
+                        # 尝试升级pip3
+                        if command -v pip3 &>/dev/null; then
+                            log_info "升级pip3..."
+                            python3 -m pip install --quiet --upgrade pip 2>/dev/null || true
+                        fi
+                        
+                        # 尝试升级pip
+                        if command -v pip &>/dev/null; then
+                            log_info "升级pip..."
+                            python -m pip install --quiet --upgrade pip 2>/dev/null || true
+                        fi
+                        
+                        log_warning "${retry_delay}秒后重试..."
+                        sleep $retry_delay
+                        # 指数退避增加等待时间
+                        retry_delay=$((retry_delay * 2))
+                    fi
+                done
+                
+                log_error "安装Python依赖失败，已重试 ${max_retries} 次"
+                return 1
+            }
+
+
+            git clone -b ${community_TARGET_BRANCH} https://${gitcode_username}:${gitcode_token}@gitcode.com/${name_space}/${community_REPOSITORY_NAME}.git
+            cd ${community_REPOSITORY_NAME}
+            if ! git config user.email "drizzlezyk@163.com"; then
+                    log_error "设置Git用户邮箱失败"
+                    exit 1
+            fi
+
+            if ! git config user.name "drizzlezyk"; then
+                log_error "设置Git用户名失败"
+                exit 1
+            fi
+            git branch
+            git checkout -b pr_${MERGE_ID}
+            git fetch origin merge-requests/${MERGE_ID}/head:master-${MERGE_ID}
+            git merge --no-edit master-${MERGE_ID}
+
+            git -c core.quotepath=false show --numstat
+
+            cd ..
+            ls
+            mkdir ci
+            cd ./ci
+
+            # wget https://raw.gitcode.com/openeuler/docs-website/raw/ci/docs-ci.js
+            wget https://raw.gitcode.com/cctvcat/openEuler-docs-website/raw/ci/docs-ci.js
+            wget https://raw.gitcode.com/openeuler/docs-website/raw/ci/package.json
+            wget https://raw.gitcode.com/openeuler/docs-website/raw/ci/.npmrc
+            npm i
+
+            detailLink="https://www.openlibing.com/apps/pipelineDetail?projectId=300080&pipelineId=${PIPELINE_ID}&pipelineRunId=${PIPELINE_RUN_ID}"
+            echo "detailLink: ${detailLink}"
+            node docs-ci.js \
+                --repoPath="../${community_REPOSITORY_NAME}" \
+                --checkDirs="docs" \
+                --targetOwnerRepo="${name_space}/${community_REPOSITORY_NAME}" \
+                --targetBranch="${community_TARGET_BRANCH}" \
+                --detailUrl="${detailLink}" \
+                --outputCount="20" \
+                --remoteCiConfigUrl="https://raw.gitcode.com/openeuler/docs-website/raw/ci/repo_ci.json" \
+                --remoteMdlintConfigUrl="https://raw.gitcode.com/openeuler/docs-website/raw/ci/markdownlint-config.json" \
+                --remoteCodespellConfigUrl="https://raw.gitcode.com/openeuler/docs-website/raw/ci/whitelist_words.txt" \
+                --remoteWhiteListUrlsConfigUrl="https://raw.gitcode.com/openeuler/docs-website/raw/ci/whitelist_urls.txt"
+
+            # 检查 output.md 文件并执行后续逻辑
+            if [ -f "output.md" ]; then
+                output=$(cat output.md)
+            else
+                output="file-non-existence"
+            fi
+            echo "output:$output"
+            git clone -b test-zy https://${gitcode_zy_username}:${gitcode_zy_token}@gitcode.com/Zherphy/website-portal.git
+            cd ./website-portal
+            # 调用函数
+            install_python_deps || {
+                log_error "Python依赖安装失败，退出脚本"
+                exit 1
+            }
+            if [ "$output" = "file-non-existence" ]; then
+                python3 addComment.py \
+                --owner ${name_space} \
+                --project ${community_REPOSITORY_NAME} \
+                --pr-number ${MERGE_ID} \
+                --token ${gitcode_token} \
+                --comment "❌ 文档门禁运行失败！"
+                python3 ci_tags.py ${name_space} ${community_REPOSITORY_NAME} ${MERGE_ID} ${gitcode_token} ATDF 
+                echo 'failed :('
+                exit 1
+            elif echo "$output" | grep -q "^✅"; then
+                python3 addComment.py \
+                --owner ${name_space} \
+                --project ${community_REPOSITORY_NAME} \
+                --pr-number ${MERGE_ID} \
+                --token ${gitcode_token} \
+                --comment "$output"
+                python3 ci_tags.py ${name_space} ${community_REPOSITORY_NAME} ${MERGE_ID} ${gitcode_token} ATDS 
+                echo "$output"
+                echo 'succeeded!'
+            else
+                python3 addComment.py \
+                --owner ${name_space} \
+                --project ${community_REPOSITORY_NAME} \
+                --pr-number ${MERGE_ID} \
+                --token ${gitcode_token} \
+                --comment "$output"
+                python3 ci_tags.py ${name_space} ${community_REPOSITORY_NAME} ${MERGE_ID} ${gitcode_token} ATDF 
+                echo "$output"
+                echo 'failed :('
+                exit 1
+            fi
