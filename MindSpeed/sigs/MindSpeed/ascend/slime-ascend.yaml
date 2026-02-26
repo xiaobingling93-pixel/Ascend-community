@@ -1,0 +1,6 @@
+name: slime-ascend
+description: slime的昇腾开发仓库
+type: public
+branches:
+  - name: main
+    type: protected

@@ -96,3 +96,17 @@ sigs:
       - gitcode_id: KaisennHu
         name: 胡海川
         email: huhaichuan3@huawei.com
+  - sig_name: slime-ascend
+    maintainers:
+      - gitcode_id: zhoubeirong
+        name: 周蓓蓉
+        email: zhoubeirong@huawei.com
+      - gitcode_id: wucong25
+        name: 吴聪
+        email: wucong25@huawei.com
+      - gitcode_id: may_feimei
+        name: 梅菲
+        email: meifei5@huawei.com
+      - gitcode_id: hanhan-networking
+        name: 薛晗
+        email: xuehan16@huawei.com
