@@ -1,0 +1,36 @@
+name: slime-ascend
+description: slime的昇腾开发仓库
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/slime-ascend
+  committers:
+  - gitcode_id: zhoubeirong
+  - gitcode_id: wucong25
+  reviewers:
+  - gitcode_id: zhoubeirong
+  - gitcode_id: wucong25
+  - gitcode_id: may_feimei
+  - gitcode_id: yezhibei
+  - gitcode_id: yaochao20
+  - gitcode_id: xiazhahe
+  - gitcode_id: wangshuyang31
+  - gitcode_id: quancs001
+  - gitcode_id: Hcm03
+  - gitcode_id: zjchenn
+  - gitcode_id: yezhibei
+  - gitcode_id: hanhan-networking
+  entry_configs:
+  - path:
+    - docs
+    committers:
+    - gitcode_id: zhoubeirong
+    - gitcode_id: wucong25
+    reviewers:
+    - gitcode_id: lee_jihae
+    - gitcode_id: kali00
+    - gitcode_id: LQ1206
