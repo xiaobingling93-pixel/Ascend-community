@@ -7,7 +7,6 @@ committers: []
 reviewers: []
 repositories:
 - repo:
-  - Ascend/AgentSDK
   - Ascend/IndexSDK
   - Ascend/MultimodalSDK
   - Ascend/VisionSDK

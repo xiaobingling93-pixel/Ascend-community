@@ -1,0 +1,40 @@
+name: AgentSDK
+description: 昇腾Agentic AI训推调一体化框架
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/AgentSDK
+  committers:
+  - gitcode_id: Ascend_ljx
+  - gitcode_id: yujinzheng
+  - gitcode_id: dd5577854
+  - gitcode_id: infzo
+  - gitcode_id: ppzhou
+  - gitcode_id: zhoujh125
+  - gitcode_id: xiejun207
+  - gitcode_id: jm2787
+  reviewers:
+  - gitcode_id: Ascend_ljx
+  - gitcode_id: yujinzheng
+  - gitcode_id: dd5577854
+  - gitcode_id: infzo
+  - gitcode_id: ppzhou
+  - gitcode_id: zhoujh125
+  - gitcode_id: xiejun207
+  - gitcode_id: jm2787
+  - gitcode_id: HLiuzp
+  - gitcode_id: duduzeng
+  - gitcode_id: XIEGUOQING_A
+  - gitcode_id: lqh2025
+  - gitcode_id: yhbuse
+  - gitcode_id: zhangqin2001
+  - gitcode_id: mmzhij
+  - gitcode_id: xiexinyucrab
+  - gitcode_id: qiulinyuan
+  - gitcode_id: yanghw1111
+  - gitcode_id: li_cen
+  - gitcode_id: linY0001
