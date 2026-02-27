@@ -4,30 +4,39 @@ mailing_list: NA
 meeting_url: NA
 mentors: []
 committers:
-- gitcode_id: mywaaagh_admin
-  name: 李超然
-  email: lichaoran1@huawei.com
-- gitcode_id: drizzlezyk
-  name: 钟源珂
-  email: zhongyuanke@huawei.com
-- gitcode_id: TommyLike
-  name: 胡胜
-  email: hu.husheng@huawei.com
-- gitcode_id: ZhengZhenyu
-  name: 郑振宇
-  email: zhengzhenyu@huawei.com
-- gitcode_id: zeshengzong
-  name: 宗泽升
-  email: zongzesheng@huawei.com
-- gitcode_id: gcw_u8HHrTWX
-  name: 谢文静
-  email: xiewenjing4@huawei.com
+  - gitcode_id: mywaaagh_admin
+    name: 李超然
+    email: lichaoran1@huawei.com
+  - gitcode_id: drizzlezyk
+    name: 钟源珂
+    email: zhongyuanke@huawei.com
+  - gitcode_id: TommyLike
+    name: 胡胜
+    email: hu.husheng@huawei.com
+  - gitcode_id: ZhengZhenyu
+    name: 郑振宇
+    email: zhengzhenyu@huawei.com
+  - gitcode_id: zeshengzong
+    name: 宗泽升
+    email: zongzesheng@huawei.com
 reviewers:
-- gitcode_id: Coopermassaki
-  name: 付勇
-  email: fuyong29@h-partners.com
+  - gitcode_id: Coopermassaki
+    name: 付勇
+    email: fuyong29@h-partners.com
 repositories:
-- repo:
-  - Ascend/community
-  - Ascend/infrastructure
-  - Ascend/.gitcode
+  - repo:
+      - Ascend/community
+      - Ascend/infrastructure
+      - Ascend/.gitcode
+  - repo:
+      - Ascend/agent-skills
+    committers:
+      - gitcode_id: fyfugoyfa
+        name: 曾浩龙
+        email: zenghaolong@huawei.com
+      - gitcode_id: agent0
+        name: 占杰
+        email: zhanjie4@huawei.com
+      - gitcode_id: hejianping
+        name: 何建平
+        email: hejianping7@huawei.com
