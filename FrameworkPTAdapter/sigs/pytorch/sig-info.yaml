@@ -43,6 +43,9 @@ repositories:
   - gitcode_id: luochao60
   - gitcode_id: ffmh
   - gitcode_id: huangyunlong2022
+  - gitcode_id: chengpeng25
+  - gitcode_id: daifu1234567
+  - gitcode_id: liangsongwei
   entry_configs:
   - path:
     - torch_npu/_inductor
@@ -95,6 +98,9 @@ repositories:
     - gitcode_id: ffmh
     - gitcode_id: huangyunlong2022
     - gitcode_id: crazyDannyBoy
+    - gitcode_id: chengpeng25
+    - gitcode_id: daifu1234567
+    - gitcode_id: liangsongwei
   - path:
     - torch_npu/distributed
     - torch_npu/csrc/distributed
@@ -140,6 +146,9 @@ repositories:
     - gitcode_id: luochao60
     - gitcode_id: ffmh
     - gitcode_id: huangyunlong2022
+    - gitcode_id: chengpeng25
+    - gitcode_id: daifu1234567
+    - gitcode_id: liangsongwei
   - path:
     - torch_npu/npu
     committers:
@@ -183,6 +192,7 @@ repositories:
     - gitcode_id: luochao60
     - gitcode_id: ffmh
     - gitcode_id: huangyunlong2022
+    - gitcode_id: chengpeng25
   - path:
     - torch_npu/profiler
     committers:
@@ -224,6 +234,9 @@ repositories:
     - gitcode_id: luochao60
     - gitcode_id: ffmh
     - gitcode_id: huangyunlong2022
+    - gitcode_id: chengpeng25
+    - gitcode_id: daifu1234567
+    - gitcode_id: liangsongwei
   - path:
     - docs
     committers:
@@ -322,6 +335,9 @@ repositories:
     - gitcode_id: luochao60
     - gitcode_id: huangyunlong2022
     - gitcode_id: crazyDannyBoy
+    - gitcode_id: chengpeng25
+    - gitcode_id: daifu1234567
+    - gitcode_id: liangsongwei
 - repo:
   - Ascend/op-plugin
   committers:
@@ -356,6 +372,7 @@ repositories:
   - gitcode_id: ffmh
   - gitcode_id: wanglijun55
   - gitcode_id: chuboning
+  - gitcode_id: chengpeng25
   entry_configs:
   - path:
     - docs
