@@ -23,6 +23,7 @@ repositories:
   - gitcode_id: senxiangms
   - gitcode_id: you-zhiyuan-0511
   - gitcode_id: pengxiao
+  - gitcode_id: evakkkkkkk
   reviewers:
   - gitcode_id: limuyuan31
   - gitcode_id: zhang-chi-119
@@ -35,6 +36,8 @@ repositories:
   - gitcode_id: ganglv
   - gitcode_id: zhangdiago
   - gitcode_id: wenjinhust
+  - gitcode_id: ella07
+  - gitcode_id: xiao-qing123
   branch_configs:
   - branch:
     - master
