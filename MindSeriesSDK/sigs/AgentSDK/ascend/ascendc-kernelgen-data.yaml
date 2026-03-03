@@ -1,0 +1,6 @@
+name: ascendc-kernelgen-data
+description: 提供用于昇腾 AscendC 算子代码生成的训练数据集，数据集涵盖多种算子类型，旨在支持算子代码自动生成模型的训练与评估。
+type: public
+branches:
+  - name: master
+    type: protected
