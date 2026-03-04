@@ -59,6 +59,16 @@ repositories:
   - gitcode_id: Fionazm
   - gitcode_id: KingNineun
   - gitcode_id: w30064656
+  - gitcode_id: zmingh
+  - gitcode_id: Ronald_Z
+  - gitcode_id: wydewy
+  - gitcode_id: hjj12345678_
+  - gitcode_id: AICore
+  - gitcode_id: whds5279
+  - gitcode_id: Marlon213
+  - gitcode_id: CUIZIBO
+  - gitcode_id: ww1881
+  - gitcode_id: heydatatalks
   branch_configs:
   - branch:
     - branch_v6.0.0
