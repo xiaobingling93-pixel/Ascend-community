@@ -1,0 +1,6 @@
+name: release-management
+description: "版本发布管理仓库，统一版本的管控规范，明确版本发布的全流程。"
+type: public
+branches:
+  - name: master
+    type: protected
