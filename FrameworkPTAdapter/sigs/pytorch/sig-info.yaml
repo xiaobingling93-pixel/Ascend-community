@@ -393,6 +393,7 @@ repositories:
     - gitcode_id: molly123321
     - gitcode_id: lyx324521
     - gitcode_id: gitcode-chenjiao
+    - gitcode_id: lyz0328
 - repo:
   - Ascend/Tensorpipe
   committers:
@@ -500,3 +501,4 @@ repositories:
     - gitcode_id: molly123321
     - gitcode_id: lyx324521
     - gitcode_id: gitcode-chenjiao
+    - gitcode_id: lyz0328
