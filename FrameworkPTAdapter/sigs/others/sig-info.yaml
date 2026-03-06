@@ -89,6 +89,7 @@ repositories:
   - gitcode_id: jin-yongxu
   - gitcode_id: addsubmuldiv
   - gitcode_id: cqq_wink
+  - gitcode_id: zouyizhou
 - repo:
   - Ascend/ModelZoo-PyTorch
   committers:
@@ -124,3 +125,4 @@ repositories:
   - gitcode_id: jin-yongxu
   - gitcode_id: addsubmuldiv
   - gitcode_id: cqq_wink
+  - gitcode_id: zouyizhou
