@@ -38,6 +38,7 @@ repositories:
   - gitcode_id: rusyaev-roman
   - gitcode_id: tarvlad
   - gitcode_id: dainbow
+  - gitcode_id: blueyi
   entry_configs: []
 - repo:
   - Ascend/triton-ascend
