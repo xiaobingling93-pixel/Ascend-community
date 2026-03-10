@@ -7,30 +7,15 @@ sigs:
       - gitcode_id: mywaaagh_admin
         name: 李超然
         email: lichaoran1@huawei.com
-      - gitcode_id: drizzlezyk
-        name: 钟源珂
-        email: zhongyuanke@huawei.com
-      - gitcode_id: TommyLike
-        name: 胡胜
-        email: hu.husheng@huawei.com
-      - gitcode_id: ZhengZhenyu
-        name: 郑振宇
-        email: zhengzhenyu@huawei.com
-      - gitcode_id: zeshengzong
-        name: 宗泽升
-        email: zongzesheng@huawei.com
-  - sig_name: cicd
-    maintainers:
       - gitcode_id: pengxie
         name: 谢鹏
-      - gitcode_id: dilililiwhy
-        name: 吴环宇
-      - gitcode_id: frankang
-        name: 康富安
-      - gitcode_id: aflyingto
-        name: 吴鹏飞
-      - gitcode_id: drizzlezyk
-        name: 钟源珂
+        email: xiepeng20@huawei.com
+      - gitcode_id: abc5382334
+        name: 叶建平
+        email: yejianping1@huawei.com
+      - gitcode_id: linxi9527
+        name: 熊风波
+        email: xiongfengbo@huawei.com
   - sig_name: security
     maintainers:
       - gitcode_id: HZFeng
