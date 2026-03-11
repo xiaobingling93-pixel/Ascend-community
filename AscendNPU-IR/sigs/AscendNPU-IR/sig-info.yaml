@@ -154,10 +154,9 @@ repositories:
   - gitcode_id: kpxing
   - gitcode-id: hunterjjj
   reviewers:
-  - gitcode_id: zhaozhijie
-  - gitcode_id: yangkaixin
-  - gitcode_id: weizhan4
-  - gitcode_id: zhang-chunli01
   - gitcode_id: kpxing
   - gitcode_id: fengrui886
+  - gitcode_id: lord_of_ironhill
+  - gitcode_id: hunterjjj
+  - gitcode_id: junelotus
   entry_configs: []
