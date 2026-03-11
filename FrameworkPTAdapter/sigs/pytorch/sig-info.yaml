@@ -25,6 +25,7 @@ repositories:
   - gitcode_id: liujunzhu
   - gitcode_id: zichun_ye
   - gitcode_id: adrian07110
+  - gitcode_id: chuboning
   reviewers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
@@ -123,6 +124,7 @@ repositories:
     - gitcode_id: medivh-x
     - gitcode_id: chujinjin
     - gitcode_id: liujunzhu
+    - gitcode_id: chuboning
     reviewers:
     - gitcode_id: kisnwang
     - gitcode_id: zhenyu10
@@ -168,6 +170,7 @@ repositories:
     - gitcode_id: medivh-x
     - gitcode_id: chujinjin
     - gitcode_id: liujunzhu
+    - gitcode_id: chuboning
     reviewers:
     - gitcode_id: daifu1234567
     - gitcode_id: liangsongwei
@@ -265,6 +268,7 @@ repositories:
     - gitcode_id: wjlflyer
     - gitcode_id: chujinjin
     - gitcode_id: liujunzhu
+    - gitcode_id: chuboning
     reviewers:
     - gitcode_id: lee_jihae
     - gitcode_id: LQ1206
@@ -298,6 +302,7 @@ repositories:
     - gitcode_id: chujinjin
     - gitcode_id: liujunzhu
     - gitcode_id: crazyDannyBoy
+    - gitcode_id: chuboning
     reviewers:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
@@ -356,6 +361,7 @@ repositories:
   - gitcode_id: yang-binrong
   - gitcode_id: zichun_ye
   - gitcode_id: adrian07110
+  - gitcode_id: chuboning
   reviewers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
@@ -401,6 +407,7 @@ repositories:
     - gitcode_id: yang-binrong
     - gitcode_id: zichun_ye
     - gitcode_id: adrian07110
+    - gitcode_id: chuboning
     reviewers:
     - gitcode_id: lee_jihae
     - gitcode_id: LQ1206
