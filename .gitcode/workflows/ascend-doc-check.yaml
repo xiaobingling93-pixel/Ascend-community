@@ -213,26 +213,20 @@ jobs:
             mkdir ci
             cd ./ci
 
-            # wget https://raw.gitcode.com/openeuler/docs-website/raw/ci/docs-ci.js
-            wget https://raw.gitcode.com/cctvcat/openEuler-docs-website/raw/ci/docs-ci.js
+            wget https://raw.atomgit.com/openeuler/docs-website/raw/ci/docs-ci-v2.js
             wget https://raw.gitcode.com/openeuler/docs-website/raw/ci/package.json
             wget https://raw.gitcode.com/openeuler/docs-website/raw/ci/.npmrc
             npm i
 
             detailLink="https://www.openlibing.com/apps/pipelineDetail?projectId=300080&pipelineId=${PIPELINE_ID}&pipelineRunId=${PIPELINE_RUN_ID}"
             echo "detailLink: ${detailLink}"
-            node docs-ci.js \
+            node docs-ci-v2.js \
                 --repoPath="../${community_REPOSITORY_NAME}" \
-                --checkDirs="docs" \
-                --targetOwnerRepo="${name_space}/${community_REPOSITORY_NAME}" \
+                --targetOwnerRepo="${nameSpace}/${community_REPOSITORY_NAME}" \
                 --targetBranch="${community_TARGET_BRANCH}" \
                 --detailUrl="${detailLink}" \
                 --outputCount="20" \
-                --remoteCiConfigUrl="https://raw.gitcode.com/openeuler/docs-website/raw/ci/repo_ci.json" \
-                --remoteMdlintConfigUrl="https://raw.gitcode.com/openeuler/docs-website/raw/ci/markdownlint-config.json" \
-                --remoteCodespellConfigUrl="https://raw.gitcode.com/openeuler/docs-website/raw/ci/whitelist_words.txt" \
-                --remoteWhiteListUrlsConfigUrl="https://raw.gitcode.com/openeuler/docs-website/raw/ci/whitelist_urls.txt"
-
+                --ciConfigUrl="https://raw.gitcode.com/Ascend/docs/raw/master/.doctools/config.json"
             # 检查 output.md 文件并执行后续逻辑
             if [ -f "output.md" ]; then
                 output=$(cat output.md)
