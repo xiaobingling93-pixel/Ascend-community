@@ -485,6 +485,9 @@ repositories:
   - gitcode_id: dingdairong
   - gitcode_id: wangqiang160
   - gitcode_id: yang-binrong
+  - gitcode_id: qinchuanyu
+  - gitcode_id: fu-hao-huawei
+  - gitcode_id: zhukkk
   reviewers:
   - gitcode_id: wasd1111222
   - gitcode_id: medivh-x
@@ -500,6 +503,8 @@ repositories:
   - gitcode_id: songkai111
   - gitcode_id: shen_weiling
   - gitcode_id: yang-binrong
+  - gitcode_id: qinchuanyu
+  - gitcode_id: zhukkk
   entry_configs:
   - path:
     - docs
