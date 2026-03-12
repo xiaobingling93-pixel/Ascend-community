@@ -3,3 +3,25 @@ description: NA
 mailing_list: NA
 meeting_url: NA
 mentors: []
+committers:
+  - gitcode_id: lbisdaddy
+    name: 李晨吉
+    email: lichengji@huawei.com
+  - gitcode_id: chenyuanming008
+    name: 陈元明
+    email: chenyuanming3@huawei.com
+  - gitcode_id: YuJforAscend
+    name: 于键
+    email: yujian.yujian@huawei.com
+  - gitcode_id: yumiao_hw
+    name: 于淼
+    email: yumiao16@huawei.com
+  - gitcode_id: fengshuxin
+    name: 封舒鑫
+    email: fengshuxin@huawei.com
+  - gitcode_id: xhahn77
+    name: 徐航
+    email: xuhang19@huawei.com
+repositories:
+  - repo:
+      - release-management
