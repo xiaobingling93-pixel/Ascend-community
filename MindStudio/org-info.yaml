@@ -71,6 +71,20 @@ sigs:
       - gitcode_id: leo920320
         name: 刘鹏程
         email: liupengcheng8@huawei.com
+  - sig_name: sig-mscommreport
+    maintainers:
+      - gitcode_id: ly-qianxiao0309
+        name: 廖宴
+        email: liaoyan7@huawei.com
+      - gitcode_id: leo920320
+        name: 刘鹏程
+        email: liupengcheng8@huawei.com
+      - gitcode_id: tangke28
+        name: 唐珂
+        email: tangke28@huawei.com
+      - gitcode_id: wuyulong17
+        name: 吴毓龙
+        email: wuyulong17@huawei.com
   - sig_name: sig-msprobe
     maintainers:
       - gitcode_id: kun_8
