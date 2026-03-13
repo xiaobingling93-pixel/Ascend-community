@@ -6,3 +6,31 @@ mentors: [ ]
 committers: [ ]
 reviewers: [ ]
 repositories:
+  - repo:
+      - Ascend/mscommreport
+    committers:
+      - gitcode_id: leo920320
+      - gitcode_id: tangke28
+      - gitcode_id: wuyulong17
+      - gitcode_id: ly-qianxiao0309
+    reviewers:
+      - gitcode_id: leo920320
+      - gitcode_id: tangke28
+      - gitcode_id: wuyulong17
+      - gitcode_id: ly-qianxiao0309
+      - gitcode_id: wangyunkai1
+      - gitcode_id: qinyyy
+      - gitcode_id: yangqisheng
+      - gitcode_id: A1streomeria
+      - gitcode_id: codeasier
+      - gitcode_id: ayatoychen
+      - gitcode_id: yujialin888888
+      - gitcode_id: zhangruoyu2
+      - gitcode_id: ljing-git
+      - gitcode_id: hummel_mao
+      - gitcode_id: xiaoy2459
+      - gitcode_id: lx_guanyq
+      - gitcode_id: sun-cha
+      - gitcode_id: xzm123
+      - gitcode_id: liuying-1022
+      - gitcode_id: yanglei0101
