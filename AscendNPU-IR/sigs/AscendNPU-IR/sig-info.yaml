@@ -39,13 +39,7 @@ repositories:
   - gitcode_id: tarvlad
   - gitcode_id: dainbow
   - gitcode_id: blueyi
-  entry_configs:
-  - path: 
-    - docs
-    committers:
-    - gitcode_id: wuying211
-    reviewers:
-    - gitcode_id: wuying211
+  entry_configs: []
 - repo:
   - Ascend/triton-ascend
   committers:
