@@ -50,7 +50,7 @@ repositories:
   - gitcode_id: spangebobo
   - gitcode_id: guo2wang
   - gitcode_id: lmdgks
-  - gitcode_id: oblivious
+  - gitcode_id: obl1vious
   - gitcode_id: FngSeven
   - gitcode_id: CD1114
   - gitcode_id: zhouyubuzhaozhong
@@ -69,6 +69,8 @@ repositories:
   - gitcode_id: CUIZIBO
   - gitcode_id: ww1881
   - gitcode_id: heydatatalks
+  - gitcode_id: HunterSun
+  - gitcode_id: jiuwen236
   branch_configs:
   - branch:
     - branch_v6.0.0
@@ -149,7 +151,7 @@ repositories:
   - gitcode_id: spangebobo 
   - gitcode_id: guo2wang 
   - gitcode_id: lmdgks 
-  - gitcode_id: oblivious 
+  - gitcode_id: obl1vious 
   - gitcode_id: FngSeven 
   - gitcode_id: CD1114 
   - gitcode_id: zhouyubuzhaozhong 
