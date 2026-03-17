@@ -56,6 +56,7 @@ repositories:
   - gitcode_id: gaojie_
   - gitcode_id: vasileone
   - gitcode_id: qq_31502577
+  - gitcode_id: Miss_min
   entry_configs:
   - path:
     - docs
