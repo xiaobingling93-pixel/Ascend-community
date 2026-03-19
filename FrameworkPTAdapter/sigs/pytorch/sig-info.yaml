@@ -12,7 +12,6 @@ repositories:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
   - gitcode_id: shaoyf
-  - gitcode_id: wangchao430
   - gitcode_id: zqwenn
   - gitcode_id: dilililiwhy
   - gitcode_id: guoqi1024
@@ -24,13 +23,13 @@ repositories:
   - gitcode_id: chujinjin
   - gitcode_id: liujunzhu
   - gitcode_id: zichun_ye
+  - gitcode_id: anyrenwei
   - gitcode_id: adrian07110
   - gitcode_id: chuboning
   reviewers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
   - gitcode_id: shaoyf
-  - gitcode_id: wangchao430
   - gitcode_id: zqwenn
   - gitcode_id: dilililiwhy
   - gitcode_id: guoqi1024
@@ -42,6 +41,8 @@ repositories:
   - gitcode_id: chuboning
   - gitcode_id: chujinjin
   - gitcode_id: liujunzhu
+  - gitcode_id: zichun_ye
+  - gitcode_id: anyrenwei
   - gitcode_id: hbhu_bin
   - gitcode_id: luochao60
   - gitcode_id: ffmh
@@ -64,7 +65,6 @@ repositories:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
@@ -76,6 +76,7 @@ repositories:
     - gitcode_id: chujinjin
     - gitcode_id: liujunzhu
     - gitcode_id: crazyDannyBoy
+    - gitcode_id: weizhan4
     reviewers:
     - gitcode_id: yangkaixin
     - gitcode_id: rain-666
@@ -84,7 +85,6 @@ repositories:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
@@ -113,7 +113,6 @@ repositories:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
@@ -134,7 +133,6 @@ repositories:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
@@ -159,7 +157,6 @@ repositories:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
@@ -181,7 +178,6 @@ repositories:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
@@ -206,7 +202,6 @@ repositories:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
@@ -223,7 +218,6 @@ repositories:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
@@ -248,7 +242,6 @@ repositories:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
@@ -281,7 +274,6 @@ repositories:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
@@ -307,7 +299,6 @@ repositories:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
@@ -345,6 +336,8 @@ repositories:
     - gitcode_id: chengpeng25
     - gitcode_id: daifu1234567
     - gitcode_id: liangsongwei
+    - gitcode_id: yuhaiyan
+    - gitcode_id: AACAES
 - repo:
   - Ascend/op-plugin
   committers:
@@ -352,7 +345,6 @@ repositories:
   - gitcode_id: liwei386
   - gitcode_id: shaoyf
   - gitcode_id: dilililiwhy
-  - gitcode_id: wangchao430
   - gitcode_id: zqwenn
   - gitcode_id: guoqi1024
   - gitcode_id: htchu
@@ -367,7 +359,6 @@ repositories:
   - gitcode_id: liwei386
   - gitcode_id: shaoyf
   - gitcode_id: dilililiwhy
-  - gitcode_id: wangchao430
   - gitcode_id: zqwenn
   - gitcode_id: guoqi1024
   - gitcode_id: htchu
@@ -390,6 +381,8 @@ repositories:
   - gitcode_id: yang-binrong
   - gitcode_id: zichun_ye
   - gitcode_id: adrian07110
+  - gitcode_id: yuhaiyan
+  - gitcode_id: AACAES
   entry_configs:
   - path:
     - docs
@@ -398,7 +391,6 @@ repositories:
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
     - gitcode_id: dilililiwhy
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: guoqi1024
     - gitcode_id: htchu
@@ -421,7 +413,6 @@ repositories:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
   - gitcode_id: shaoyf
-  - gitcode_id: wangchao430
   - gitcode_id: zqwenn
   - gitcode_id: dilililiwhy
   - gitcode_id: guoqi1024
@@ -431,7 +422,6 @@ repositories:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
   - gitcode_id: shaoyf
-  - gitcode_id: wangchao430
   - gitcode_id: zqwenn
   - gitcode_id: dilililiwhy
   - gitcode_id: guoqi1024
@@ -448,7 +438,6 @@ repositories:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
   - gitcode_id: shaoyf
-  - gitcode_id: wangchao430
   - gitcode_id: zqwenn
   - gitcode_id: dilililiwhy
   - gitcode_id: guoqi1024
@@ -458,7 +447,6 @@ repositories:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
   - gitcode_id: shaoyf
-  - gitcode_id: wangchao430
   - gitcode_id: zqwenn
   - gitcode_id: dilililiwhy
   - gitcode_id: guoqi1024
@@ -471,7 +459,6 @@ repositories:
     - gitcode_id: li_jing_hw
     - gitcode_id: liwei386
     - gitcode_id: shaoyf
-    - gitcode_id: wangchao430
     - gitcode_id: zqwenn
     - gitcode_id: dilililiwhy
     - gitcode_id: guoqi1024
