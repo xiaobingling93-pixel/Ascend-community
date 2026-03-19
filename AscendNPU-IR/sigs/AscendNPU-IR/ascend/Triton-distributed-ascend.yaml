@@ -1,0 +1,5 @@
+name: Triton-distributed-ascend
+description: "Triton-distributed-ascend"
+type: public
+branches:
+    - name: master
