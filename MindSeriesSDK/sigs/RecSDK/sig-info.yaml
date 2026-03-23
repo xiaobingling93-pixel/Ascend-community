@@ -71,6 +71,8 @@ repositories:
   - gitcode_id: heydatatalks
   - gitcode_id: HunterSun
   - gitcode_id: jiuwen236
+  - gitcode_id: caohuanqi
+  - gitcode_id: m0_57292843
   branch_configs:
   - branch:
     - branch_v6.0.0
