@@ -165,8 +165,8 @@ repositories:
   committers:
   - gitcode_id: HaiLijuan
   - gitcode_id: weilinquan
-  - gitcode-id: BaiSifan
-  - gitcode-id: Zackc
+  - gitcode_id: BaiSifan
+  - gitcode_id: Zackc
   reviewers:
   - gitcode_id: HaiLijuan
   - gitcode_id: weilinquan
