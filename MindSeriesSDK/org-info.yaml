@@ -50,9 +50,9 @@ tc_members:
 sigs:
   - sig_name: MindSeriesSDK
     maintainers: 
-      - gitcode_id: Ascend_ljx
-        name: 李家兴
-        email: lijiaxing29@huawei.com
+      - gitcode_id: yujinzheng
+        name: 于金正
+        email: yujinzheng@huawei.com
       - gitcode_id: yihao1234
         name: 易浩
         email: yihao6@huawei.com
@@ -86,3 +86,6 @@ sigs:
       - gitcode_id: linY0001
         name: 林镱
         email: linyiprc@gmail.com
+      - gitcode_id: yujinzheng
+        name: 于金正
+        email: yujinzheng@huawei.com
