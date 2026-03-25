@@ -21,6 +21,7 @@ repositories:
   - gitcode_id: pluto1314
   - gitcode_id: spangebobo
   - gitcode_id: wydewy
+  - gitcode_id: FngSeven
   reviewers:  &recsdk_reviewers
   - gitcode_id: zxorange_321
   - gitcode_id: tanfeng_cc
@@ -124,6 +125,7 @@ repositories:
   - gitcode_id: spangebobo 
   - gitcode_id: wangzenan 
   - gitcode_id: zhy_brian 
+  - gitcode_id: FngSeven
   reviewers: 
   - gitcode_id: zxorange_321 
   - gitcode_id: tanfeng_cc 
