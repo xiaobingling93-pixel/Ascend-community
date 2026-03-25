@@ -1,0 +1,6 @@
+name: text-embeddings-inference
+description: fork开源text-embeddings-inference，提供昇腾NPU加速能力。
+type: public
+branches:
+    - name: main
+      type: protected

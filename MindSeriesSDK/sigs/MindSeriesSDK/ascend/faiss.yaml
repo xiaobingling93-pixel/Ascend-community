@@ -1,0 +1,6 @@
+name: faiss
+description: fork开源faiss，提供向量检索NPU加速能力。
+type: public
+branches:
+    - name: main
+      type: protected
