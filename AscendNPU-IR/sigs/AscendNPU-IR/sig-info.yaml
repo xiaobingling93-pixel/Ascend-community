@@ -55,6 +55,7 @@ repositories:
   - gitcode_id: zhang-chunli01
   - gitcode_id: zhucehw
   - gitcode_id: HinPeng
+  - gitcode_id: candyhong
   reviewers:
   - gitcode_id: ccdedreams
   - gitcode_id: HaiLijuan
