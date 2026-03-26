@@ -10,7 +10,6 @@ repositories:
   - Ascend/AgentSDK
   - Ascend/ascendc-kernelgen-data
   committers:
-  - gitcode_id: Ascend_ljx
   - gitcode_id: yujinzheng
   - gitcode_id: dd5577854
   - gitcode_id: infzo
@@ -20,7 +19,6 @@ repositories:
   - gitcode_id: jm2787
   - gitcode_id: rxtfeng
   reviewers:
-  - gitcode_id: Ascend_ljx
   - gitcode_id: yujinzheng
   - gitcode_id: dd5577854
   - gitcode_id: infzo
