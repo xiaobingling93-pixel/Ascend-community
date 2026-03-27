@@ -13,6 +13,8 @@ repositories:
   - Ascend/RAGSDK
   - Ascend/mindsdk-referenceapps
   - Ascend/MindInferenceService
+  - Ascend/faiss
+  - Ascend/text-embeddings-inference
   committers:
   - gitcode_id: yihao1234
   - gitcode_id: wangyongjun
