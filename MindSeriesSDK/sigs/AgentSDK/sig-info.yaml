@@ -11,30 +11,64 @@ repositories:
   - Ascend/ascendc-kernelgen-data
   committers:
   - gitcode_id: yujinzheng
+    name: 于金正
   - gitcode_id: dd5577854
+    name: 狄啸
   - gitcode_id: infzo
+    name: 刘江
   - gitcode_id: ppzhou
+    name: 周治
   - gitcode_id: zhoujh125
+    name: 周进华
   - gitcode_id: xiejun207
+    name: 谢俊
   - gitcode_id: jm2787
+    name: 孟健
   - gitcode_id: rxtfeng
   reviewers:
   - gitcode_id: yujinzheng
+    name: 于金正
   - gitcode_id: dd5577854
+    name: 狄啸
   - gitcode_id: infzo
+    name: 刘江
   - gitcode_id: ppzhou
+    name: 周治
   - gitcode_id: zhoujh125
+    name: 周进华
   - gitcode_id: xiejun207
+    name: 谢俊
   - gitcode_id: jm2787
+    name: 孟健
   - gitcode_id: HLiuzp
+    name: 刘志飘
   - gitcode_id: duduzeng
+    name: 曾硕
   - gitcode_id: XIEGUOQING_A
+    name: 谢国庆
   - gitcode_id: lqh2025
+    name: 林琦宏
   - gitcode_id: yhbuse
+    name: 严华兵
   - gitcode_id: zhangqin2001
+    name: 张秦
   - gitcode_id: mmzhij
+    name: 孟杰
   - gitcode_id: xiexinyucrab
+    name: 谢昕宇
   - gitcode_id: qiulinyuan
+    name: 邱林源
   - gitcode_id: yanghw1111
+    name: 杨宏伟
   - gitcode_id: li_cen
+    name: 李岑
   - gitcode_id: linY0001
+    name: 林镱
+  - gitcode_id: uto
+    name: 刘涛
+  - gitcode_id: chadwweng
+    name: 翁旭涛
+  - gitcode_id: dailydeath
+    name: 高航
+  - gitcode_id: damttty
+    name: 叶羽铭
