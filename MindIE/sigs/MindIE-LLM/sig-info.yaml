@@ -52,6 +52,7 @@ repositories:
   - gitcode_id: martinXuc
   - gitcode_id: xiao-qing123
   - gitcode_id: ella07
+  - gitcode_id: hw-zhoutianyang
   branch_configs:
   - branch:
     - master
