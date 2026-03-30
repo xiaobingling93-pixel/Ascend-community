@@ -482,6 +482,7 @@ repositories:
   - gitcode_id: qinchuanyu
   - gitcode_id: fu-hao-huawei
   - gitcode_id: zhukkk
+  - gitcode_id: XDaoHong
   reviewers:
   - gitcode_id: wasd1111222
   - gitcode_id: medivh-x
@@ -503,12 +504,16 @@ repositories:
   - path:
     - docs
     committers:
-    - gitcode_id: wasd1111222
-    - gitcode_id: medivh-x
-    - gitcode_id: li_jing_hw
-    - gitcode_id: dingdairong
-    - gitcode_id: wangqiang160
-    - gitcode_id: yang-binrong
+  - gitcode_id: wasd1111222
+  - gitcode_id: medivh-x
+  - gitcode_id: li_jing_hw
+  - gitcode_id: dingdairong
+  - gitcode_id: wangqiang160
+  - gitcode_id: yang-binrong
+  - gitcode_id: qinchuanyu
+  - gitcode_id: fu-hao-huawei
+  - gitcode_id: zhukkk
+  - gitcode_id: XDaoHong
     reviewers:
     - gitcode_id: lee_jihae
     - gitcode_id: LQ1206

@@ -35,6 +35,12 @@ sigs:
       - gitcode_id: liangsongwei
         name: 梁松伟
         email: liangsongwei@huawei.com
+      - gitcode_id: wangqiang160
+        name: 王强
+        email: wangqiang160@hisilicon.com
+      - gitcode_id: XDaoHong
+        name: 徐道鸿
+        email: xudaohong@huawei.com
   - sig_name: others
     maintainers:
       - gitcode_id: Ginray1
