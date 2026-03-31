@@ -60,9 +60,9 @@
   <tr>
     <td>
       <span style="font-size:16px">MindStudio</span><br>
-      <span style="font-size:16px">・<a href="https://gitcode.com/Ascend/mstt">MindStudio Training Tools(msTT)</a> - 提供训练开发中常用分析迁移工具、精度调试工具、性能调优工具</span><br>
+      <span style="font-size:16px">・<a href="https://gitcode.com/Ascend/mstt">MindStudio Training Tools(msTT)</a> - 提供训练开发中常用的分析迁移工具、精度调试工具、性能调优等工具</span><br>
       <span style="font-size:16px">・<a href="https://gitcode.com/Ascend/msit">MindStudio Inference Tools(msIT)</a> - 提供推理开发中常用的模型压缩、模型调试调优等工具</span><br>
-      <span style="font-size:16px">・<a href="https://gitcode.com/Ascend/msot">MindStudio Operator Tools(msOT)</a> - 提供算子开发常用的异常检测、算子调试、性能调优等工具</span><br>
+      <span style="font-size:16px">・<a href="https://gitcode.com/Ascend/msot">MindStudio Operator Tools(msOT)</a> - 提供算子开发中常用的异常检测、算子调试、性能调优等工具</span><br>
     </td>
   </tr>
   <tr>
