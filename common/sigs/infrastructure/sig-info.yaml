@@ -62,16 +62,4 @@ repositories:
     - Ascend/infrastructure
     - Ascend/.gitcode
     - Ascend/ci-infra
-  - repo:
-    - Ascend/agent-skills
-    committers:
-      - gitcode_id: fyfugoyfa
-        name: 曾浩龙
-        email: zenghaolong@huawei.com
-      - gitcode_id: agent0
-        name: 占杰
-        email: zhanjie4@huawei.com
-      - gitcode_id: hejianping
-        name: 何建平
-        email: hejianping7@huawei.com
-
+ 
