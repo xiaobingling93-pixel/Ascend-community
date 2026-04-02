@@ -1,0 +1,6 @@
+name: perf-reference-ascend
+description: 华为昇腾perf-reference-ascend, 基础性能测试参考设计工具
+type: public
+branches:
+  - name: master
+    type: protected

@@ -88,7 +88,7 @@ repositories:
     - gitcode_id: chenyuanming008
     - gitcode_id: xiangjie10
 - repo:
-  - Ascend/TrustAiSDK
+  - Ascend/perf-reference-ascend
   committers:
   - gitcode_id: chenyuanming008
   - gitcode_id: xiangjie10
@@ -109,6 +109,8 @@ repositories:
   - gitcode_id: wang-ruiju
   - gitcode_id: yizixi_001
   - gitcode_id: jiang_xue_bo
+  - gitcode_id: zxorange_321
+  - gitcode_id: qq_36698204
 - repo: 
   - Ascend/HierarchicalKV-ascend 
   committers: 
