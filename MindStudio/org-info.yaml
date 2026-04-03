@@ -13,12 +13,6 @@ tc_members:
   - gitcode_id: wowenjie
     name: 沃文杰
     email: wowenjie@huawei.com
-  - gitcode_id: won40
-    name: 王世领
-    email: wangshiling2@huawei.com
-  - gitcode_id: Kuwatoro
-    name: 陈泽仁
-    email: chenzeren@huawei.com
   - gitcode_id: panyj1993
     name: 潘杨杰
     email: panyangjie@huawei.com
@@ -28,9 +22,18 @@ tc_members:
   - gitcode_id: kun_8
     name: 贺坤坤
     email: hekunkun@huawei.com
-  - gitcode_id: TsaiSyannTyuu
-    name: 蔡尚求
-    email: caishangqiu@huawei.com
+  - gitcode_id: yaohan404
+    name: 姚晗
+    email: yaohan8@huawei.com
+  - gitcode_id: went_code
+    name: 门飞飞
+    email: menfeifei@huawei.com
+  - gitcode_id: gong-siwei
+    name: 龚思维
+    email: gongsiwei@huawei.com
+  - gitcode_id: MTQ999
+    name: 马天琪
+    email: matianqi2@huawei.com
 
 sigs:
   - sig_name: sig-msit
