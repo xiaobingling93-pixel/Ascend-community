@@ -26,6 +26,7 @@ repositories:
   - gitcode_id: anyrenwei
   - gitcode_id: adrian07110
   - gitcode_id: chuboning
+  - gitcode_id: renyujin
   reviewers:
   - gitcode_id: li_jing_hw
   - gitcode_id: liwei386
@@ -50,6 +51,8 @@ repositories:
   - gitcode_id: chengpeng25
   - gitcode_id: daifu1234567
   - gitcode_id: liangsongwei
+  - gitcode_id: adrian07110
+  - gitcode_id: renyujin
   entry_configs:
   - path:
     - torch_npu/_inductor
@@ -77,6 +80,7 @@ repositories:
     - gitcode_id: liujunzhu
     - gitcode_id: crazyDannyBoy
     - gitcode_id: weizhan4
+    - gitcode_id: renyujin
     reviewers:
     - gitcode_id: yangkaixin
     - gitcode_id: rain-666
@@ -104,6 +108,8 @@ repositories:
     - gitcode_id: chengpeng25
     - gitcode_id: daifu1234567
     - gitcode_id: liangsongwei
+    - gitcode_id: adrian07110
+    - gitcode_id: renyujin
   - path:
     - torch_npu/distributed
     - torch_npu/csrc/distributed
@@ -124,6 +130,7 @@ repositories:
     - gitcode_id: chujinjin
     - gitcode_id: liujunzhu
     - gitcode_id: chuboning
+    - gitcode_id: adrian07110
     reviewers:
     - gitcode_id: kisnwang
     - gitcode_id: zhenyu10
@@ -151,6 +158,8 @@ repositories:
     - gitcode_id: chengpeng25
     - gitcode_id: daifu1234567
     - gitcode_id: liangsongwei
+    - gitcode_id: adrian07110
+    - gitcode_id: renyujin
   - path:
     - torch_npu/npu
     committers:
@@ -168,6 +177,8 @@ repositories:
     - gitcode_id: chujinjin
     - gitcode_id: liujunzhu
     - gitcode_id: chuboning
+    - gitcode_id: adrian07110
+    - gitcode_id: renyujin
     reviewers:
     - gitcode_id: daifu1234567
     - gitcode_id: liangsongwei
@@ -194,6 +205,8 @@ repositories:
     - gitcode_id: ffmh
     - gitcode_id: huangyunlong2022
     - gitcode_id: chengpeng25
+    - gitcode_id: adrian07110
+    - gitcode_id: renyujin
   - path:
     - torch_npu/profiler
     committers:
@@ -212,6 +225,8 @@ repositories:
     - gitcode_id: medivh-x
     - gitcode_id: chujinjin
     - gitcode_id: liujunzhu
+    - gitcode_id: adrian07110
+    - gitcode_id: renyujin
     reviewers:
     - gitcode_id: chenhao_1209
     - gitcode_id: wangchao285
@@ -236,6 +251,8 @@ repositories:
     - gitcode_id: chengpeng25
     - gitcode_id: daifu1234567
     - gitcode_id: liangsongwei
+    - gitcode_id: adrian07110
+    - gitcode_id: renyujin
   - path:
     - docs
     committers:
@@ -338,6 +355,8 @@ repositories:
     - gitcode_id: liangsongwei
     - gitcode_id: yuhaiyan
     - gitcode_id: AACAES
+    - gitcode_id: adrian07110
+    - gitcode_id: renyujin
 - repo:
   - Ascend/op-plugin
   committers:
