@@ -208,3 +208,20 @@ sigs:
       - gitcode_id: chenhao_1209
         name: 陈豪
         email: chenhao61@huawei.com
+  - sig_name: sig-msagent
+    maintainers:
+      - gitcode_id: wowenjie
+        name: 沃文杰
+        email: wowenjie@huawei.com
+      - gitcode_id: kali20gakki1
+        name: 张伟
+        email: zhangwei983@huawei.com
+      - gitcode_id: leo920320
+        name: 刘鹏程
+        email: liupengcheng8@huawei.com
+      - gitcode_id: kun_8
+        name: 贺坤坤
+        email: hekunkun@huawei.com
+      - gitcode_id: wangchao285
+        name: 王朝
+        email: wangchao285@huawei.com
