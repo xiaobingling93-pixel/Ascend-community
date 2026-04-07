@@ -31,6 +31,7 @@ repositories:
   - gitcode_id: libaokui
   - gitcode_id: EX_mitsuX
   - gitcode_id: Jia_Austin
+  - gitcode_id: Liz_
   entry_configs:
   - path:
       - docs
