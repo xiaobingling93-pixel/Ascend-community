@@ -74,6 +74,7 @@ repositories:
   - gitcode_id: jiuwen236
   - gitcode_id: caohuanqi
   - gitcode_id: m0_57292843
+  - gitcode_id: lijiang007
   branch_configs:
   - branch:
     - branch_v6.0.0
@@ -142,6 +143,7 @@ repositories:
   - gitcode_id: Fionazm 
   - gitcode_id: KingNineun 
   - gitcode_id: w30064656 
+  - gitcode_id: lijiang007
   branch_configs: 
   - branch: 
     - master 
