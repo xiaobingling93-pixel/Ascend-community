@@ -71,6 +71,28 @@ sigs:
       - gitcode_id: liyx616
         name: 李盈萱
         email: liyingxuan3@huawei.com
+  - sig_name: MindSpeed-Bridge
+    maintainers: 
+      - gitcode_id: leizhenzhen23
+        name: 雷珍珍
+        email: leizhenzhen4@huawei.com
+      - gitcode_id: dingzicha1997
+        name: 丁子霖
+        email: dingzilin@huawei.com
+      - gitcode_id: guozhihua2
+        name: 郭志华
+        email: guozhihua2@huawei.com
+  - sig_name: MindSpeed-Ops
+    maintainers:
+      - gitcode_id: liu_zhi_xu
+        name: 刘哲续
+        email: liuzhexu1@huawei.com
+      - gitcode_id: Ronald1995
+        name: 刘荣
+        email: liurong55@huawei.com
+      - gitcode_id: wangxiaoxin-sherie
+        name: 王晓歆
+        email: wangxiaoxin7@huawei.com
   - sig_name: TransferQueue
     maintainers: 
       - gitcode_id: hanzhenyu8

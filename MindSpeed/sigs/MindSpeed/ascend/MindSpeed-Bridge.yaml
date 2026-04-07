@@ -1,0 +1,6 @@
+name: MindSpeed-Bridge
+description: 提供昇腾适配的更多Bridge模型代码
+type: public
+branches:
+- name: master
+  type: protected
