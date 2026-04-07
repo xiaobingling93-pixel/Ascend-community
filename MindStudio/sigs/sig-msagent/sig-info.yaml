@@ -6,3 +6,35 @@ mentors: [ ]
 committers: [ ]
 reviewers: [ ]
 repositories:
+  - repo:
+      - Ascend/msagent
+    committers:
+      - gitcode_id: xhahn77
+      - gitcode_id: kali20gakki1
+      - gitcode_id: chenhao_1209
+      - gitcode_id: leo920320
+      - gitcode_id: wangchao285
+      - gitcode_id: kun_8
+      - gitcode_id: joejoezhou
+      - gitcode_id: wowenjie
+      - gitcode_id: panyj1993
+      - gitcode_id: ly-qianxiao0309
+      - gitcode_id: keith_wa
+      - gitcode_id: went_code
+      - gitcode_id: Martin_M
+      - gitcode_id: yaohan404
+    reviewers:
+      - gitcode_id: xhahn77
+      - gitcode_id: kali20gakki1
+      - gitcode_id: chenhao_1209
+      - gitcode_id: leo920320
+      - gitcode_id: wangchao285
+      - gitcode_id: kun_8
+      - gitcode_id: joejoezhou
+      - gitcode_id: wowenjie
+      - gitcode_id: panyj1993
+      - gitcode_id: ly-qianxiao0309
+      - gitcode_id: keith_wa
+      - gitcode_id: went_code
+      - gitcode_id: Martin_M
+      - gitcode_id: yaohan404
