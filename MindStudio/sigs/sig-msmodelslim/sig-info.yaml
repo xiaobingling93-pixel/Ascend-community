@@ -12,6 +12,7 @@ repositories:
   - gitcode_id: wowenjie
   - gitcode_id: panyj1993
   - gitcode_id: joejoezhou
+  - gitcode_id: wangjianxin
   reviewers:
   - gitcode_id: wowenjie
   - gitcode_id: panyj1993
@@ -21,3 +22,4 @@ repositories:
   - gitcode_id: joejoezhou
     gitcode_id: xzm123
   - gitcode_id: luyq11
+  - gitcode_id: yejiajun
