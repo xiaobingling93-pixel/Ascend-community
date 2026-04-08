@@ -9,16 +9,12 @@ repositories:
 - repo:
   - Ascend/DrivingSDK
   committers:
-  - gitcode_id: liuzhexu
-  - gitcode_id: zhangchenrui2
   - gitcode_id: jayhua
+  - gitcode_id: wangxiaoxin-sherie
   reviewers:
-  - gitcode_id: liuzhexu
-  - gitcode_id: zhuweichen
-  - gitcode_id: wangshihao_2025
   - gitcode_id: jayhua
   - gitcode_id: captain_jing
-  - gitcode_id: zhangchenrui2
+  - gitcode_id: wangxiaoxin-sherie
   - gitcode_id: zhang_qianqian46
   - gitcode_id: yuansunshun
   - gitcode_id: li-tiantian222
@@ -26,40 +22,45 @@ repositories:
   - gitcode_id: qiuqiu
   - gitcode_id: gsx1998
   - gitcode_id: HHHyyyjjjjj
-  - gitcode_id: zhttjd
   - gitcode_id: huangyuan64
   - gitcode_id: xiaohuizhu1037
   - gitcode_id: zjuxym
   - gitcode_id: gitdzy
+  - gitcode_id: bleed725
+  - gitcode_id: mrlw2026
   entry_configs:
   - path:
-    - kernels/op_host
+    - kernels
     committers:
-    - gitcode_id: liuzhexu
     - gitcode_id: jayhua
-    - gitcode_id: zhangchenrui2
+    - gitcode_id: wangxiaoxin-sherie
     reviewers:
     - gitcode_id: captain_jing
     - gitcode_id: zhang_qianqian46
-    - gitcode_id: zhangchenrui2
+    - gitcode_id: wangxiaoxin-sherie
     - gitcode_id: jayhua
+    - gitcode_id: HHHyyyjjjjj
+    - gitcode_id: huangyuan64
+    - gitcode_id: yuansunshun
   - path:
     - mx_driving/csrc
     committers:
-    - gitcode_id: liuzhexu
     - gitcode_id: jayhua
-    - gitcode_id: zhangchenrui2
+    - gitcode_id: wangxiaoxin-sherie
     reviewers:
     - gitcode_id: captain_jing
     - gitcode_id: zhang_qianqian46
-    - gitcode_id: zhangchenrui2
+    - gitcode_id: wangxiaoxin-sherie
     - gitcode_id: jayhua
+    - gitcode_id: HHHyyyjjjjj
+    - gitcode_id: huangyuan64
+    - gitcode_id: yuansunshun
   - path:
     - docs
     committers:
-    - gitcode_id: liuzhexu
-    - gitcode_id: zhangchenrui2
     - gitcode_id: jayhua
+    - gitcode_id: wangxiaoxin-sherie
     reviewers:
+    - gitcode_id: zhang_qianqian46
     - gitcode_id: lee_jihae
     - gitcode_id: lyx324521
