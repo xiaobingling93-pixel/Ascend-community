@@ -53,6 +53,7 @@ repositories:
   - gitcode_id: liangsongwei
   - gitcode_id: adrian07110
   - gitcode_id: renyujin
+  - gitcode_id: huangjingwei
   entry_configs:
   - path:
     - torch_npu/_inductor
