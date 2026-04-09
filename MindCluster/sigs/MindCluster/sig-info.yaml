@@ -28,6 +28,7 @@ repositories:
   - gitcode_id: liu1103xwxw
   - gitcode_id: shepherd-cheung
   - gitcode_id: yangpeng197
+  - gitcode_id: shanyuelanhua
   reviewers:
   - gitcode_id: Datoo-J
   - gitcode_id: swagglian_gitcode
@@ -87,6 +88,7 @@ repositories:
   - gitcode_id: Crookiebird
   - gitcode_id: cqchou
   - gitcode_id: Wenlin7150
+  - gitcode_id: tianaq
   branch_configs:
   - branch:
     - branch_v5.0.0
