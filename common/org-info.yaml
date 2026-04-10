@@ -137,3 +137,17 @@ sigs:
       - gitcode_id: tian-shengzhao
         name: 田晟兆
         email: tianshengzhao@huawei.com
+  - sig_name: model-agent
+    maintainers:
+      - gitcode_id: cats7777
+        name: 胡晓曼
+        email: charlotte77_hu@sina.com
+      - gitcode_id: raintBN
+        name: 焦泽昱
+        email: jiaozeyu2@huawei.com
+      - gitcode_id: ShaohonChen
+        name: 陈少宏
+        email: shaohon_chen@115lab.club
+      - gitcode_id: ZeYiLin
+        name: 林泽毅
+        email: zeyi.lin@swanhub.co

@@ -1,0 +1,6 @@
+name: model-agent
+description: "昇腾模型 Agent，大模型落地全流程一键通！查适配、做调优、快部署、稳上线，文档一键生成，一站式搞定无压力！"
+type: public
+branches:
+  - name: master
+    type: protected
