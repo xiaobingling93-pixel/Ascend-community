@@ -11,7 +11,6 @@ repositories:
   - Ascend/MultimodalSDK
   - Ascend/VisionSDK
   - Ascend/RAGSDK
-  - Ascend/mindsdk-referenceapps
   - Ascend/MindInferenceService
   - Ascend/faiss
   - Ascend/text-embeddings-inference
@@ -31,3 +30,27 @@ repositories:
   - gitcode_id: tree-zby
   - gitcode_id: evanTang
   - gitcode_id: chadwweng
+- repo:
+  - Ascend/mindsdk-referenceapps
+  committers:
+  - gitcode_id: yihao1234
+  - gitcode_id: wangyongjun
+  - gitcode_id: dd5577854
+  - gitcode_id: xiangjie10
+  - gitcode_id: yujinzheng
+  reviewers:
+  - gitcode_id: janusdu
+  - gitcode_id: printSSS
+  - gitcode_id: qanly97
+  - gitcode_id: chasefhb
+  - gitcode_id: dailydeath
+  - gitcode_id: damttty
+  - gitcode_id: tree-zby
+  - gitcode_id: evanTang
+  - gitcode_id: chadwweng
+  entry_configs:
+  - path:
+    - AgentSDK/data_generation_platform
+    committers:
+    - gitcode_id: mulderlover
+      name: 胡贇
