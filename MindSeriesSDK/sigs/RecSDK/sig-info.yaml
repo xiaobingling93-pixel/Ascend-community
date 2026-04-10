@@ -21,6 +21,7 @@ repositories:
   - gitcode_id: pluto1314
   - gitcode_id: spangebobo
   - gitcode_id: wydewy
+  - gitcode_id: majunwang_huawei
   - gitcode_id: FngSeven
   reviewers:  &recsdk_reviewers
   - gitcode_id: zxorange_321
@@ -63,6 +64,7 @@ repositories:
   - gitcode_id: zmingh
   - gitcode_id: Ronald_Z
   - gitcode_id: wydewy
+  - gitcode_id: majunwang_huawei
   - gitcode_id: hjj12345678_
   - gitcode_id: AICore
   - gitcode_id: whds5279
