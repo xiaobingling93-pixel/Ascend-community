@@ -1,0 +1,6 @@
+name: MindSpeed-Ops
+description: 提供昇腾优化的训练业务自定义算子实现
+type: public
+branches:
+- name: master
+  type: protected

@@ -1,0 +1,51 @@
+name: MindSpeed-Bridge
+description: 提供昇腾适配的更多Bridge模型代码
+mailing_list: NA
+meeting_url: NA
+mentors: []
+committers: []
+reviewers: []
+repositories:
+- repo:
+  - Ascend/MindSpeed-Bridge
+  committers:
+  - gitcode_id: leizhenzhen23
+  - gitcode_id: dingzicha1997
+  - gitcode_id: guozhihua2
+  reviewers:
+  - gitcode_id: leizhenzhen23
+  - gitcode_id: dingzicha1997
+  - gitcode_id: guozhihua2
+  - gitcode_id: iansheng
+  - gitcode_id: yanzhixiao23
+  - gitcode_id: qyzqyz
+  - gitcode_id: guihaowen666
+  - gitcode_id: sunjunjie1587
+  - gitcode_id: HANHU1CHEN
+  - gitcode_id: cjy840282
+  - gitcode_id: tichang
+  - gitcode_id: LinShua
+  entry_configs:
+  - path:
+    - docs
+    committers:
+    - gitcode_id: leizhenzhen23
+    - gitcode_id: dingzicha1997
+    - gitcode_id: guozhihua2
+    reviewers:
+    - gitcode_id: lee_jihae
+    - gitcode_id: kali00
+    - gitcode_id: LQ1206
+    - gitcode_id: leizhenzhen23
+    - gitcode_id: dingzicha1997
+    - gitcode_id: guozhihua2
+    - gitcode_id: iansheng
+    - gitcode_id: yanzhixiao23
+    - gitcode_id: qyzqyz
+    - gitcode_id: guihaowen666
+    - gitcode_id: sunjunjie1587
+    - gitcode_id: HANHU1CHEN
+    - gitcode_id: cjy840282
+    - gitcode_id: tichang
+    - gitcode_id: zhyebin01
+    - gitcode_id: LinShua
