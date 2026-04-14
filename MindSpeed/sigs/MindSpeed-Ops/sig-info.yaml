@@ -10,12 +10,20 @@ repositories:
   - Ascend/MindSpeed-Ops
   committers:
   - gitcode_id: liu_zhi_xu
-  - gitcode_id: Ronald1995
-  - gitcode_id: wangxiaoxin-sherie
+  - gitcode_id: Ginray1
+  - gitcode_id: hhhzhuyizhi
   - gitcode_id: leizhenzhen23
-  - gitcode_id: dingzicha1997
-  - gitcode_id: guozhihua2
+  - gitcode_id: bigdog1206
+  - gitcode_id: zhoubeirong
+  - gitcode_id: jayhua
+  - gitcode_id: JialiZheng1
   reviewers:
+  - gitcode_id: Ginray1
+  - gitcode_id: hhhzhuyizhi
+  - gitcode_id: bigdog1206
+  - gitcode_id: zhoubeirong
+  - gitcode_id: jayhua
+  - gitcode_id: JialiZheng1
   - gitcode_id: liu_zhi_xu
   - gitcode_id: Ronald1995
   - gitcode_id: wangxiaoxin-sherie
@@ -32,32 +40,38 @@ repositories:
   - gitcode_id: tichang
   - gitcode_id: LinShua
   - gitcode_id: zhizaidicengshehua
+  - gitcode_id: guofanfeng23
+  - gitcode_id: feng0w0
+  - gitcode_id: LinMingZhe
+  - gitcode_id: zheliuyu
+  - gitcode_id: gitcode_lhp
+  - gitcode_id: zjchenn
   entry_configs:
   - path:
     - docs
     committers:
     - gitcode_id: liu_zhi_xu
-    - gitcode_id: Ronald1995
-    - gitcode_id: wangxiaoxin-sherie
+    - gitcode_id: Ginray1
+    - gitcode_id: hhhzhuyizhi
     - gitcode_id: leizhenzhen23
-    - gitcode_id: dingzicha1997
-    - gitcode_id: guozhihua2
+    - gitcode_id: bigdog1206
+    - gitcode_id: zhoubeirong
+    - gitcode_id: jayhua
+    - gitcode_id: JialiZheng1
     reviewers:
-    - gitcode_id: lee_jihae
-    - gitcode_id: kali00
-    - gitcode_id: LQ1206
     - gitcode_id: liu_zhi_xu
-    - gitcode_id: Ronald1995
-    - gitcode_id: wangxiaoxin-sherie
+    - gitcode_id: Ginray1
+    - gitcode_id: hhhzhuyizhi
     - gitcode_id: leizhenzhen23
-    - gitcode_id: dingzicha1997
-    - gitcode_id: guozhihua2
-    - gitcode_id: yanzhixiao23
-    - gitcode_id: qyzqyz
-    - gitcode_id: guihaowen666
-    - gitcode_id: sunjunjie1587
-    - gitcode_id: HANHU1CHEN
-    - gitcode_id: cjy840282
-    - gitcode_id: tichang
-    - gitcode_id: zhyebin01
+    - gitcode_id: bigdog1206
+    - gitcode_id: zhoubeirong
+    - gitcode_id: jayhua
+    - gitcode_id: JialiZheng1
     - gitcode_id: LinShua
+    - gitcode_id: zhizaidicengshehua
+    - gitcode_id: guofanfeng23
+    - gitcode_id: feng0w0
+    - gitcode_id: LinMingZhe
+    - gitcode_id: zheliuyu
+    - gitcode_id: gitcode_lhp
+    - gitcode_id: zjchenn
