@@ -48,7 +48,7 @@ pre-commit run
 
 ### 5. 提交代码
 
-若代码有违反pre-commit检测的相关规则，提交会失败。可自动修复的格式问题请按第4步操作消除，并人工解决其它不能自动修复的问题后再行commit。
+钩子安装成功后，提交代码时可自动修复代码格式类问题，若没有其他不能自动修复的代码问题可提交成功；否则会提交失败，请人工解决其它不能自动修复的问题后再行commit。
 
 ```bash
 git add .
@@ -63,7 +63,38 @@ git commit -S -m "test"
 
 仅对单行、代码块屏蔽指定检测，不影响全局，精细化管控，推荐日常使用。大部分格式化、校验工具（如clang-format、ruff、black、isort等），均可使用**off/on**语法控制屏蔽范围，语法通用，用法一致。
 
-#### 1. 代码块屏蔽（通用off/on语法）
+#### 1. 单行代码屏蔽
+
+在单行代码末尾添加注释，仅对当前一行生效，精准屏蔽，不影响其他代码。
+
+##### Python（ruff/flake8）
+
+```python
+# 跳过指定规则
+import unused_module  # noqa: F401
+# 跳过单行所有检查
+long_code_line  # noqa
+```
+
+##### C/C++（clang-tidy/clang-format）
+
+```cpp
+// 跳过指定clang-tidy规则
+int num;  // NOLINT(modernize-use-auto)
+// 跳过单行全部检查
+int value;  // NOLINT
+```
+
+##### Go语言
+
+```go
+// 跳过指定规则
+var unused_str string  //nolint:unused
+// 跳过单行全部检查
+var temp_num int  //nolint
+```
+
+#### 2. 代码块屏蔽（通用off/on语法）
 
 对一段连续代码屏蔽指定检查项，关闭后记得用on恢复，不影响后续代码检测。
 
@@ -104,37 +135,6 @@ import os
 import sys
 import json
 # isort: on
-```
-
-#### 2. 单行代码屏蔽
-
-在单行代码末尾添加注释，仅对当前一行生效，精准屏蔽，不影响其他代码。
-
-##### Python（ruff/flake8）
-
-```python
-# 跳过指定规则
-import unused_module  # noqa: F401
-# 跳过单行所有检查
-long_code_line  # noqa
-```
-
-##### C/C++（clang-tidy/clang-format）
-
-```cpp
-// 跳过指定clang-tidy规则
-int num;  // NOLINT(modernize-use-auto)
-// 跳过单行全部检查
-int value;  // NOLINT
-```
-
-##### Go语言
-
-```go
-// 跳过指定规则
-var unused_str string  //nolint:unused
-// 跳过单行全部检查
-var temp_num int  //nolint
 ```
 
 ### 两种常用屏蔽语法区别
