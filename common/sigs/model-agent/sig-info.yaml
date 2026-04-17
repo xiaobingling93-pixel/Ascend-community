@@ -13,3 +13,6 @@ committers:
   - gitcode_id: wy746801669wy
     name: 王岩
     email: 13141201042@163.com
+repositories:
+  - repo:
+    - Ascend/model-agent
