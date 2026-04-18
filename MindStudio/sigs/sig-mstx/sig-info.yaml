@@ -9,32 +9,25 @@ repositories:
 - repo:
   - Ascend/mstx
   committers:
-  - gitcode_id: won40
   - gitcode_id: wiyr0
-  - gitcode_id: uniteone001
   - gitcode_id: went_code
-  - gitcode_id: Kuwatoro
   - gitcode_id: gong-siwei
   - gitcode_id: yan_yw
   - gitcode_id: MTQ999
   reviewers:
-  - gitcode_id: won40
   - gitcode_id: wiyr0
-  - gitcode_id: uniteone001
   - gitcode_id: went_code
   - gitcode_id: AiBoGe
   - gitcode_id: cycoe
-  - gitcode_id: Kuwatoro
   - gitcode_id: gong-siwei
   - gitcode_id: mcj_0910
   - gitcode_id: yan_yw
   - gitcode_id: zzzsss1234
-  - gitcode_id: panzhaohu
   - gitcode_id: MTQ999
   - gitcode_id: liusa002
-  - gitcode_id: likang134
   - gitcode_id: RainbowWhp
   - gitcode_id: zsz_wlf
   - gitcode_id: lishuokp31
+  - gitcode_id: h-glue
   - gitcode_id: xzm123
   - gitcode_id: luyq11

@@ -57,15 +57,15 @@ sigs:
         email: caishangqiu@huawei.com
   - sig_name: sig-msot
     maintainers:
-      - gitcode_id: won40
-        name: 王世领
-        email: wangshiling2@huawei.com
-      - gitcode_id: Kuwatoro
-        name: 陈泽仁
-        email: chenzeren@huawei.com
       - gitcode_id: went_code
         name: 门飞飞
         email: menfeifei@huawei.com
+      - gitcode_id: gong-siwei
+        name: 龚思维
+        email: gongsiwei@huawei.com
+      - gitcode_id: MTQ999
+        name: 马天琪
+        email: matianqi2@huawei.com
   - sig_name: sig-msinsight
     maintainers:
       - gitcode_id: ly-qianxiao0309
@@ -124,12 +124,15 @@ sigs:
       - gitcode_id: aerfaliang
         name: 梁朝明
         email: liangchaoming@huawei.com
-      - gitcode_id: Kuwatoro
-        name: 陈泽仁
-        email: chenzeren@huawei.com
-      - gitcode_id: won40
-        name: 王世领
-        email: wangshiling2@huawei.com
+      - gitcode_id: went_code
+        name: 门飞飞
+        email: menfeifei@huawei.com
+      - gitcode_id: gong-siwei
+        name: 龚思维
+        email: gongsiwei@huawei.com
+      - gitcode_id: MTQ999
+        name: 马天琪
+        email: matianqi2@huawei.com
       - gitcode_id: chenhao_1209
         name: 陈豪
         email: chenhao61@huawei.com
@@ -185,21 +188,18 @@ sigs:
         email: yaohan8@huawei.com
   - sig_name: sig-mstx
     maintainers:
-      - gitcode_id: won40
-        name: 王世领
-        email: wangshiling2@huawei.com
-      - gitcode_id: Kuwatoro
-        name: 陈泽仁
-        email: chenzeren@huawei.com
       - gitcode_id: went_code
         name: 门飞飞
         email: menfeifei@huawei.com
-      - gitcode_id: aerfaliang
-        name: 梁朝明
-        email: liangchaoming@huawei.com
-      - gitcode_id: justice1717
-        name: 郑义
-        email: zhengyi50@huawei.com
+      - gitcode_id: gong-siwei
+        name: 龚思维
+        email: gongsiwei@huawei.com
+      - gitcode_id: MTQ999
+        name: 马天琪
+        email: matianqi2@huawei.com
+      - gitcode_id: chenhao_1209
+        name: 陈豪
+        email: chenhao61@huawei.com
   - sig_name: sig-msmonitor
     maintainers:
       - gitcode_id: kali20gakki1

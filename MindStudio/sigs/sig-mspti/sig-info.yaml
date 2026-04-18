@@ -13,6 +13,10 @@ repositories:
   - gitcode_id: aerfaliang
   - gitcode_id: chenhao_1209
   - gitcode_id: kali20gakki1
+  - gitcode_id: went_code
+  - gitcode_id: gong-siwei
+  - gitcode_id: MTQ999
+  - gitcode_id: yan_yw
   reviewers:
   - gitcode_id: aerfaliang
   - gitcode_id: chenhao_1209
@@ -23,3 +27,7 @@ repositories:
   - gitcode_id: xzm123
   - gitcode_id: cai-weiwei1989
   - gitcode_id: mei-feiyao
+  - gitcode_id: went_code
+  - gitcode_id: gong-siwei
+  - gitcode_id: MTQ999
+  - gitcode_id: yan_yw
