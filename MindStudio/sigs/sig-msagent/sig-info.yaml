@@ -23,6 +23,10 @@ repositories:
       - gitcode_id: went_code
       - gitcode_id: Martin_M
       - gitcode_id: yaohan404
+      - gitcode_id: wiyr0
+      - gitcode_id: gong-siwei
+      - gitcode_id: yan_yw
+      - gitcode_id: MTQ999
     reviewers:
       - gitcode_id: xhahn77
       - gitcode_id: kali20gakki1
@@ -38,3 +42,9 @@ repositories:
       - gitcode_id: went_code
       - gitcode_id: Martin_M
       - gitcode_id: yaohan404
+      - gitcode_id: wiyr0
+      - gitcode_id: AiBoGe
+      - gitcode_id: gong-siwei
+      - gitcode_id: yan_yw
+      - gitcode_id: MTQ999
+      - gitcode_id: RainbowWhp
