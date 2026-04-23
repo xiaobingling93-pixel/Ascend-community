@@ -77,6 +77,9 @@ repositories:
   - gitcode_id: caohuanqi
   - gitcode_id: m0_57292843
   - gitcode_id: lijiang007
+  - gitcode_id: YYTYY_
+  - gitcode_id: huhaoliang26
+  - gitcode_id: Zhz_Bey
   branch_configs:
   - branch:
     - branch_v6.0.0
