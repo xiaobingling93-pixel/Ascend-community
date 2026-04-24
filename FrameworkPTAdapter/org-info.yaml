@@ -2,56 +2,40 @@ name: FrameworkPTAdapter
 description: 昇腾平台提供了PyTorch适配插件Ascend Extension for PyTorch，使得原生PyTorch模型可以方便的在昇腾平台上执行。
 tc_members:
   - gitcode_id: li_jing_hw
-    name: 李晶
     email: lijing202@huawei.com
   - gitcode_id: liwei386
-    name: 李伟
     email: liwei386@huawei.com
   - gitcode_id: htchu
-    name: 楚浩田
     email: chuhaotian2@huawei.com
   - gitcode_id: dilililiwhy
-    name: 吴环宇
     email: why.wuhuanyu@huawei.com
   - gitcode_id: shaoyf
-    name: 邵逸凡
     email: shaoyifan1@huawei.com
 
 sigs:
   - sig_name: pytorch
     maintainers: 
       - gitcode_id: liwei386
-        name: 李伟
         email: liwei386@huawei.com
       - gitcode_id: shaoyf
-        name: 邵逸凡
         email: shaoyifan1@huawei.com
       - gitcode_id: htchu
-        name: 楚浩田
         email: chuhaotian2@huawei.com
       - gitcode_id: dilililiwhy
-        name: 吴环宇
         email: why.wuhuanyu@huawei.com
       - gitcode_id: liangsongwei
-        name: 梁松伟
         email: liangsongwei@huawei.com
       - gitcode_id: wangqiang160
-        name: 王强
         email: wangqiang160@hisilicon.com
       - gitcode_id: XDaoHong
-        name: 徐道鸿
         email: xudaohong@huawei.com
   - sig_name: others
     maintainers:
       - gitcode_id: Ginray1
-        name: 孙银磊
         email: 18667882700@163.com
       - gitcode_id: fightingzhen
-        name: 丛臻
         email: congzhen@huawei.com
       - gitcode_id: jihuazhong
-        name: 季华忠
         email: jihuazhong1@huawei.com
       - gitcode_id: dilililiwhy
-        name: 吴环宇
         email: why.wuhuanyu@huawei.com

@@ -110,6 +110,7 @@ repositories:
     - gitcode_id: liangsongwei
     - gitcode_id: adrian07110
     - gitcode_id: renyujin
+    - gitcode_id: TonyYA
   - path:
     - torch_npu/distributed
     - torch_npu/csrc/distributed
@@ -356,6 +357,7 @@ repositories:
     - gitcode_id: AACAES
     - gitcode_id: adrian07110
     - gitcode_id: renyujin
+    - gitcode_id: TonyYA
 - repo:
   - Ascend/op-plugin
   committers:
@@ -398,6 +400,7 @@ repositories:
   - gitcode_id: adrian07110
   - gitcode_id: yuhaiyan
   - gitcode_id: AACAES
+  - gitcode_id: TonyYA
   entry_configs:
   - path:
     - docs
