@@ -16,38 +16,70 @@ repositories:
   - Ascend/text-embeddings-inference
   committers:
   - gitcode_id: yihao1234
+    name: 易浩
   - gitcode_id: wangyongjun
+    name: 王永俊
   - gitcode_id: dd5577854
+    name: 狄啸
   - gitcode_id: xiangjie10
+    name: 向杰
   - gitcode_id: yujinzheng
+    name: 于金正
   reviewers:
   - gitcode_id: janusdu
+    name: 杜利强
   - gitcode_id: printSSS
+    name: 王婷
   - gitcode_id: qanly97
+    name: 马千里
   - gitcode_id: chasefhb
+    name: 付泓犇
   - gitcode_id: dailydeath
+    name: 高航
   - gitcode_id: damttty
+    name: 叶羽铭
   - gitcode_id: tree-zby
+    name: 朱伯扬
   - gitcode_id: evanTang
+    name: 唐灿辉
   - gitcode_id: chadwweng
+    name: 翁旭涛
+  - gitcode_id: gcw_npKwvWT2
+    name: 兰鑫
 - repo:
   - Ascend/mindsdk-referenceapps
   committers:
   - gitcode_id: yihao1234
+    name: 易浩
   - gitcode_id: wangyongjun
+    name: 王永俊
   - gitcode_id: dd5577854
+    name: 狄啸
   - gitcode_id: xiangjie10
+    name: 向杰
   - gitcode_id: yujinzheng
+    name: 于金正
   reviewers:
   - gitcode_id: janusdu
+    name: 杜利强
   - gitcode_id: printSSS
+    name: 王婷
   - gitcode_id: qanly97
+    name: 马千里
   - gitcode_id: chasefhb
+    name: 付泓犇
   - gitcode_id: dailydeath
+    name: 高航
   - gitcode_id: damttty
+    name: 叶羽铭
   - gitcode_id: tree-zby
+    name: 朱伯扬
   - gitcode_id: evanTang
+    name: 唐灿辉
   - gitcode_id: chadwweng
+    name: 翁旭涛
+  - gitcode_id: gcw_npKwvWT2
+    name: 兰鑫
   entry_configs:
   - path:
     - AgentSDK/data_generation_platform
