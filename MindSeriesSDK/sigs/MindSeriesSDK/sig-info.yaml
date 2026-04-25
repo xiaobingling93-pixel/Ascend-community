@@ -46,6 +46,12 @@ repositories:
     name: 翁旭涛
   - gitcode_id: gcw_npKwvWT2
     name: 兰鑫
+  branch_configs:
+  - branch:
+    - branch_v26.0.0
+    branch_keeper:                    #branch_keeper指仓库某个分支的版本经理角色，此角色有权限对PR评论/merge，打上keeper_approved标签
+    - gitcode_id: chenyuanming008
+    - gitcode_id: xiangjie10
 - repo:
   - Ascend/mindsdk-referenceapps
   committers:
